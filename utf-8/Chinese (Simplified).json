@@ -1,0 +1,5148 @@
+{
+    "NewGame": "新游戏",
+    "New Game Tooltip": "进入海洋世界",
+    "ContinueGame": "继续游戏",
+    "Exit Tooltip": "浮上水面",
+    "Survival": "生存模式",
+    "Freedom": "自由模式",
+    "Hardcore": "极限模式",
+    "Back": "返回",
+    "LatestNews": "最新消息",
+    "NewsLoading": "正在加载",
+    "Language": "语言",
+    "Resolution": "分辨率",
+    "FieldOfView": "视野",
+    "Vsync": "垂直同步",
+    "Options": "选项",
+    "OptionsTooltip": "登艇前",
+    "DevelopmentVersion": "开发中版本",
+    "InventoryFull": "物品栏满了",
+    "RadiationDetected": "检测到辐射",
+    "Quartz": "石英",
+    "ScrapMetal": "可回收金属",
+    "Limestone": "石灰岩角",
+    "Copper": "铜矿石",
+    "CopperWire": "铜线",
+    "Salt": "盐块",
+    "Placeholder": "半成品",
+    "Glass": "玻璃",
+    "EnameledGlass": "釉瓷玻璃",
+    "Titanium": "钛",
+    "TitaniumIngot": "钛锭",
+    "PlasteelIngot": "塑钢锭",
+    "Silver": "银矿石",
+    "Gold": "金块",
+    "Lodestone": "磁石",
+    "WiringKit": "接线盒",
+    "AdvancedWiringKit": "高级接线盒",
+    "ComputerChip": "智能芯片",
+    "Diamond": "钻石",
+    "MODULES": "模块",
+    "AddedToInventory": "加入物品栏",
+    "BreakLimestone": "敲碎石灰岩",
+    "BreakSandstone": "敲碎砂石",
+    "BreakShale": "敲碎页岩",
+    "BreakBasalt": "敲碎玄武岩",
+    "BreakObsidian": "敲碎黑曜石岩",
+    "Fabricator": "工作台",
+    "UseFabricator": "使用工作台",
+    "Locker": "储物柜",
+    "Spotlight": "探照灯",
+    "Reinforce hull": "加固船体",
+    "Aquarium": "水族箱",
+    "EnterSeamoth": "进入海蛾号",
+    "NoSeamothDocked": "无海蛾号停泊",
+    "DiveSuit": "潜水服",
+    "ShipComputer": "船载计算机",
+    "Fins": "脚蹼",
+    "RadiationSuit": "防辐射服",
+    "Tank": "标准氧气瓶",
+    "Battery": "电池",
+    "Builder": "建造枪",
+    "Knife": "生存匕首",
+    "Drill": "电钻",
+    "Flashlight": "手电筒",
+    "Beacon": "信标",
+    "Bleach": "漂白剂",
+    "CurrentGenerator": "交流发电机",
+    "PowerCell": "动力电池",
+    "DiveReel": "水下导索",
+    "Rebreather": "循环呼吸器",
+    "Welder": "焊接器",
+    "Constructor": "载具舱",
+    "UseConstructor": "使用",
+    "Transfuser": "基因提取枪",
+    "Flare": "照明弹",
+    "StasisRifle": "凝滞枪",
+    "Observatory": "观景台",
+    "Audiolog": "语音日志",
+    "SafeShallowsEgg": "浅滩蛋",
+    "KelpForestEgg": "海藻森林蛋",
+    "GrassyPlateausEgg": "血藻高原蛋",
+    "GrandReefsEgg": "平原蛋",
+    "MushroomForestEgg": "蘑菇森林蛋",
+    "KooshZoneEgg": "库什区蛋",
+    "TwistyBridgesEgg": "曲桥蛋",
+    "LavaZoneEgg": "岩浆蛋",
+    "Workbench": "高级工作台",
+    "Tooltip_Workbench": "更先进的设备生产装置",
+    "SpecialHullPlate": "船体板",
+    "Tooltip_SpecialHullPlate": "限量船体板",
+    "Seamoth": "海蛾号",
+    "Exosuit": "海虾动力盔甲",
+    "PropulsionCannon": "冲击炮",
+    "SandLoot": "沙子",
+    "Signal": "信号",
+    "BallClusters": "树卵",
+    "BarnacleSuckers": "海蛭",
+    "BlueBarnacle": "蓝色藤壶",
+    "BlueBarnacleCluster": "蓝色藤壶簇",
+    "BlueCoralTubes": "蓝色珊瑚管",
+    "RedGrass": "血草",
+    "GreenGrass": "绿草",
+    "CreepvinePiece": "海藻块",
+    "Mohawk": "莫霍克草",
+    "GreenReeds": "斑点苇",
+    "JellyPlant": "凝胶球",
+    "BlueJeweledDisk": "蓝宝石盘",
+    "GreenJeweledDisk": "绿宝石盘",
+    "PurpleJeweledDisk": "紫宝石盘",
+    "RedJeweledDisk": "红宝石盘",
+    "SmallKoosh": "小型库什",
+    "MediumKoosh": "普通库什",
+    "LargeKoosh": "大型库什",
+    "HugeKoosh": "巨型库什",
+    "MembrainTree": "脑膜树",
+    "PurpleFan": "紫扇草",
+    "AcidMushroom": "酸性蘑菇",
+    "PurpleTentacle": "触手草",
+    "RedSeaweed": "血藻",
+    "CoralShellPlate": "珊瑚板",
+    "SmallFan": "小风扇",
+    "SmallFanCluster": "小风扇群",
+    "BigCoralTubes": "大珊瑚管",
+    "TreeMushroom": "树状蘑菇",
+    "BlueCluster": "格鲁草簇",
+    "BrownTubes": "棕色珊瑚管",
+    "BloodGrass": "血藻",
+    "JeweledDiskPiece": "宝石盘碎片",
+    "CoralChunk": "珊瑚管样本",
+    "KooshChunk": "库什样本",
+    "StalkerTooth": "潜行者的牙",
+    "SmallStorage": "防水储物柜",
+    "SeamothFragment": "海蛾号碎片",
+    "StasisRifleFragment": "凝滞枪碎片",
+    "ExosuitFragment": "海虾动力盔甲碎片",
+    "TransfuserFragment": "基因提取枪碎片",
+    "TerraformerFragment": "地形改造器碎片",
+    "ReinforceHullFragment": "独眼巨人号深度模块碎片",
+    "WorkbenchFragment": "高级工作台碎片",
+    "FabricatorBlueprint": "工作台蓝图",
+    "ConstructorBlueprint": "载具舱蓝图",
+    "CyclopsBlueprint": "独眼巨人号蓝图",
+    "SeamothBlueprint": "海蛾号蓝图",
+    "StasisRifleBlueprint": "凝滞枪蓝图",
+    "ExosuitBlueprint": "海虾动力盔甲蓝图",
+    "TransfuserBlueprint": "基因提取枪蓝图",
+    "TerraformerBlueprint": "地形改造器蓝图",
+    "ReinforceHullBlueprint": "船体加固模块蓝图",
+    "WorkbenchBlueprint": "高级工作台蓝图",
+    "Boulder": "巨石",
+    "HangingStinger": "毒刺",
+    "SpikePlant": "虎皮草",
+    "FilteredWater": "过滤净水",
+    "DisinfectedWater": "未污染的水",
+    "CookedPeeper": "烤熟的大眼仔",
+    "CookedHoleFish": "烤熟的洞洞鱼",
+    "CookedHoopfish": "烤熟的圈圈鱼",
+    "CookedGarryFish": "烤熟的咖喱鱼",
+    "CookedReginald": "烤熟的雷纳鱼",
+    "CookedBladderfish": "烤熟的泡泡鱼",
+    "CookedHoverfish": "烤熟的吸盘鱼",
+    "CookedSpadefish": "烤熟的铁锹鱼",
+    "CookedBoomerang": "烤熟的飞镖鱼",
+    "CookedEyeye": "烤熟的小眼仔",
+    "CookedOculus": "烤熟的鬼眼鱼",
+    "Unobtanium": "常温超导体",
+    "Creepvine": "海藻",
+    "HoleFish": "洞洞鱼",
+    "Jumper": "跳跳鱼",
+    "Peeper": "大眼仔",
+    "Oculus": "鬼眼鱼",
+    "Hoopfish": "圈圈鱼",
+    "RabbitRay": "兔子鱼",
+    "GarryFish": "咖喱鱼",
+    "Slime": "史莱姆",
+    "Crash": "自爆鱼",
+    "Boomerang": "飞镖鱼",
+    "LavaLarva": "熔岩虫",
+    "Stalker": "潜行者",
+    "Eyeye": "小眼仔",
+    "Bloom": "泛光",
+    "Bladderfish": "泡泡鱼",
+    "Hoverfish": "吸盘鱼",
+    "Jellyray": "水母鳐",
+    "Reefback": "礁背鱼",
+    "Reginald": "雷纳鱼",
+    "Spadefish": "铁锹鱼",
+    "Grabcrab": "抓抓蟹",
+    "Floater": "漂浮者",
+    "Gasopod": "毒气鱼",
+    "Sandshark": "沙鲨",
+    "Player": "玩家",
+    "AirBladder": "气囊",
+    "MeterSuffix": "米",
+    "SUB DEPTH": "潜艇深度",
+    "ECOSYSTEM": "生态系统",
+    "BATHSPHERE": "浴球",
+    "BLOOD SUGAR": "血糖",
+    "FOOD": "食物",
+    "H20": "水",
+    "Initializing dive suit HUD...": "潜水服显示界面-正在初始化......",
+    "Initializing objectives...": "初始化目标……",
+    "|": "|",
+    "Demo time": "演示时间",
+    "InventorySecured": "物品已保存",
+    "THANK YOU FOR PLAYING": "感谢游戏",
+    "PRIMARY": "主要",
+    "SECONDARY": "次要",
+    "Drop loot onto Constructor": "放置材料",
+    "DeployConstructor": "投放载具舱",
+    "DeployConstructorInWater": "载具舱必须在水里使用！",
+    "<UnImplemented>": "（暂未实装）",
+    "<Bullet>": "•",
+    "DontHaveNeededIngredients": "你没有所需的材料！",
+    "YouDied": "你死了。",
+    "YouDiedLostStuff": "你死了，并且失去了一些物品。",
+    "OXYGEN": "空气",
+    "How likely are you to recommend this game to a friend?": "你会把这个游戏推荐给你的朋友吗?",
+    "Submit": "提交",
+    "WASD to pilot, SPACE\/C for vertical, E to exit": "W\/A\/S\/D键移动， 空格\/C键上浮\/下潜，E键退出",
+    "I": "我",
+    "TRANSFUSER SERUM": "提取血清",
+    "PLAYER EFFECTS": "玩家特效",
+    "CREATURE DEBUG": "生物调试",
+    "PickUp": "捡起{0}{1}",
+    "PickedUp": "拾取了 {0}",
+    "Needs": "需求",
+    "Tooltip_AcidMushroom": "紫色的菌类。表层有强酸作为自我防御。",
+    "Tooltip_AdvancedWiringKit": "有金\/银针脚的处理器，用于高级建造。",
+    "Tooltip_AirBladder": "紧急漂浮装置。通过化学反应产生比空气更轻的气体来产生强大的浮力。",
+    "Tooltip_Battery": "便携能源。",
+    "Tooltip_Beacon": "导航辅助装置，会维持并显示其位置，可编辑名称。",
+    "Tooltip_Bleach": "NaClO。次氯酸钠漂白剂。用于对液体进行消毒。",
+    "Tooltip_Builder": "可用于建设基地和基地设施的工具。",
+    "Tooltip_Compass": "在HUD顶端显示方向。",
+    "Tooltip_ComputerChip": "多功能处理器。",
+    "Tooltip_Constructor": "可用来制造载具。",
+    "Tooltip_CookedBladderfish": "海绵状，软骨，低热量。值得庆幸的是没有臭味。",
+    "Tooltip_CookedBoomerang": "翅膀附近的肉很好吃。",
+    "Tooltip_CookedEyeye": "流体较多，热量较低，难以保存。",
+    "Tooltip_CookedGarryFish": "花香口味，不过不是很浓。",
+    "Tooltip_CookedHoleFish": "肉质呈凝胶状。",
+    "Tooltip_CookedHoopfish": "当做甜甜圈来吃吧，注意别吃触角。",
+    "Tooltip_CookedHoverfish": "高蛋白，低脂肪。",
+    "Tooltip_CookedOculus": "暗色，肉质口感好，很美味。",
+    "Tooltip_CookedPeeper": "眼球富含高蛋白质，营养丰富。",
+    "Tooltip_CookedReginald": "口感辛辣，有烟熏味，热量较高。",
+    "Tooltip_CookedSpadefish": "味道还行，就是比较咸。",
+    "Tooltip_Copper": "铜，许多基本配线的组件。",
+    "Tooltip_CopperWire": "用铜矿制成的普通电线。",
+    "Tooltip_CoralChunk": "含碳酸钙，是制作漂白剂的基本原料之一。",
+    "Tooltip_Creepvine": "常被发现于生长浅层沙地中的本地植物。",
+    "Tooltip_CreepvinePiece": "硅基植物材料。",
+    "Tooltip_CurrentGenerator": "使用人造重力制造海流。",
+    "Tooltip_Cyclops": "大型工业级潜水艇。",
+    "Tooltip_Diamond": "由碳元素组成的高强度材料。",
+    "Tooltip_DisinfectedWater": "12盎司的水，已除菌。",
+    "Tooltip_DiveReel": "全息追踪导索，可以绘制返回原地的路径，防止迷路。",
+    "Tooltip_EnameledGlass": "玻璃，已经过天然陶瓷的加固。",
+    "Tooltip_Exosuit": "能让穿戴者在任何极端环境行走自如。",
+    "Tooltip_Fabricator": "基础的工作台，将收集到的最基础的材料转化为有用的物品。",
+    "Tooltip_FilteredWater": "水，6盎司.天然隔膜过滤水。",
+    "Tooltip_Fins": "将垂直下肢运动转换为水中动力，游泳速度大约增加15%。",
+    "Tooltip_Flare": "一次性光源，用于分散某些捕食者的注意力。",
+    "Tooltip_Flashlight": "电池供电，全环境适用的光源。",
+    "Tooltip_Floater": "生命周期未知，由多种微生物组成的共生体。",
+    "Tooltip_Glass": "纯石英熔制的玻璃，成分为二氧化硅。",
+    "Tooltip_Gold": "金，昂贵的导电性物质。",
+    "Tooltip_GrandReefsEgg": "未知生物的蛋。",
+    "Tooltip_GrassyPlateausEgg": "未知生物的蛋。",
+    "Tooltip_Gravsphere": "利用人造重力吸引较轻的物体。",
+    "Tooltip_Hoopfish": "小型，可食用的鱼类。",
+    "Tooltip_JeweledDiskPiece": "含有微量贵金属，可用来制造计算机。",
+    "Tooltip_KelpForestEgg": "未知生物的蛋。",
+    "Tooltip_Knife": "必备的多功能求生小刀。",
+    "Tooltip_KooshZoneEgg": "未知生物的蛋。",
+    "Tooltip_LavaZoneEgg": "未知生物的蛋。",
+    "Tooltip_Lithium": "用于高强度合金的制造。",
+    "Tooltip_Locker": "独立的6x8 储藏室。",
+    "Tooltip_Magnesium": "镁，可燃金属，多用于产生强效光照。",
+    "Tooltip_MushroomForestEgg": "未知生物的蛋。",
+    "Tooltip_Pipe": "一条可用于远距离输送空气的水管。须从空气泵开始连接。",
+    "Tooltip_PlasteelIngot": "超强合成建筑材料。",
+    "Tooltip_PowerCell": "大容量便携能量源。",
+    "Tooltip_Quartz": "晶体形态的二氧化硅。",
+    "Tooltip_RadiationSuit": "铅制工作服，可以隔绝外部辐射。",
+    "Tooltip_Rebreather": "在深处潜水时节约使用氧气，可以吸收呼出气体中的二氧化碳。",
+    "Tooltip_SafeShallowsEgg": "未知生物的蛋。",
+    "Tooltip_Salt": "盐，用于调味和卫生消毒。",
+    "Tooltip_ScrapMetal": "钛含量，87%。",
+    "Tooltip_Seamoth": "单人载具。",
+    "Tooltip_Signal": "坐标。",
+    "Tooltip_Silicone": "合成硅橡胶。",
+    "Tooltip_Silver": "银，有良好的导电性和杀菌性。",
+    "Tooltip_SmallStorage": "4x4的存储空间，可以放置漂浮在水中
+
+而且不会进水。",
+    "Tooltip_StalkerTooth": "锐利坚硬的钙质构体。",
+    "Tooltip_StasisRifle": "通过改变磁场使物体在一段时间内处于停滞状态。",
+    "Tooltip_Tank": "含氧气，由可呼吸空气压制而成。",
+    "Tooltip_Terraformer": "根据你的需求改造地形结构。",
+    "Tooltip_Thermometer": "温度显示器。",
+    "Tooltip_Titanium": "钛，最常用的建筑材料。",
+    "Tooltip_TitaniumIngot": "高密度的钛金属块。",
+    "Tooltip_Transfuser": "可提取生物DNA样本用于研究。",
+    "Tooltip_TwistyBridgesEgg": "未知生物的蛋。",
+    "Tooltip_Welder": "多功能修复工具，在所有环境中都能正常工作。",
+    "Tooltip_WiringKit": "用银制作而成的绝缘线，基本的电子元件。",
+    "Tooltip_SeamothFragment": "海蛾号制造科技的碎片。",
+    "Tooltip_StasisRifleFragment": "凝滞枪制造科技的碎片。",
+    "Tooltip_ExosuitFragment": "用于解锁海虾动力盔甲所需科技。",
+    "Tooltip_TransfuserFragment": "基因提取枪制作科技的碎片。",
+    "Tooltip_TerraformerFragment": "地形改造器制造科技的碎片。",
+    "Tooltip_WorkbenchFragment": "极光号高级工作台的碎片。",
+    "Tooltip_FabricatorBlueprint": "用于制造工作台。",
+    "Tooltip_ConstructorBlueprint": "用于制造载具舱。",
+    "Tooltip_CyclopsBlueprint": "用于制造独眼巨人号。",
+    "Tooltip_SeamothBlueprint": "海蛾号蓝图。",
+    "Tooltip_StasisRifleBlueprint": "用于制造凝滞枪。",
+    "Tooltip_ExosuitBlueprint": "用于制造海虾动力盔甲。",
+    "Tooltip_TransfuserBlueprint": "用于制作基因提取枪。",
+    "Tooltip_TerraformerBlueprint": "用于制作地形改造器。",
+    "Tooltip_ReinforceHullBlueprint": "用于制造船体加固模块。",
+    "Tooltip_WorkbenchBlueprint": "高级工作台蓝图。",
+    "WorldArrow_EquipFlashlight": "装备手电筒",
+    "WorldArrow_EquipKnife": "装备生存匕首",
+    "WorldArrow_CutCreepvine": "用匕首切下",
+    "WorldArrow_EquipSeaglide": "装备水下推进器",
+    "WorldArrow_TurnOnFlashlight": "打开手电筒",
+    "WorldArrow_EquipConstructor": "装备载具舱",
+    "WorldArrow_ReleaseConstructor": "投放载具舱",
+    "WorldArrow_EatSomething": "处于饥饿状态",
+    "WorldArrow_DrinkSomething": "处于口渴状态",
+    "WorldArrow_PickupMetal": "回收金属",
+    "WorldArrow_PickupQuartz": "获得石英",
+    "WorldArrow_BreakLimestone": "敲碎石灰岩",
+    "WorldArrow_BoardEscapePod": "进入逃生舱",
+    "WorldArrow_UseFabricator": "使用",
+    "WorldArrow_OpenPDA": "打开PDA电脑",
+    "WorldArrow_CatchPeeper": "抓住大眼仔",
+    "WorldArrow_EnterSeamoth": "进入海蛾号",
+    "WorldArrow_BoardCyclops": "登上独眼巨人号",
+    "WorldArrow_DockSeamoth": "停泊海蛾号",
+    "FragmentAnalyzer": "碎片分析仪",
+    "Tooltip_FragmentAnalyzer": "分析碎片来获取制造蓝图",
+    "FragmentAnalysisComplete": "碎片扫描完成，已解锁 {0}",
+    "Terraformer_Ammo": "材料：{0}",
+    "BaseFoundation": "地基",
+    "BaseCorridor": "基本走廊",
+    "BaseCorridorI": "I型走廊",
+    "BaseCorridorT": "T型走廊",
+    "BaseCorridorL": "L型走廊",
+    "BaseCorridorX": "十字走廊",
+    "BaseDoor": "大门",
+    "BaseHatch": "舱门",
+    "BaseLadder": "梯子",
+    "BaseReinforcement": "基地加固板",
+    "BaseRoom": "房间",
+    "BaseWall": "墙壁",
+    "BaseWindow": "窗户",
+    "PowerGenerator": "发电装置",
+    "Tooltip_BaseFoundation": "加固基地。",
+    "Tooltip_BaseCorridor": "基础管状走廊。",
+    "Tooltip_BaseCorridorI": "基础管状走廊。",
+    "Tooltip_BaseCorridorT": "T形走廊。",
+    "Tooltip_BaseCorridorL": "L形走廊。",
+    "Tooltip_BaseCorridorX": "十字走廊。",
+    "Tooltip_BaseDoor": "提供支撑结构并防止积水。",
+    "Tooltip_BaseHatch": "提供基地入口。",
+    "Tooltip_BaseLadder": "连接两个楼层。",
+    "Tooltip_BaseReinforcement": "增加结构完整性。",
+    "Tooltip_BaseRoom": "基础房间。",
+    "Tooltip_BaseWall": "分出隔间。",
+    "Tooltip_BaseWindow": "观景用的窗子。",
+    "Tooltip_PowerGenerator": "为基地供能。",
+    "GhostModelRotateInput": "滑动鼠标滚轮以旋转",
+    "WarningUnsafeDepth": "警告：超过安全深度{0}米，出现碰撞将会造成船体受损！",
+    "WarningCrushDepth": "警告：已接近极限高压深度{0}米，船体将会损坏！尽快上浮！",
+    "SafeDepthNow": "安全深度 {0} 米",
+    "CrushDepthNow": "可承受水压深度 {0} 米",
+    "NewLeakDetected": "检测到船体破损！ {0} 严重破损， {1} 次要破损。",
+    "LeakWelded": "完成船体修复。剩余 {0} 严重破损和 {1} 次要破损。",
+    "HullRestored": "舱体破损已修复，排水系统启动。",
+    "AimCloserToGround": "接近地面并继续前进。",
+    "DiveReelUsage": "在地上设置锚点，然后尽情游玩吧。",
+    "DiveReelAfterAnchor": "再次使用准备抛锚，无需装备。",
+    "PickUpDiveReelAnchor": "起锚",
+    "WrongAnchorForReel": "请先装备潜水线圈！",
+    "BaseHullStrChanged": "{0} 基地舱体强度，现在统计 {1}",
+    "BaseHullStrDamageDetected": "因舱体强度不足而受损 {0}！请增加舱体强度或分解影响基地强度的组件！",
+    "GiantMushroomTree": "巨大的生命体",
+    "SecretCave": "打开洞穴？",
+    "CaveEntrance": "进入洞穴？",
+    "HeatSignature": "热能信号",
+    "HatchExitBlocked": "舱门受阻",
+    "Lead": "铅",
+    "Magnesium": "镁",
+    "NutrientBlock": "速食饼干",
+    "OpalGem": "蛋白石",
+    "SupplyCrate": "补给箱",
+    "SmallSupplyCrate": "小补给箱",
+    "HoldShiftToPreventMenuClose": "按住shift键，防止菜单关闭",
+    "RadiationHelmet": "防辐射头盔",
+    "RadiationGloves": "防辐射手套",
+    "HullReinforcementModule": "独眼巨人号船体加固模块",
+    "Tooltip_HullReinforcementModule": "提高船体稳定器的计算能力，增加安全潜水深度。",
+    "PowerUpgradeModule": "独眼巨人号发动机效率模块",
+    "Tooltip_PowerUpgradeModule": "吸收热能，提升能效。",
+    "SpecimenAnalyzerBlueprint": "标本分析仪蓝图",
+    "FirstAidKit": "急救包",
+    "Tooltip_FirstAidKit": "处理过的绷带，可用于止血和为伤口消毒，使用后可恢复50%的健康值。",
+    "Tooltip_Lead": "铅，用于隔离辐射。",
+    "Tooltip_NutrientBlock": "极光号遗留的加工食品。",
+    "Tooltip_OpalGem": "一块高密度的二氧化硅胶凝体。",
+    "Tooltip_RadiationGloves": "铅制防辐射装备。",
+    "Tooltip_RadiationHelmet": "铅制防辐射头盔。",
+    "Tooltip_SupplyCrate": "极光号遗落的工具与物资。",
+    "Tooltip_SmallSupplyCrate": "极光号残留的物资。",
+    "Open_SupplyCrate": "打开",
+    "Close_SupplyCrate": "关闭",
+    "Tooltip_SpecimenAnalyzerBlueprint": "用于制作标本分析仪。",
+    "Tooltip_HoleFish": "小型食用鱼",
+    "Tooltip_Peeper": "小型食用鱼",
+    "Tooltip_Oculus": "小型食用鱼",
+    "Tooltip_GarryFish": "小型食用鱼",
+    "Tooltip_Boomerang": "小型食用鱼",
+    "Tooltip_LavaLarva": "被电能吸引，并且可以吸收利用电能。",
+    "Tooltip_Eyeye": "小型食用鱼",
+    "Tooltip_Bladderfish": "独特的外膜具有作为天然水过滤器的潜力。",
+    "Tooltip_Hoverfish": "小型食用鱼",
+    "Tooltip_Reginald": "小型食用鱼",
+    "Tooltip_Spadefish": "小型食用鱼",
+    "SpecimenAnalyzer": "标本分析仪",
+    "AccessSpecimenAnalyzer": "使用",
+    "Tooltip_SpecimenAnalyzer": "分析标本并制作蓝图。",
+    "SpecimenAnalyzerEmpty": "标本分析仪 空",
+    "SpecimenAnalyzerIdle": "标本分析仪 闲置",
+    "SpecimenAnalyzing": "分析中 {0}{1}{2}%……",
+    "SpecimenAnalysisCommencing": "分析 {0} 开始",
+    "SpecimenAnalysisComplete": "标本分析，解锁 {0}",
+    "ReefbackTissue": "软骨组织",
+    "Tooltip_ReefbackTissue": "删除",
+    "ReefbackShell": "软骨外壳",
+    "Tooltip_ReefbackShell": "删除",
+    "ReefbackAdvancedStructure": "龟类结构",
+    "Tooltip_ReefbackAdvancedStructure": "删除",
+    "HullReinforcementModule2": "独眼巨人号船体外壳强化模块",
+    "Tooltip_HullReinforcementModule2": "删除",
+    "HullReinforcementModule3": "独眼巨人号龟结构船体强化模块",
+    "Tooltip_HullReinforcementModule3": "删除",
+    "ReefbackEgg": "礁背鱼蛋",
+    "Tooltip_ReefbackEgg": "孵化礁背鱼",
+    "ReefbackDNA": "礁背鱼DNA样本",
+    "UpgradeConsole": "访问升级控制台",
+    "PowerRatingNow": " 引擎效率目前为{0}",
+    "RadiationFixed": "所有的泄漏辐射已消散，估计时间：3天，重新尝试下载极光号黑匣子数据，遇到干扰，修正中……下载……完成……",
+    "RemainingRadiationLeaks": "已修复水族馆裂口，剩余裂口数量: {0}",
+    "HardcoreGameOver": "你死了，游戏结束。",
+    "WorldArrow_AttackBleeder": "右键攻击",
+    "InventoryLabel": "物品栏",
+    "StorageLabel": "储物柜",
+    "EquipmentLabel": "已装备",
+    "CraftingLabel": "建造",
+    "KeyRange15": "1-5",
+    "BeaconLabelEdit": "编辑信标名称",
+    "BeaconLabel": "信标名称",
+    "BeaconSubmit": "确认",
+    "BeaconDefaultPrefix": "信标",
+    "EscapePodStorageLabel": "储物柜",
+    "CyclopsUpgradesStorageLabel": "升级模块",
+    "SpecimenAnalyzerStorageLabel": "标本分析仪",
+    "CalciumChunk": "钙质块",
+    "CuredPeeper": "腌制大眼仔",
+    "CuredHoleFish": "腌制洞洞鱼",
+    "CuredHoopfish": "腌制圈圈鱼",
+    "CuredGarryFish": "腌制咖喱鱼",
+    "CuredReginald": "腌制雷纳鱼",
+    "CuredBladderfish": "腌制泡泡鱼",
+    "CuredHoverfish": "腌制吸盘鱼",
+    "CuredSpadefish": "腌制铁锹鱼",
+    "CuredBoomerang": "腌制飞镖鱼",
+    "CuredEyeye": "腌制小眼仔",
+    "CuredOculus": "腌制鬼眼鱼",
+    "Decomposing": "陈旧",
+    "Ripe": "成熟",
+    "Rotting": "腐烂",
+    "CookedFood": "烹饪过的食物",
+    "CuredFood": "腌制过的食物",
+    "Tooltip_CuredBladderfish": "让人联想到牛肉干，进食会损失水分，但可以保存更久。",
+    "Tooltip_CuredBoomerang": "有点硬但味道很好，进食会损失水分，但可以保存更久。",
+    "Tooltip_CuredEyeye": "干瘪且味道苦涩，进食会损失水分，但可以保存更久。",
+    "Tooltip_CuredGarryFish": "几乎只有咸味，进食会损失水分，但可以保存更久。",
+    "Tooltip_CuredHoleFish": "因为腌制的缘故咸味很重，进食会损失水分，但可以保存更久。",
+    "Tooltip_CuredHoopfish": "吃着最像鱼的鱼，进食会损失水分，但可以保存更久。",
+    "Tooltip_CuredHoverfish": "腿肉口感酥脆，进食会损失水分，但可以保存更久",
+    "Tooltip_CuredOculus": "肉感浓郁，进食会损失水分，但可以保存更久。",
+    "Tooltip_CuredPeeper": "用食盐腌制，健康有营养。进食会损失水分，但可以保存更久。",
+    "Tooltip_CuredReginald": "很咸，但是可以提供足够的饱腹感，进食会损失水分，但可以保存更久。",
+    "Tooltip_CuredSpadefish": "快速提供每日所需盐分，进食会损失水分，但可以保存更久。",
+    "NoBattery": "物品栏没有电池",
+    "UseWorkbench": "使用",
+    "DiamondBlade": "钻石匕首",
+    "HeatBlade": "热能匕首",
+    "LithiumIonBattery": "锂电池",
+    "PlasteelTank": "轻质大容量氧气瓶",
+    "HighCapacityTank": "特大容量氧气瓶",
+    "UltraGlideFins": "动力脚蹼",
+    "SwimChargeFins": "充能脚蹼",
+    "RepulsionCannon": "冲击炮",
+    "Stillsuit": "环保潜水服",
+    "PowerGlide": "动力推进器",
+    "Tooltip_DiveSuit": "基础的潜水服。",
+    "Tooltip_DiamondBlade": "钻石匕首可造成更高的伤害。",
+    "Tooltip_HeatBlade": "用这把匕首对小型生物进行加热并消毒后，可以快速进食。",
+    "Tooltip_LithiumIonBattery": "高容量电池",
+    "Tooltip_PlasteelTank": "使用更轻便的材质保证了更强的机动性。",
+    "Tooltip_HighCapacityTank": "更大的氧气容量。",
+    "Tooltip_UltraGlideFins": "流线型结构可提升游泳速度。",
+    "Tooltip_SwimChargeFins": "在游泳时可自动充能所持设备。",
+    "Tooltip_RepulsionCannon": "对范围内的物体施加强大的瞬时推力。",
+    "Tooltip_Stillsuit": "从人体回收可饮用的水分。",
+    "Tooltip_PowerGlide": "右键开灯。",
+    "SecsO2": "{0}秒",
+    "Empty": "空的",
+    "Tooltip_PropulsionCannon": "扭曲重力来拉动和推动物体。",
+    "Tooltip_PropulsionCannonBlueprint": "用于制造冲击炮。",
+    "InventoryOverflow": "物品栏已满。腾出一些空位来拾取 {0}。",
+    "CrashPowder": "洞穴硫磺",
+    "Tooltip_CrashPowder": "硫磺粉末，可在水下燃烧。",
+    "LoadGame": "载入游戏",
+    "Quit": "退出",
+    "SurvivalDescription": "意外坠落危险外星球，通过收集资源，寻找食物来维持生存。",
+    "FreedomDescription": "需要注意氧气含量和躲避危险的生物，但不需要为食物与水操心。",
+    "HardcoreDescription": "只有一次生命的生存模式，并且没有低氧提示，小心了。",
+    "GetDevelopmentUpdates": "开发新闻",
+    "ViewOnSteam": "在Steam上查看",
+    "RedeemaKey": "兑换激活码",
+    "GetDevUpdates": "获取开发者更新",
+    "GetDevUpdatesDescription": "输入你的邮箱来获取下一个深海迷航更新的最新消息！",
+    "EnterEmailPlaceholder": "输入邮箱……",
+    "ViewPastUpdates": "查看过去的更新",
+    "Subscribe": "订阅",
+    "RedeemanItemKey": "兑换一个物品激活码",
+    "EnterKeyPlaceholder": "输入激活码",
+    "RedemptionDescription": "如果你拥有一枚深海迷航密钥，在这里兑换。",
+    "Redeem": "兑换",
+    "StillsuitEquipped": "装备环保潜水服可收集身体多余水分。在3秒内按下激活按钮可中和异味。
+你没有选择激活异味中和系统。祝你拥有美好的一天。",
+    "StillsuitCreatedWater": "环保潜水服回收了8盎司的循环水。",
+    "StillsuitWater": "再生水",
+    "Tooltip_StillsuitWater": "循环利用的纯净水，从身体回收。",
+    "Help": "帮助",
+    "Inventory": "物品栏",
+    "OpenSteamInventory": "开启 Steam 库存",
+    "BackToDevNews": "返回开发新闻",
+    "EconomyWarning": "这项功能目前正处于内测中。暂时请忽略它吧！",
+    "DevTestItem": "开发中",
+    "Tooltip_DevTestItem": "测试物品",
+    "BikemanHullPlate": "比克曼船体钢板",
+    "EatMyDictionHullPlate": "一种船体钢板",
+    "POWER": "电力",
+    "DevelopmentNews": "新闻",
+    "SavedGames": "已保存的游戏",
+    "ClimbLadder": "爬上梯子",
+    "ExitEscapePod": "离开逃生舱",
+    "EnterEscapePod": "进入逃生舱",
+    "BoardEscapePod": "登入逃生舱",
+    "UseLadder": "使用梯子",
+    "Open": "打开",
+    "Close": "关闭",
+    "OpenStorage": "打开储物柜",
+    "SavingGame": "保存游戏中……",
+    "GameSaved": "游戏已保存",
+    "PressButton": "按下按钮",
+    "Climb": "爬",
+    "Dig": "挖",
+    "DriveVehicle": "驾驶载具",
+    "CloseDoor": "关门",
+    "OpenDoor": "开门",
+    "ClimbUp": "爬上",
+    "ClimbDown": "爬下",
+    "GrabOn": "抓取",
+    "PickupCable": "拾取电缆",
+    "InsertPowerCell": "插入新的动力电池",
+    "PilotSub": "驾驶",
+    "SetAutopilot": "设置自动驾驶",
+    "SignInstructions": "拾取（右键编辑）",
+    "TerraformerInstructions": "右键拖动添加材料。 Shift+右键拖动来挖掘材料。",
+    "TerraformerOutOfMaterial": "材料耗尽！",
+    "TerraformerTooClose": "距离过近！尽快远离！",
+    "TerraformerTooFar": "距离过远。",
+    "PipeInstructions": "连接空气泵或其他导气管末端。",
+    "PipeCantReconnect": "距离太远",
+    "PipeNotConnected": "导气管未连接空气泵，无法获取空气。",
+    "FeedbackInstructions": "按 {0} 来报告游戏BUG并提供反馈。",
+    "SpawnNearbyFailed": "附近重生失败。",
+    "Compass": "指南针",
+    "Pipe": "导气管",
+    "Terraformer": "地形改造器",
+    "Thermometer": "温度计",
+    "BatteryDepleted": "电池耗尽",
+    "Gravsphere": "引力陷阱",
+    "Cyclops": "独眼巨人号",
+    "EscapePod": "逃生舱",
+    "Silicone": "硅胶",
+    "Tooltip_Aquarium": "自给自足的鱼缸。",
+    "Tooltip_Spotlight": "聚光照明设备。",
+    "DeconstructAttachedError": "需要先将其他部件拆除。",
+    "Pause": "暂停",
+    "BackToGame": "返回游戏",
+    "GiveFeedback": "反馈意见",
+    "Save": "保存",
+    "QuitToDesktop": "退回至桌面",
+    "AreYouSure": "确定吗？",
+    "Yes": "是",
+    "No": "否",
+    "InvertMouse": "反转鼠标",
+    "MouseSensitivity": "鼠标灵敏度",
+    "DisableMousePitch": "禁用鼠标",
+    "ArmFollowsGaze": "手臂以下视线",
+    "capacity": "容量",
+    "ClimbUpLadder": "爬上",
+    "ClimbDownLadder": "爬下",
+    "sand": "沙",
+    "FabricatorMenu_Resources": "材料",
+    "FabricatorMenu_Electronics": "电子元件",
+    "FabricatorMenu_Survival": "生存",
+    "FabricatorMenu_Water": "水",
+    "FabricatorMenu_CookedFood": "烹饪过的食物",
+    "FabricatorMenu_CuredFood": "腌制食物",
+    "FabricatorMenu_Personal": "角色",
+    "FabricatorMenu_Equipment": "装备",
+    "FabricatorMenu_Tools": "工具",
+    "FabricatorMenu_Machines": "可部署的物品",
+    "FabricatorMenu_Submarine": "潜艇",
+    "ConstructorMenu_Vehicles": "载具",
+    "WorkbenchMenu_KnifeMenu": "生存匕首升级",
+    "WorkbenchMenu_TankMenu": "氧气瓶升级",
+    "WorkbenchMenu_FinsMenu": "脚蹼升级",
+    "PropulsionCannonFragment": "冲击炮碎片",
+    "Tooltip_PropulsionCannonFragment": "冲击炮的碎片。",
+    "Tooltip_ReinforceHullFragment": "船体加固模块碎片。",
+    "TabInventory": "物品栏",
+    "TabJournal": "蓝图",
+    "SignDefaultLabel": "标签",
+    "SignEditLabel": "编辑标签",
+    "Sign": "标签牌",
+    "Tooltip_Sign": "编辑个性化文本。",
+    "SolarPanel": "太阳能电池板",
+    "SolarPanelStatus": "太阳能电池板（阳光: {0}% 充电: {1}\/{2}）",
+    "Tooltip_SolarPanel": "可为氧气生成器及其他基地核心设施供电，在有阳光的地方建造来收集能源。",
+    "WorkbenchMenu_PropulsionCannonMenu": "冲击炮升级",
+    "Uranium": "铀",
+    "RegenPowerCell": "太阳能电池",
+    "TreeMushroomPiece": "树蘑菇块",
+    "Tooltip_TreeMushroomPiece": "本土植物,包含真菌酶。",
+    "Tooltip_Uranium": "能产生核裂变的稀有矿石，指铀核或钚核，分裂成两个或多个质量较小的原子的一种核反应形式。",
+    "PowerTransmitter": "能源延伸器",
+    "Accumulator": "蓄电池",
+    "Bioreactor": "生物反应器",
+    "ThermalPlant": "热能发电机",
+    "NuclearReactor": "核反应堆",
+    "PowerCellStatus": "能源: {0}\/{1}",
+    "HUDPowerStatus": "能源: {0}\/{1}",
+    "AccumulatorStatus": "蓄电池（充电: {0}\/{1}）",
+    "ThermalPlantStatus": "热能发电机（充电: {0}\/{1}）",
+    "Tooltip_PowerTransmitter": "延长供能范围。",
+    "Tooltip_Accumulator": "存储能源。",
+    "Tooltip_Bioreactor": "将生物能转换为电能。",
+    "Tooltip_ThermalPlant": "将热能转化为电能。",
+    "Tooltip_NuclearReactor": "核反应堆棒（控制反应强度）。",
+    "SmallLockerDefaultLabel": "储物柜",
+    "SmallLockerEditLabel": "编辑储物柜名称",
+    "SmallLocker": "壁挂式储物柜",
+    "Tooltip_SmallLocker": "壁挂式储物柜,提供5×6的存储空间。",
+    "Lithium": "锂",
+    "DioramaHullPlate": "立体船体钢板",
+    "Tooltip_DioramaHullPlate": "非常有纪念意义的船体钢板。",
+    "OpenPercent": "切割百分比: {0}",
+    "LaserCutter": "激光切割器",
+    "Tooltip_LaserCutter": "可穿透标准钛制门的切割设备。",
+    "Sealed_SupplyCrate": "密封的补给箱",
+    "Sealed": "密封的",
+    "SealedInstructions": "切割后使用",
+    "LeaveCyclops": "离开独眼巨人号",
+    "EnterBase": "进入基地",
+    "ExitBase": "离开基地",
+    "MarkiplierHullPlate": "马克普利尔船体钢板",
+    "Tooltip_MarkiplierHullPlate": "我一点都不害怕。",
+    "MuyskermHullPlate": "梅斯科船体钢板",
+    "Tooltip_MuyskermHullPlate": "重新考虑一下你的订阅标准。",
+    "LordMinionHullPlate": "贵族船体钢板",
+    "Tooltip_LordMinionHullPlate": "深海迷航中最帅的船体钢板。",
+    "JackSepticEyeHullPlate": "喷气机船体钢板",
+    "Tooltip_JackSepticEyeHullPlate": "杰克创建了简单，免费的视频适合所有年龄段的人前来观看。",
+    "Aerogel": "气凝胶",
+    "AluminumOxide": "氧化铝晶体",
+    "AminoAcids": "氨基酸",
+    "AramidFibers": "人造纤维",
+    "Benzene": "苯",
+    "BloodOil": "血油",
+    "BloodRoot": "血根草",
+    "BloodVine": "寒骨藻",
+    "Graphene": "石墨烯",
+    "HydrochloricAcid": "盐酸",
+    "Magnetite": "磁铁矿",
+    "MercuryOre": "汞矿石",
+    "Nanowires": "纳米线",
+    "Polyaniline": "聚苯胺",
+    "Sulphur": "结晶硫",
+    "WhiteMushroom": "白蘑菇",
+    "FabricatorMenu_BasicMaterials": "基础材料",
+    "FabricatorMenu_AdvancedMaterials": "高级材料",
+    "Tooltip_Aerogel": "溶胶或溶液中的胶体粒子或高分子在一定条件下互相连接，形成空间网状结构，结构空隙中充满了作为分散介质的液体（在干凝胶中也可以是气体，干凝胶也称为气凝胶），这样一种特殊的分散体系称作凝胶。没有流动性。",
+    "Tooltip_AluminumOxide": "Al₂O₃。 主要成分为氧化铝，硬质导体。",
+    "Tooltip_AminoAcids": "氨基酸（Amino Acid）：含有氨基和羧基的一类有机化合物的通称。生物功能大分子蛋白质的基本组成单位，是构成动物营养所需蛋白质的基本物质。",
+    "Tooltip_AramidFibers": "高强度合成纤维。",
+    "Tooltip_Benzene": "苯，用于与油互溶。",
+    "Tooltip_BloodOil": "含有寒骨藻种子，可以用来提取苯。",
+    "Tooltip_BloodRoot": "常见于海带植物群的根系植物。",
+    "Tooltip_BloodVine": "寒骨森林中常见的苍白色藻类植物。",
+    "Tooltip_Graphene": "石墨烯。单原子厚度的碳排列而成。强度超越钢铁。",
+    "Tooltip_HydrochloricAcid": "氯化氢。强酸性化合物。慎用。",
+    "Tooltip_Magnetite": "Fe₃O₄。 具有磁性的金属氧化物。",
+    "Tooltip_MercuryOre": "朱砂，在氧气中加热以获得高纯度的汞。",
+    "Tooltip_Nanowires": "纳米级设备专用的导线。",
+    "Tooltip_Polyaniline": "聚苯胺，高分子化合物的一种，具有特殊的电学、光学性质，经掺杂后可具有导电性及电化学性能。",
+    "Tooltip_Sulphur": "硫磺别名硫，胶体硫，主要用于制造染料，农药，火药，橡胶，人造丝等。",
+    "Tooltip_WhiteMushroom": "具有强酸性的特征。",
+    "Cutefish": "抱抱鱼",
+    "Tooltip_Cutefish": "一种珍稀的生物，由外星生物的卵孵化出。",
+    "BaseBulkhead": "隔离舱门",
+    "Tooltip_BaseBulkhead": "提供结构支撑并防止漏水。",
+    "OpenLocker": "打开储物柜",
+    "Lubricant": "润滑剂",
+    "CreepvineSeedCluster": "海藻种子",
+    "Tooltip_CreepvineSeedCluster": "油和硅含量很高的本土植物种子。",
+    "Tooltip_Lubricant": "润滑剂用以降低摩擦时的摩擦阻力、减缓磨损速度。润滑剂对摩擦设备还能起冷却、清洗和防止污染等作用。",
+    "SeamothReinforcementModule": "海蛾号深潜模块",
+    "Tooltip_SeamothReinforcementModule": "使海蛾号底盘增加极强的抗压能力,增加安全深度。",
+    "SeamothSolarCharge": "海蛾号太阳能充电器",
+    "Tooltip_SeamothSolarCharge": "可以在阳光下为海蛾号充能，光伏发电是根据光生伏特效应原理，利用太阳电池将太阳光能直接转化为电能。不论是独立使用还是并网发电，光伏发电系统主要由太阳电池板（组件）、控制器和逆变器三大部分组成，它们主要由电子元器件构成，不涉及机械部件，所以，光伏发电设备极为精炼，可靠稳定寿命长、安装维护简便。",
+    "Bench": "长凳",
+    "Tooltip_Bench": "基本的工具。休息的时候恢复体力。",
+    "BaseCorridorGlassI": "I型玻璃舱",
+    "BaseCorridorGlassL": "L型玻璃舱",
+    "BaseObservatory": "瞭望台",
+    "Tooltip_BaseCorridorGlassI": "基础的玻璃走廊，降低建筑耐久。",
+    "Tooltip_BaseCorridorGlassL": "L形的玻璃走廊，降低建筑耐久。",
+    "Tooltip_BaseObservatory": "具有360度的观景视野，但是极为脆弱。",
+    "BaseConnector": "垂直连接管道",
+    "Tooltip_BaseConnector": "垂直基地间的连接管道。",
+    "BioreactorFragment": "生物反应堆碎片",
+    "NuclearReactorFragment": "核反应堆碎片",
+    "ThermalPlantFragment": "热能发电机碎片",
+    "Tooltip_BioreactorFragment": "生物反应堆制造科技的碎片。",
+    "Tooltip_ThermalPlantFragment": "热能发电机制造科技的碎片。",
+    "Tooltip_BioreactorBlueprint": "用于制造生物反应堆。",
+    "Tooltip_NuclearReactorBlueprint": "用于制造核反应堆。",
+    "Tooltip_ThermalPlantBlueprint": "用于制造热能发电机。",
+    "BaseMoonpool": "月亮池",
+    "Tooltip_BaseMoonpool": "载具停泊处，能耗很高。",
+    "AquariumStorageLabel": "水族馆",
+    "UseAquarium": "使用水族馆",
+    "SitDown": "坐下",
+    "StandUp": "站起",
+    "MoonpoolFragment": "月亮池碎片",
+    "BioreactorBlueprint": "生物反应堆蓝图",
+    "MoonpoolBlueprint": "月亮池蓝图",
+    "NuclearReactorBlueprint": "核反应堆蓝图",
+    "ThermalPlantBlueprint": "热能发电机蓝图",
+    "Tooltip_MoonpoolFragment": "月亮池制造科技碎片。",
+    "Tooltip_NuclearReactorFragment": "核反应堆制造科技碎片。",
+    "FloatingIsland": "浮岛",
+    "CoralArch": "巨大有机物群",
+    "BalancingRock": "地质构造",
+    "HugePillar": "巨大的柱子",
+    "InventoryCantDropHere": "物品请放入储物柜。",
+    "BaseCorridorGlass": "玻璃舱",
+    "Tooltip_BaseCorridorGlass": "玻璃走廊。",
+    "SeamothDefaultName": "海蛾号",
+    "ExosuitDefaultName": "海虾动力盔甲",
+    "SubmersibleNotDocked": "无停靠",
+    "SubmersibleDocked": "已对接",
+    "SubmersibleFullyCharged": "充能完成",
+    "SubmersibleCharging": "充能",
+    "BaseUpgradeConsole": "载具升级控制台",
+    "Tooltip_BaseUpgradeConsole": "在月亮池中建造，可以升级停泊的载具。",
+    "NotEnoughSpaceToSit": "没有足够空间",
+    "Creative": "创造模式",
+    "CreativeDescription": "建造和生存不需要任何资源，氧气，食物，你不会死亡但也无法触发剧情。",
+    "unpowered": "未供能",
+    "SeamothStorageNotEmpty": "储物柜没有空间了",
+    "SeamothElectricalDefense": "电子防御模块",
+    "Tooltip_SeamothElectricalDefense": "产生一个局部电场,以抵御攻击性生物，在敌方实施电子对抗的情况下，为保障己方电子设备和系统发挥效能而采取的措施和行动。是电子防御的组成部分。",
+    "Skyray": "燕子鱼",
+    "Goal_Lifepod1": "未知",
+    "Goal_Lifepod2": "###1500极光号严重偏离航线。原因：未知。未检测到人类生命迹象。###2500",
+    "Goal_Lifepod3": "未知",
+    "Goal_Lifepod4": "未知",
+    "Goal_Intro1": "未知",
+    "Goal_Intro2": "未知",
+    "Goal_CookedPeeper": "工作台在加工过程中可以自动剔除骨骼解构，体液和内脏器官，从而使它们可安全食用。",
+    "Goal_LocationAuroraEntry": "警告：船体强度较低。
+可能需要消防设备和激光切割器。继续航行可能会有坠毁风险。",
+    "Goal_LocationAuroraFurtherIn": "注意：扫描显示，附近生物体内有微量人体组织成分。",
+    "Goal_BiomeCrashedShip": "该区域生命信号微弱。
+极光号残留辐射正对当地生态造成持续不可逆的危害。",
+    "Goal_LocationAuroraInterior": "极光号系统目前仅依靠遗余电力运转，无法远端下载黑盒子数据。",
+    "Goal_LocationAuroraHallway": "极光号所受损伤无法匹配任何已知的攻击方式。",
+    "Goal_LocationAuroraDriveEntry": "驱动核心护盾在坠落时受到损坏。
+在没有合适的条件下请不要尝试修复。",
+    "Goal_Location AuroraDriveInterior": "静止",
+    "SeamothStorageOpen": "打开",
+    "SeamothSonarModule": "海蛾号声呐",
+    "Tooltip_SeamothSonarModule": "通过电声转换和信息处理,在平面显示器上显示地形数据，是开拓水下视野的主要技术，用于对水下目标进行探测、分类、定位和跟踪；进行水下通信和导航。",
+    "LootSensorMetal": "金属感应模块",
+    "Tooltip_LootSensorMetal": "检测金属信号。",
+    "LootSensorLithium": "锂感应模块",
+    "Tooltip_LootSensorLithium": "侦测锂矿石。",
+    "LootSensorFragment": "碎片感应模块",
+    "Tooltip_LootSensorFragment": "侦测附近碎片发出的信号。",
+    "WhirlpoolTorpedo": "漩涡鱼雷",
+    "Tooltip_WhirlpoolTorpedo": "产生局部重力畸变。装载到载具鱼雷舱以使用。",
+    "ContainerOverflow": "最新更新导致库存已满，请释放一些存储空间查看全部内容。",
+    "DURABILITY": "耐久度",
+    "TabLog": "日志",
+    "Day": "天数",
+    "MasterVolume": "总体音量",
+    "MusicVolume": "音乐音量",
+    "PlanterStorageLabel": "种植机",
+    "FiltrationMachineStorageLabel": "海水过滤机",
+    "TabGallery": "相册",
+    "SortByDateDescending": "根据日期排序(降序)",
+    "SortByDateAscending": "根据日期排序(升序)",
+    "SortByTopic": "根据主题排序",
+    "SortByName": "根据名称排序",
+    "ScreenshotUpload": "上传截图",
+    "ScreenshotAddToSteamLibrary": "添加到Steam",
+    "ScreenshotDelete": "删除",
+    "PDAGalleryTabInstructions": "按F11键截图",
+    "PDAGalleryThumbnailSize": "尺寸",
+    "PDAGalleryAddToSteam": "上传图片至Steam图片库",
+    "PDAGalleryDelete": "删除图片(双击鼠标)",
+    "UsePlanter": "使用",
+    "UseFiltrationMachine": "使用海水过滤器",
+    "PictureFrameEditLabel": "设置图片",
+    "BreakPurplePinecone": "紫松果",
+    "PlanterPot": "基础花盆",
+    "PlanterBox": "室内种植箱",
+    "PlanterShelf": "壁挂花盆",
+    "FarmingTray": "室外种植箱",
+    "FiltrationMachine": "海水过滤机",
+    "FullyCharged": "充能完成",
+    "ReinforcedDiveSuit": "强化潜水服",
+    "PictureFrame": "相框",
+    "Tooltip_PictureFrame": "壁挂式相框，可以把你心爱的照片放进去。",
+    "Tooltip_PlanterPot": "种植植物用的一种器皿。",
+    "Tooltip_PlanterBox": "室内种植物的大型种植箱。",
+    "Tooltip_PlanterShelf": "壁挂式花盆。",
+    "Tooltip_FarmingTray": "可以在水下和陆地种植物的户外大型种植箱。",
+    "Tooltip_FiltrationMachine": "海水过滤装置。",
+    "Tooltip_ReinforcedDiveSuit": "重型合成纤维潜水服，提供50％的物理保护，并提供高温保护。",
+    "FiltrationComplete": "过滤完成",
+    "FiltrationProgress": "过滤进度: 水 {0:P0}, 盐 {1:P0}",
+    "BasePlanter": "绿化墙",
+    "BaseFiltrationMachine": "海水过滤机",
+    "Tooltip_BasePlanter": "装饰在墙上的树叶。",
+    "Tooltip_BaseFiltrationMachine": "将海水分解成纯水及盐。",
+    "Story_AuroraWarning3": "警告。 本地辐射读数表明，极光号的驱动核心已达到临界状态。
+将在2小时内发生量子爆炸。",
+    "Story_AuroraWarning2": "警告。 极光号的驱动核心持续劣化可能导致量子爆炸。
+继续监测。",
+    "Story_AuroraWarning1": "检测到局部辐射水平上升。
+情况与极光号驱动核心损坏一致，在降落期间持续上升。",
+    "TabEncyclopedia": "数据库",
+    "Ency_CuteFish": "抱抱鱼",
+    "EncyDesc_CuteFish": "一种娇小的灰色的草食动物。抱抱鱼拥有高水平的生物智慧，具有好奇心和依恋性。
+
+- 孵化于外星隔离所，没有遇到其他生物标本，表明这个物种处于灭绝的边缘
+- 看起来是经过半驯养的，能够理解和遵循简单的命令
+- 可以被后天筛选繁殖或转基因来鼓励这种人性化行为
+
+评估：生物之间的情感联系是心理健康的重要组成部分。",
+    "Ency_Gasopod": "毒气鱼",
+    "EncyDesc_Gasopod": "一种缓慢移动的生物，会在身体附近释放出能够溶解生物甚至合成纤维的有毒和腐蚀性化合物。
+
+1.过滤系统：
+具有多层鱼鳃使其不受自己产生的有害毒素影响。
+
+2.藻类腺体：
+在身体后端有一个袋状球茎的附肢。袋内生长着发亮的黄色藻类，会产生有毒化合物。腹部肌肉可收缩，将藻类分泌的有毒化合物释放到周围水中。
+
+3.大腹鳍：
+能够在水中产生强大的推力以利于在群体中移动。
+
+毒气鱼具有群体社交性甚至会使用它们的排放腺体用于交谊。听到他们的声音时可能是附近有威胁或食物来源。
+
+评估：小心谨慎",
+    "Ency_Biter": "食人鱼",
+    "EncyDesc_Biter": "小而具有侵略性的捕食者。 身体的构成中94％为肌肉，4％为结缔组织，剩余的2％是大脑。狩猎时可能不分青红皂白：会攻击任何受伤的生物。
+
+1.嗅觉天线：
+用于检测水中的体液。
+
+2.双层的眼睛：
+与沙鲨相似。很可能专门用于检测周边较大捕食者的动向。
+
+3.发达的尾鳍：
+有利于猎杀或逃离因同伴数量不足而无法狩猎成功的危险情况。
+
+猎物：小体型食草动物；不过根据计算，食人鱼可团体狩猎超过其自身100倍重量的猎物。
+
+评估：避免大面积遭遇 - 以及尽量不要流血",
+    "Ency_Stalker": "潜行者",
+    "EncyDesc_Stalker": "等待猎物离开安全浅滩时狩猎，常常在海藻森林中遭遇的非常敏捷的捕食者。
+
+潜行者最不寻常的特性是难以抗拒对钛矿的吸引力。这种行为导致他们的牙齿通常不太好，容易脱落并掉入海底。当然这种行为也可能是自然的磨牙方法。
+
+1.牙齿：
+潜行者的牙齿异常坚硬，并且发育迅速。它细长的鼻子可以提供巨大的咬合力，同时也被用来捕食躲避在岩石缝隙的小型食草动物。眼球上的视网膜分层表示其也适应于夜间狩猎。
+
+2.背脊：
+这些脊可以独立移动，以提供卓越的机动性。
+
+3.腹鳍：
+长而强大的腹鳍使潜行者可以追捕最快的猎物。
+
+猎物：小型食草动物
+
+评估：潜行者的牙齿可用于釉瓷玻璃的制造",
+    "Ency_SandShark": "沙鲨",
+    "EncyDesc_SandShark": "行动缓慢，但很强大的肉食类动物，在沙石中挖出洞穴，潜伏其中伺机偷袭猎物。
+
+前背鳍：
+背鳍长得位置很不正常，应该不是用作游泳的用途。可能是为了在砂石中运动时拨开障碍物，也可能只是一项失败的进化。
+
+分段的外骨骼：
+背部的厚甲壳使其纵向移动较为笨重，但同时几乎免受来自上方的攻击。
+
+脚：
+不适合行走，但是便于用来挖掘沙子。
+
+猎物：体型在其两倍以内的草食类动物。
+
+评估：小心别被它在沙子中伏击",
+    "Locked_Door": "锁住的门",
+    "Sealed_Door": "密封的门",
+    "DoorInstructions_Powercell": "给附近的控制台通电来打开它。",
+    "DoorInstructions_Keycard": "需要找到对应的钥匙才能打开它。",
+    "GenericLocked": "门要从其他地方解锁。",
+    "FiltrationMachineFragment": "海水过滤机碎片",
+    "FiltrationMachineBlueprint": "海水过滤机蓝图",
+    "Tooltip_FiltrationMachineFragment": "海水过滤器制造科技碎片",
+    "ScannerInstanceScanned": "{0} 已扫描, 扫描完成度: {1}% ({2}\/{3})",
+    "ScannerRedundantScanned": "多余的片段扫描",
+    "ScannerInstanceKnown": "实体已经扫描过",
+    "ScannerEntityKnown": "实体 ‘{0}’ 已经扫描",
+    "Scanner": "扫描仪",
+    "PropulsionCannonBlueprint": "冲击炮蓝图",
+    "Tooltip_Scanner": "扫描仪可用于获取科技蓝图或生物体数据。",
+    "Tooltip_MoonpoolBlueprint": "用于建造月亮池。",
+    "WaterParkPlanterStorageLabel": "大型水族馆内植物",
+    "BonesharkEgg": "骨鲨蛋",
+    "CrabsnakeEgg": "蟹蛇蛋",
+    "GasopodEgg": "毒气鱼蛋",
+    "JellyrayEgg": "水母鳐蛋",
+    "JumperEgg": "跳跳鱼蛋",
+    "MesmerEgg": "催眠师蛋",
+    "RabbitrayEgg": "兔子鱼蛋",
+    "ShockerEgg": "电鳗蛋",
+    "SpadefishEgg": "铁锹鱼蛋",
+    "StalkerEgg": "潜行者蛋",
+    "SandsharkEgg": "沙鲨蛋",
+    "Tooltip_BonesharkEgg": "孵化骨鲨",
+    "Tooltip_CrabsnakeEgg": "孵化蟹蛇",
+    "Tooltip_GasopodEgg": "孵化毒气鱼",
+    "Tooltip_JellyrayEgg": "孵化水母鳐",
+    "Tooltip_JumperEgg": "孵化跳跳鱼",
+    "Tooltip_MesmerEgg": "孵化催眠师",
+    "Tooltip_RabbitrayEgg": "孵化兔子鱼",
+    "Tooltip_ShockerEgg": "孵化电鳗",
+    "Tooltip_SpadefishEgg": "孵化铁锹鱼",
+    "Tooltip_StalkerEgg": "孵化潜行者",
+    "Tooltip_SandsharkEgg": "孵化沙鲨",
+    "EggDiscovered": "发现{0}",
+    "BaseWaterPark": "大型水族馆",
+    "Tooltip_BaseWaterPark": "大型水族馆，除了养鱼你还可以在里面种植物和游泳。",
+    "EnterWaterPark": "进入大型水族馆",
+    "ExitWaterPark": "离开大型水族馆",
+    "LimestoneChunk": "石灰岩块",
+    "ScannerScreenDefault": "搜寻中……",
+    "ScannerScreenReady": "准备扫描",
+    "ScannerScreenScanning": "扫描中……",
+    "CookedSpinefish": "熟的刺头鱼",
+    "CuredSpinefish": "腌制刺头鱼",
+    "Spinefish": "刺头鱼",
+    "Shuttlebug": "跳跳鱼",
+    "Blighter": "讨厌鬼",
+    "Tooltip_CookedSpinefish": "大家都觉得触角不能吃。",
+    "Tooltip_CuredSpinefish": "容易造成脱水，但可以保存更久。",
+    "Tooltip_Spinefish": "小型食用鱼。",
+    "Story_AuroraWarning4": "紧急事件：极光号驱动核心发生了量子爆炸。
+核反应堆将达到临界值，倒数 T- 10, 9, 8, 7, 6, 5, 4, 3, 2, 1-",
+    "Goal_Lifepod6": "未知",
+    "Goal_Airsack": "外星生命总会有意想不到的作用。合理利用外星生命来支持生存是一种经验证可行的明智策略。",
+    "Goal_Titanium": "未知",
+    "Goal_Quartz": "未知",
+    "Goal_Copper": "铜是制造所有电力设备的基础材料。由于你发现了铜，你的存活概率刚刚由不可能变成了可能。",
+    "Goal_FilteredWater": "未知",
+    "Goal_Scanner": "扫描仪可用于从四散的碎片中扫描得到蓝图，或者用来记录外星生物数据。",
+    "Goal_Fins": "制造者从现有数据中提取当地可用材料提供环境适当设备。
+为了您的安全此设置不能被重写。",
+    "Goal_Knife": "在奥普拉主星大屠杀之后，武器被从生存面板上移除。
+生存匕首是唯一的例外。",
+    "Goal_Tank": "未知",
+    "Goal_Battery": "未知",
+    "Goal_Bleach": "碳酸钙制造的漂白剂: 被发现,漂白剂是用于清洁伤口和净化水的基本化学药品。",
+    "Goal_CookedGarryfish": "习惯合成食品的人通常会排斥食用动物尸体。请记住，人类以这种方式幸存了几千年。你也可以。",
+    "Goal_CookedHoverfish": "如果你已经习惯了食用传统灭菌食品，你可以考虑用当地草药和香料掩盖肉的味道。",
+    "Goal_PurifiedWater": "提前准备好一天所需的水， 将有助于你不会因为脱水而死亡。",
+    "Goal_Silver": "接线盒是许多基地模块的重要组成部分。",
+    "Goal_Lubricant": "发现润滑剂原剂，润滑油是建筑机械和发电机建设的至关重要部分，利用本地材料替代是一个行之有效的生存策略。",
+    "Goal_Beacon": "未知",
+    "Goal_Seaglide": "这个推进器将增加您的有效勘探范围。
+为了您的安全，请准备好长途旅行用品，并且不要远离最近的逃生舱或栖息地5公里。",
+    "Goal_Builder": "建造枪旨在用于建造可以承受特殊恶劣环境的生存基地。",
+    "Goal_EnameledGlass": "未知",
+    "EncyPath_Tech": "蓝图",
+    "EncyPath_Welcome": "生存物资",
+    "EncyPath_Tech\/Habitats": "建造与科技",
+    "EncyPath_Tech\/Equipment": "设备",
+    "EncyPath_Lifeforms": "外星生物",
+    "EncyPath_Lifeforms\/Coral": "珊瑚",
+    "EncyPath_Lifeforms\/Fauna": "动物群",
+    "EncyPath_Lifeforms\/Flora": "植物群",
+    "EncyPath_Lifeforms\/Fauna\/Herbivores": "食草动物",
+    "EncyPath_Lifeforms\/Fauna\/Carnivores": "食肉动物",
+    "EncyPath_Lifeforms\/Fauna\/Scavengers": "食腐动物 & 寄生虫",
+    "EncyPath_PlanetaryGeology": "地质资料",
+    "EncyPath_Advanced": "高级理论",
+    "Ency_Lifepod": "双泊位紧急逃生舱",
+    "EncyDesc_Lifepod": "标准功能：
+- 短距离无线电（在250km范围内信号通畅）
+-壁挂式生存设备制造工作台，并使有机物质可食用，并可烹饪有机物质
+- 医疗急救包工作台
+- 在船上附有氧气及漂浮装置，适用于陆地，海洋及太空降落
+- 太阳能电池x3
+- 紧急出口位于地上和屋顶
+
+标准规定：
+- 2x全环境防护服
+- 2x方便口粮
+- 2x紧急饮用水
+- 1x紧急医疗包
+- 2x紧急信号弹
+
+注意部分逃生舱可能装备不同 用品，如辐射服和替代部件。请搭乘适合目前状况的逃生舱。
+",
+    "Ency_Readme": "新手上路",
+    "EncyDesc_Readme": "如果你正在阅读这篇讯息，那么你成功从配备了阿尔特拉科技的资本级船舰紧急撤离中幸存下来了。恭喜：最困难的部分已经结束。
+
+你的PDA电脑已经自动开启紧急模式。这个模式最主要任务是：让你在危机重重的外星世界存活。如果没有办法成功幸存，它会将你的遗体位置传送给救援队。
+
+它的功能：
+-全面监测生命迹象并及时给与生存建议
+-具有一系列适合您环境的生存设备蓝图
+-前载摄影机，麦克风及用于短距离情境分析的光学辨识系统技术
+-与所有阿尔特拉产品具交叉兼容性
+
+注意：你的个人及工作档案已经加密并可能在未来由认可的工程师检阅。",
+    "Ency_SurvivalChecklist": "生存要领",
+    "EncyDesc_SurvivalChecklist": "1.及时采取急救措施
+2.清点可用的材料和用品，并确保食物
+3.调查周遭威胁和资源
+4.使用逃生舱工作台制作必要的生存设备
+5.检查逃生舱是否损坏，并进行维修
+6.使用逃生舱短距离广播发送遇险信号
+7.使用望远设备，或收音机找到其他幸存者
+8.寻找或建造一个永久基地
+9.保持身心健康直到获救
+
+注意，这些信息是一般的指南。首先，考虑到你的特殊情况，您应该持续遵循PDA电脑的建议。",
+    "Ency_AuroraOverview": "极光号状态",
+    "EncyDesc_AuroraOverview": "船级：阿尔特拉级长途资本船
+任务：安装阿里亚德内之臂相位门，并持续3年时间
+船员：指挥队(23)，工程队(85)，支援队(40)，乘客(9)
+
+状态：
+-行星4546B于轨道上持续受到严重伤害
+-原因未知
+-无法读取疏散数据
+
+工程细节：
+-V8暗物质离子驱动核心
+-载人机器人套建
+-高级扫描仪套建
+-远程通讯继电器
+-0.25立方公里储存空间
+
+居住区：
+-住宿空间150人
+-多个餐厅提供健康新鲜的再生水及食物
+-休闲设施包括VR包厢及虚拟电影院",
+    "Ency_AEPSuit": "全环境保护服",
+    "EncyDesc_AEPSuit": "阿尔特拉AEP套装：探索无限宇宙的唯一途径
+
+你目前正穿配AEP套装：可以为你提供密封的个人环境，并承受宇宙中已知的所有极端条件。
+-温度及湿度调节
+-兼容一系列配件
+-超薄材质，提供最大运动自由度
+- 生物识别传送感知器
+- 语音抬头显示器
+
+在逃生舱起动前先穿配AEP套装，以避免逃生舱失效。",
+    "Ency_MetalSalvage": "残骸金属碎片",
+    "EncyDesc_MetalSalvage": "分析证实这些金属残骸来自极光号。
+
+材料外层已经氧化，表明其曾被加热至摄氏1200度以上。此现象与快速穿过大气层导致的船体分裂一致。
+
+在法律、道德及技术层面上，私自对阿尔特拉船舰本体进行打捞的行为是违法的。从阿尔特拉残骸中可回收高含量的钛。
+
+",
+    "Ency_RabbitRay": "兔子鱼",
+    "EncyDesc_RabbitRay": "一种草食水生生物，具有兔子的外型，性格平静，孤独，几乎没有天敌，有强烈的好奇心和令人敬而远之的剧毒肉质。可能因此没有天敌。
+
+1.耳朵
+头上一对橘色的生理结构可以感知水中的震动。
+
+2.起伏的翅膀
+与地球鳐的运动方式相似。检测到未有遗传相识性，表明两种生物各自对其环境发展出相同的进化方向
+
+评估：不可食用但无害
+
+
+",
+    "Ency_AcidMushroom": "酸性蘑菇",
+    "EncyDesc_AcidMushroom": "一种常见的孢子类真菌，具有强大的自我防御机制。肉质含有强酸性化合物，在表皮呗破坏后，酸性物质会渗入水中，对触碰到的生物造成伤害。
+
+评估：不可食用，可用于电池制作",
+    "Ency_LimestoneOutcrops": "石灰岩层",
+    "EncyDesc_LimestoneOutcrops": "这种少见的地质构造通常在包裹在钛矿石和铜矿石周围，是这个星球上独特的地质结构。
+进一步分析发现这些金属周围的石质结构会发生硬化且不受侵蚀，具体机理未知。
+
+评估: 钛和铜的来源",
+    "Ency_SandstoneOutcrops": "砂岩",
+    "EncyDesc_SandstoneOutcrops": "这种常见的矿脉中可能含有贵金属，是金和银的重要来源。",
+    "Ency_ShaleOutcrops": "页岩岩层",
+    "EncyDesc_ShaleOutcrops": "沉积岩类，由矿物薄片构成。内含稀有金属，如锂、金等。发现这种矿石意味着你将遭遇更深处的危险生物。",
+    "Ency_BasaltOutcrops": "玄武岩层",
+    "EncyDesc_BasaltOutcrops": "坚硬的火山岩，形成于剧烈的火山活动时期，可能含有稀有金属，如钻石或铀等极稀有资源。
+
+评估：钻石和铀的唯一来源",
+    "Ency_BrainCoral": "脑珊瑚",
+    "EncyDesc_BrainCoral": "一个不断增长的生物群落。这种珊瑚能从环境中获取并过滤二氧化碳，使用碳来生长菌落，并从漏斗管排出氧气。它非常坚硬，可以从成熟珊瑚上可以采样种植。
+
+评估：氧气瓶装​​备可以从中吸入氧气",
+    "Ency_Peeper": "大眼仔",
+    "EncyDesc_Peeper": "在浅水区常见的小体型敏捷鱼类。
+
+1.位于身体两侧的发达眼睛：
+能于各种亮度下改变色彩，来辨别和逃离夜间行动的捕食者。大眼睛富含蛋白质。
+
+2.强大的鱼鳍
+虽然4546B星球中没有强大的水流，但这种生物演变出了强大的鱼鳍，使其可以抵抗潮汐。此外还能够从静止状态快速加速，并且能飞跃出水面，以躲避捕食者。
+
+3.喙
+很可能用来啄食珊瑚及坚硬的植物。没有明显用途的大鼻腔，似乎是经过进化来寻找特定的化学物质。但是目前没有在任何星球上发现匹配的化学气味。虽然大眼仔适应于浅水中生存，但它的一系列进化看上去似乎并没有明确的目的。该生物的身体条件也能够在更深的水域生存，并且比其它小型食草生物更聪明。
+
+评估：需要进一步研究
+
+",
+    "Ency_Boomerang": "飞镖鱼",
+    "EncyDesc_Boomerang": "一种很常见的食草类动物，常见于浅海区，成群活动。
+1.锋利的牙齿
+用于研磨珊瑚
+2.两片翅膀
+是骨骼的延伸，而不是软骨器官，单一且很难生长。
+
+评估：可食用",
+    "Ency_Garryfish": "咖喱鱼",
+    "EncyDesc_Garryfish": "缓慢但好奇心重的草食动物。 
+奇怪的眼睛：可能有益于藏在珊瑚里观察捕食者。 
+
+评估：可食用，热量低",
+    "Ency_Shuttlebug": "跳跳鱼",
+    "EncyDesc_Shuttlebug": "食物链底层的食腐动物。
+1.喙
+小到对任何生物都构不成威胁，只能以微生物为食。
+2.三个下颚
+用于在漂浮中定位。
+3.三条腿
+腿部肌肉发达，可以让跳跳鱼运动一段很长的距离。
+
+评估：无害，常存在于洞穴系统附近",
+    "Ency_Floater": "漂浮物",
+    "EncyDesc_Floater": "两种生物的共生体，它会试着附着在任何它接触到的物体上并寄生吸取养分。
+
+1.主要生命型态：
+由粉红色的身体及内吸的颚组成的生物。
+
+2.微生物薄膜：
+外部凝胶状物质使下颌周围形成密封真空状态。
+
+3.氦气缓冲区
+外膜具有一层充满氦气的薄膜，为其提供浮力及与其他物质粘附在一起。
+
+评估：附着粘性较弱，容易受外力而脱落。生命周期及进化不明。需进一步研究
+
+",
+    "Ency_Holefish": "洞洞鱼",
+    "EncyDesc_Holefish": "一种少见的草食类动物。
+
+尾鳍：
+通过操纵其尾部孔的大小和形状，进行轨迹较为奇特的运动。
+因为其生活的低光环境植被较少，所以体型较小。
+
+评估：可食用",
+    "Ency_CaveCrawler": "蹒跚蟹",
+    "EncyDesc_CaveCrawler": "适应土地和海洋。 
+1.气体交换膜：吸收空气或水中的必须成分，用于基本的身体调节。
+
+评估：吃着不方便",
+    "Ency_TableCoral": "桌面珊瑚",
+    "EncyDesc_TableCoral": "宝石盘的每一层盘都是独立的生物体，从水中汲取营养。
+
+为了争取优势光源和地形，每片独立的宝石盘之间存在竞争。与其他珊瑚物种不同，宝石盘的结构是有弹性的，因为要舒展身体来将养分输送到植株的其他部位，只有在受到外部攻击时，表面结构才会硬化。
+
+评估：用于计算机芯片的制造",
+    "Ency_HangingStinger": "毒刺",
+    "EncyDesc_HangingStinger": "1.光合细胞检测为零，意味着这种肉食生物只能在光线暗的环境生存。
+
+触须有能够检测异物接触的毛囊,能产生600瓦的电,击晕并猎杀猎物作为自己数周的食物
+
+猎物：小鱼
+
+评估: 尽量避免与其接触",
+    "Ency_Hoopfish": "圈圈鱼",
+    "EncyDesc_Hoopfish": "小型可食用鱼类，可能是泡泡鱼的远房亲戚。
+1.天线
+是它的独有运动器官，通过旋转天线改变水体密度来实现水下的推进运动。
+2.颜色
+紫色混合绿色，可能是中段波长的伪装色，因而可能圈圈鱼在黎明和黄昏时比较活跃。
+
+评估：可食用",
+    "Ency_CoralSample": "未知",
+    "EncyDesc_CoralSample": "未知",
+    "Ency_Crash": "自爆鱼",
+    "EncyDesc_Crash": "自爆鱼这个神奇的物种通过自杀式的防御系统来保证后代的延续。随着个体年龄的增长，生物体内硫的浓度会不断上升。如果自爆鱼游动速度过快，体内会引发剧烈的化学反应。
+
+1.前置的眼睛：
+用于识别或追踪补食者。
+
+2.自爆鱼巢穴
+行为监测表明自爆鱼和自爆鱼巢穴存在密切的共生关系。猜想：该植物可以分泌特殊硫化物以饲养自爆鱼。而自爆鱼则为植物提供保护，以及所处的附近区域。
+
+评估：进入浅水洞窟时要多加留意",
+    "Ency_CrashLair": "自爆鱼巢穴",
+    "EncyDesc_CrashLair": "这种植物似乎可以给予自爆鱼养分来换取保护。
+-植物的花瓣上没有发现有机物，表明其具有复杂的共生关系 
+-植物经过演化，可以为自爆鱼提供养分及矿物质
+-植物叶片上残留的硫应该可以解释自爆鱼产生剧烈爆炸的机制
+
+评估：硫可应用于焊接器的制造",
+    "Ency_Creepvine": "海藻",
+    "EncyDesc_Creepvine": "一种生长于浅层砂质水域海带型物种，集中生长在一起有如大型森林。已松散的根固定于海底砂层，稳稳生长，追求阳光。
+
+茎部纤维富含铁质，使其成为制造纺织品的基础材料及基本食品。
+
+评估：重要的外来资源-食品-建筑",
+    "Ency_CreepvineSeeds": "海藻种子",
+    "EncyDesc_CreepvineSeeds": "成熟并发光的海藻种子是小型食草动物喜爱的食物，可能会受到撞击或水流冲击导致掉落，而被捕食者补食。
+
+种子被厚厚的油脂及矽氧烷层包裹，外层变质时会掉落到地上。这些油脂及矽氧烷层可以为幼苗于海床上阳光不足时提供所需的营养
+
+评估：重要的外来资源-结构应用",
+    "Ency_Eyeye": "小眼仔",
+    "EncyDesc_Eyeye": "90%的身体构造都是眼睛
+1.巨大的眼睛。
+用于在光照不足的条件下观察捕食者，保证自身安全。
+2.不够发达的运动器官
+小眼仔的鳍很不发达，所以经常会惨遭各种敏捷类捕食者的毒手。
+
+评估：可食用，低热量",
+    "Ency_Hoverfish": "吸盘鱼",
+    "EncyDesc_Hoverfish": "小型草食类动物，常在较浅海域见到。
+吸盘一样的足类器官。
+六个脚掌可能可以电解周围的水，产生气体来使吸盘鱼保持移动，像海水中的火箭喷射器。
+
+评估：可食用",
+    "Ency_Bleeder": "吸血虫",
+    "EncyDesc_Bleeder": "一种结构简单的寄生生物。
+1.球墨囊：用于收集和消化血液。 
+2.下颚：用于撕咬其受害者皮肤的一排牙齿和下颌骨。 
+3.猎物：从目标体看来，其低速和较差的防御能力表明他们主要以腐肉为食。 
+
+评估：不方便也不卫生",
+    "Ency_StalkerTooth": "潜行者之牙",
+    "EncyDesc_StalkerTooth": "潜行者之牙样本分析完成。
+其他本地生命体的牙齿遵从生物学规律，以钙质结构为主，但是潜行者之牙只含有微量的钙，并有卓越的亮度和硬度。边缘有微小的磨损痕迹，表明潜行者平常收集金属的行为可能是在磨牙。
+
+评估：潜行者之牙是制作搪瓷玻璃的重要原料",
+    "Ency_Spadefish": "铁锹鱼",
+    "EncyDesc_Spadefish": "很少在浅水域活动的普通草食动物。 
+1.独眼：其习惯于靠近海床游泳，可以保持其一只眼睛朝上看来提防在它上面的捕食者。 
+2.颜色：绿色，该生物通常生活在植物丰富的环境，绿色是天然的保护色。
+
+评估：可食用",
+    "Ency_Reginald": "雷纳鱼",
+    "EncyDesc_Reginald": "普通的食用鱼。 通过四个鳃状，前置的小孔从水中过滤藻类和其他植物材料。
+1.颜色：暗绿色着色，深水伪装。发光尾部着色可能是交配行为的一部分。
+
+评估：可食用，高热量",
+    "Ency_TigerPlant": "虎皮植物",
+    "EncyDesc_TigerPlant": "该植物适应了在水中高达15m\/s的潮汐流动，并能用抓握两管的运动来推动荆棘以达10m\/s的速度攻击目标。
+
+这种小型植物虽然能让人丧失行动能力，但它没有消化肉类的器官，所以总会有捕食者在其周围活动，这样可以等被捕食的食草动物遗体腐化，然后再把它们分解成为虎皮植物的肥料。
+
+评估：尽量避开或先使其丧失活动能力",
+    "Ency_BloodGrass": "血藻",
+    "EncyDesc_BloodGrass": "普通的沙质层海草。
+-分布在离海面较远或土壤较松的海床。
+-在升起的沙丘或高原处生长，以获得较好的光照条件。
+-红色着色既更能适应光照条件，也是对潜在捕食者的威胁。
+-如果用作食用，可能无法提供足够的热量。
+
+评估：是血藻高原生态系统的基础植被",
+    "Ency_TreeLeech": "海蛭",
+    "EncyDesc_TreeLeech": "寄生虫，具有与真菌相似的生命型态。会释放出一种酶，能够溶解寄主的皮肤，并从中吸食营养物质。
+
+外部的有齿下巴并没有具体作用。可能是于不同生命周期才有作用。
+
+评估：可开发的真菌酶",
+    "Ency_TreeMushroom": "树蘑菇",
+    "EncyDesc_TreeMushroom": "对这些大型有机结构的分析展示了共生关系的一个缩影，共生并且互相竞争。
+
+主干是一种珊瑚，有的菌落生存时间高达50000年，枝干共生方式和地球的真菌十分相似，其它生物可以生长在其周围有光的环境里。
+
+附近海域的食草生物的大小只有1毫米~10毫米，看来大型食草动物似乎早就抛弃了这里。
+
+评估: 可利用",
+    "Ency_Jellyray": "水母鳐",
+    "EncyDesc_Jellyray": "一些特征和兔子鱼很像，比如有毒的肉质。其半透明的暗色发光身体可能有以下作用：
+-照亮周围的环境便于觅食
+-吓退捕食者或天敌
+-同类之间互相辨认
+一些小型生物会跟在水母鳐四周来利用天然的光照，水母鳐自身有时也会被光照吸引，因为误以为人工光源是自己的同类。
+
+评估：不可食用",
+    "Ency_Mesmer": "催眠师",
+    "EncyDesc_Mesmer": "小型肉食生物，具有独特狩猎机制，能够催眠猎物。
+
+1.外鳍：
+催眠师使用可以向上及向前弯曲的翅膀游泳。表面上有着可独立倾斜的微小透镜，产生令人着迷的图案，以诱人的讯息混乱猎物的大脑，以任何有效方式催眠目标。
+
+2.外壳：
+催眠师可打开保护外壳的凹槽，以便[发生错误：代码463]分享它的美丽……不可抗拒……
+
+评估：避免接近
+
+",
+    "Ency_Reefback": "礁背鱼",
+    "EncyDesc_Reefback": "这个巨大的生命形态超过3000米，现已归为利维坦族生物。幸运的是，它完全以浮游生物为食。
+1.厚实的电镀外壳:
+该生物的顶部和部分底部被厚实的层状外骨骼保护。这表明其进化的路线和4546B星球上的其他脊椎生物有很大的不同。可能因为任何大到足以击碎它外壳的生物都已经灭绝了，它才成长得比其他食草动物大得多。
+2.释放酶的器官:
+和毒气鱼的身体构造类似，在礁背鱼身体底部的器官除了消化系统作用，能够将少量的胃酶排入周围的水域。
+3.小型生态系统:
+植物在礁背鱼身上生长，利用它的运动来规避捕食者。但是尽管如此，它们往往会被更快、更饥饿的食草动物发现并食用，因此，这种庞然大物是一种值得研究的移动生态系统。
+4.生命周期:
+如果它们能挺过最初的生长周期，那么它们的寿命可能会长达几个世纪。在最初的几十年里，它们的小体型会使它们容易受到食肉动物的攻击。
+
+评估:为港口植物和各种小型动植物提供生存空间",
+    "Ency_ModificationStation": "模改中心",
+    "EncyDesc_ModificationStation": "在标准工作台基础上增加了原子重组技术以制造更高级，复杂设备的机器。该设备可以制造具有更多功能的高级设备，或在已有设备基础上进行强化。大多数工业级船只都会配备模改中心。
+为了节约成本和节省空间，飞船的逃生舱已经不再配备模改中心，但在高于逃生舱的独立船只上还是强烈建议配备模改中心的。",
+    "Ency_StasisRifle": "凝滞枪",
+    "EncyDesc_StasisRifle": "凝滞枪利用独特的物理学原理，将指定区域的时间停滞，来达到特定的工程学目的。\n阿尔特拉科技停滞枪：时间走的那么快,停一会又何妨？
+
+常见应用领域：
+- 减慢移速过快的物体，如引擎，风扇等，便于结构研究和修理安装等。
+- 固定一些危险或迅速的生物，便于近距离研究。\n- 控制一些危险生物，便于逃离，保证生命安全。
+
+警告：不能保证对结构复杂的生物或工业单元生效，建议用于防身，禁止用于攻击性行为。",
+    "Ency_PropulsionCannon": "冲击炮",
+    "EncyDesc_PropulsionCannon": "冲击炮让使用者在20米范围内控制重力。常用于建筑和采矿事业中用于搬动重物
+阿尔特拉冲击炮：只要你不是超人，你都会需要它
+
+使用指南：
+- 扣动扳机，来锁定25kg以下的单个目标
+- 现在可以移动物体
+- 再次扣动扳机，将物体高速推离
+- 不推荐使用于生命体",
+    "Ency_Seamoth": "海蛾号",
+    "EncyDesc_Seamoth": "海蛾号是一种单人载具，后方装有独立可换的动力原件，并具有完全自定义设计的功能。低功率，多方位的推进器使其在海洋或其他空间保持稳定的性能。
+
+大多远航的船舰至少会携带两艘海蛾号潜艇，利于针对小型天文体进行的探勘及开发。
+
+细节：
+ -最高速度：13m\/s
+ -加速度：5m\/s\/s
+ -满电量续航距离：10km
+ -极限航行深度：水下200m
+ -升级模组插槽数：4
+ -尺寸：3m x 1.5m x 1m
+ -可搭载人数：1
+
+注意：升级模组只能于配有载具升级控制台的月亮池中制造。
+
+海蛾号：想去哪就去哪，除了陆地",
+    "Ency_SeamothConfigs": "海蛾号配置目录",
+    "EncyDesc_SeamothConfigs": "未知",
+    "Ency_Builder": "建造枪",
+    "EncyDesc_Builder": "阿尔特拉手持式基地建设枪一直是非常重要的工具。 50年来被11个不同星系的殖民者及紧急救助中不断被使用。
+ -提供与外部环境隔绝的人类居住所必须的模组
+ -可建立于任意如陆地，水中，真空状态中
+ -可建立长期家园，远程研究站，防卫前哨站等等
+
+快速入门指南
+1.从建设枪中选择基本房间，将其放在某处。
+2.添加一个进出房间的舱口。
+3.建照太阳能电池板，为基地的氧器产生装置提供电力。
+4.建构实用的内部组件，如无线电，充电器，储物柜等。
+
+核心的基地系统如氧气制造，防止泄洪等，若电力不足将失去其作用。基地结构的复杂程度会降低基地整体的结构耐久度。
+
+阿尔特拉建造枪：让你总是宾至如归。
+
+",
+    "Ency_Moonpool": "月亮池",
+    "EncyDesc_Moonpool": "月亮池是长期外星探索中的重要组件，主要功能是作为小型载具的停泊处，如海蛾号及海虾动力盔甲。
+
+月亮池的绝大空间被加压池占据，可以方便载具及人员进出，并具可以将载具抬升并固定。
+
+如果搭载了载具升级控制台时，月亮池还可以用于载具的制造和升级。
+
+细节：
+ -尺寸：16m x 10m x 5m
+ -节点：6
+ -耐久耗损：-5(相当于4个房间)
+ -适配载具：1 海蛾号\/海虾动力盔甲
+ -能耗很高。",
+    "CyclopsWelcomeAboard": "独眼巨人号：欢迎回来，长官，所有系统正常。",
+    "CyclopsHullBreach": "独眼巨人号：检测到船体受损。",
+    "CyclopsHullRestored": "独眼巨人号：船体完整性回复，正在启动排水系统。",
+    "SeamothWelcomeAboard": "海蛾号：欢迎回来，长官。",
+    "BaseWelcomeAboard": "基地：欢迎回来，长官。",
+    "BasePowerUp": "基地：电源已恢复，所有主系统工作正常。",
+    "BasePowerDown": "基地：警告,仅剩应急能源可用。",
+    "BaseHullBreach": "基地：检测到基地舱体受到损害。",
+    "BaseHullRestored": "基地: 舱体损坏修复，排水系统启动。",
+    "AcidMushroomSpore": "紫蘑菇孢子",
+    "BulboTree": "面包树",
+    "BulboTreePiece": "面包树块",
+    "HangingFruitTree": "挂果树",
+    "HangingFruit": "挂果树的果实",
+    "OrangeMushroom": "橘子菇",
+    "OrangeMushroomSpore": "橘子菇孢子",
+    "PinkMushroom": "草莓菇",
+    "PinkMushroomSpore": "草莓菇孢子",
+    "PurpleRattle": "紫铃",
+    "PurpleRattleSpore": "紫铃孢子",
+    "PurpleVasePlant": "紫茎瓶",
+    "PurpleVasePlantSeed": "紫茎瓶种子",
+    "WhiteMushroomSpore": "白蘑菇孢子",
+    "Tooltip_AcidMushroomSpore": "只要种植条件正确，成熟的植物样本会茂盛生长。",
+    "Tooltip_BulboTreePiece": "只要种植条件正确，成熟的植物样本会茂盛生长。",
+    "Tooltip_HangingFruit": "灯笼状的可食用水果。",
+    "Tooltip_KooshChunk": "只要种植条件正确，成熟的植物样本会茂盛生长。",
+    "Tooltip_OrangeMushroomSpore": "只要种植条件正确，成熟的植物样本会茂盛生长。",
+    "Tooltip_PinkMushroom": "外星植物样本。",
+    "Tooltip_PinkMushroomSpore": "只要种植条件正确，成熟的植物样本会茂盛生长。",
+    "Tooltip_PurpleRattle": "外星植物样本。",
+    "Tooltip_PurpleRattleSpore": "只要种植条件正确，成熟的植物样本会茂盛生长。",
+    "Tooltip_PurpleVasePlantSeed": "只要种植条件正确，成熟的植物样本会茂盛生长。",
+    "Tooltip_WhiteMushroomSpore": "只要种植条件正确，成熟的植物样本会茂盛生长。",
+    "LEDLight": "LED照明灯",
+    "LEDLightBlueprint": "LED照明灯蓝图",
+    "Tooltip_LEDLightBlueprint": "LED照明灯蓝图。",
+    "Tooltip_LEDLight": "可部署的照明设备，可用电池供电。",
+    "Ency_LEDLight": "LED照明灯",
+    "EncyDesc_LEDLight": "一个可以手持移动，由电池供电的发光二极管，它能为360度方位提供基础的照明，并且可以安放在大多数地方（包括深海）。",
+    "Dead": "死亡",
+    "CyclopsHullFragment": "独眼巨人号船体碎片",
+    "CyclopsBridgeFragment": "独眼巨人号舰桥碎片",
+    "CyclopsEngineFragment": "独眼巨人号发动机碎片",
+    "CyclopsDockingBayFragment": "独眼巨人号对接舱碎片",
+    "CyclopsHullBlueprint": "独眼巨人号船体蓝图",
+    "CyclopsBridgeBlueprint": "独眼巨人号舰桥蓝图",
+    "CyclopsEngineBlueprint": "独眼巨人号发动机蓝图",
+    "CyclopsDockingBayBlueprint": "独眼巨人号对接舱蓝图",
+    "Tooltip_CyclopsHullBlueprint": "用于制造独眼巨人号。",
+    "Tooltip_CyclopsBridgeBlueprint": "用于制造独眼巨人号。",
+    "Tooltip_CyclopsEngineBlueprint": "用于制造独眼巨人号。",
+    "Tooltip_CyclopsDockingBayBlueprint": "用于制造独眼巨人号。",
+    "FiberMesh": "纤维布",
+    "Tooltip_FiberMesh": "由强力并且舒适的天然纤维制作而成，碳纤维制成的复合材料具有极高的强度，且超轻、耐高温高压。",
+    "PlanterPot2": "复合材质花盆。",
+    "PlanterPot3": "漂亮的花盆。",
+    "Tooltip_PlanterPot2": "含有合成土壤，很有设计感的花盆。",
+    "Tooltip_PlanterPot3": "高档的花盆。",
+    "Tooltip_Radio": "可接收短距离通信信号。",
+    "Radio": "无线电",
+    "Radio_Play": "播放信息",
+    "EncyPath_DownloadedData": "资料下载",
+    "Ency_BasePlanter": "绿化墙",
+    "EncyDesc_BasePlanter": "室内种植机的一种配置，用于大多数植物物种生长，主要用途就是装饰。",
+    "Ency_FarmingTray": "室外农业托盘",
+    "EncyDesc_FarmingTray": "拥有先进合成土壤的种植箱，可以种植大部分外星植物，只要有足够的空间它可以安放在陆地和水下。",
+    "Ency_PlanterBox": "室内种植箱",
+    "EncyDesc_PlanterBox": "专门为室内种植设计，比室外植物箱更为小巧，并且有培养液营养输送系统。",
+    "Ency_WaterFilter": "净水过滤系统",
+    "EncyDesc_WaterFilter": "海水过滤器将海水吸收，通过特殊处理，分离为可饮用的过滤净水和盐分。可以放置于海底基地的任意模块，但是能耗和功率较高。
+阿尔特拉净水过滤装置：为你净化任何液体，是的，你没有听错，任何液体。",
+    "BluePalm": "蓝棕榈",
+    "BluePalmSeed": "蓝棕榈种子",
+    "EyesPlant": "邪目草",
+    "EyesPlantSeed": "邪目草果实",
+    "FernPalm": "芭蕉草",
+    "FernPalmSeed": "芭蕉草种子",
+    "GabeSFeather": "加布之羽",
+    "GabeSFeatherSeed": "加布之羽的种子",
+    "JellyPlantSeed": "凝胶球孢子",
+    "MelonPlant": "甜瓜植物",
+    "Melon": "甜瓜",
+    "MembrainTreeSeed": "脑膜树种子",
+    "SeaCrown": "皇冠草",
+    "SeaCrownSeed": "皇冠草种子",
+    "SmallMelon": "小甜瓜",
+    "OrangePetalsPlant": "海葵",
+    "OrangePetalsPlantSeed": "海葵",
+    "PinkFlower": "体素花",
+    "PinkFlowerSeed": "体素花种子",
+    "PurpleBrainCoral": "脑珊瑚",
+    "PurpleBrainCoralPiece": "脑珊瑚样品",
+    "PurpleBranches": "海樱花",
+    "PurpleBranchesSeed": "海樱花种子",
+    "PurpleFanSeed": "紫扇草种子",
+    "PurpleStalk": "紫罗兰",
+    "PurpleStalkSeed": "紫罗兰种子",
+    "PurpleTentacleSeed": "触手草种子",
+    "PurpleVegetable": "紫薯",
+    "PurpleVegetablePlant": "紫薯成株",
+    "RedBasketPlant": "红篮草",
+    "RedBasketPlantSeed": "红篮草种子",
+    "RedBush": "红灌草",
+    "RedBushSeed": "红灌草种子",
+    "RedConePlant": "红锥草",
+    "RedConePlantSeed": "红锥草种子",
+    "RedGreenTentacle": "鬼手草",
+    "RedGreenTentacleSeed": "鬼手草种子",
+    "RedRollPlant": "培根草",
+    "RedRollPlantSeed": "培根草",
+    "ShellGrass": "贝壳草",
+    "ShellGrassSeed": "贝壳草种子",
+    "SpikePlantSeed": "虎皮植物种子",
+    "SmallFanSeed": "小风扇种子",
+    "SnakeMushroom": "蛇菇",
+    "SnakeMushroomSpore": "蛇菇孢子",
+    "SpottedLeavesPlant": "荧根草",
+    "SpottedLeavesPlantSeed": "荧根草种子",
+    "Tooltip_BluePalmSeed": "蓝棕榈种子。",
+    "Tooltip_EyesPlantSeed": "邪目草。",
+    "Tooltip_FernPalmSeed": "芭蕉草种子。",
+    "Tooltip_GabeSFeatherSeed": "加布之羽的种子。",
+    "Tooltip_JellyPlant": "凝胶球。",
+    "Tooltip_JellyPlantSeed": "凝胶球孢子。",
+    "Tooltip_Melon": "一种可食用的外星水果。",
+    "Tooltip_MembrainTreeSeed": "脑膜树种子。",
+    "Tooltip_SmallMelon": "一种可食用的小型外星水果。",
+    "Tooltip_OrangePetalsPlantSeed": "海葵种子。",
+    "Tooltip_PinkFlowerSeed": "体素花种子。",
+    "Tooltip_PurpleBrainCoralPiece": "脑珊瑚样品。",
+    "Tooltip_PurpleBranchesSeed": "海樱花种子。",
+    "Tooltip_PurpleFanSeed": "紫扇草种子。",
+    "Tooltip_PurpleStalkSeed": "紫罗兰种子。",
+    "Tooltip_PurpleTentacleSeed": "触手草种子。",
+    "Tooltip_PurpleVegetable": "外星蔬菜。",
+    "Tooltip_RedBasketPlantSeed": "红篮草种子。",
+    "Tooltip_RedBushSeed": "红灌草种子。",
+    "Tooltip_RedConePlantSeed": "红锥草种子。",
+    "Tooltip_RedGreenTentacleSeed": "鬼手草。",
+    "Tooltip_RedRollPlantSeed": "培根草种子。",
+    "Tooltip_SeaCrownSeed": "皇冠草种子。",
+    "Tooltip_ShellGrassSeed": "贝壳草种子。",
+    "Tooltip_SnakeMushroomSpore": "蛇菇孢子。",
+    "Tooltip_SpikePlantSeed": "虎皮植物种子。",
+    "Tooltip_SpottedLeavesPlantSeed": "荧根草种子。",
+    "Tooltip_SmallFan": "小风扇。",
+    "Tooltip_SmallFanSeed": "小风扇种子。",
+    "Ency_HangingFruitTree": "挂果树",
+    "EncyDesc_HangingFruitTree": "多根藤蔓互相纠缠堆叠而成。只能在肥沃的土地上种植。外型像橘色的葡萄，可以提供少量营养及水分。
+
+评估：紧急情况下可以食用",
+    "Ency_BulboTree": "面包树",
+    "EncyDesc_BulboTree": "一种从地面长出的具有豆芽状绿宝石色叶片的灯泡群植物。分析发现，此植物汁液对昆虫有毒，但富含水份，对人体无害，可采集食用。
+
+评估：可食用，含水量高",
+    "Ency_WhiteMushroom": "白蘑菇",
+    "EncyDesc_WhiteMushroom": "与酸性磨菇同科，适应光照较少的环境，较酸性磨菇具有腐蚀性更强的酸，可用于更先进的科技应用。
+
+评估：可加工成盐酸",
+    "Ency_PinkMushroom": "草莓菇",
+    "EncyDesc_PinkMushroom": "生长在土地里的孢子真菌物种。不可食用。",
+    "Ency_PurpleRattle": "紫铃",
+    "EncyDesc_PurpleRattle": "一种含有大孢子的脆性陆生植物，当植物被摇动时会发出一个特殊的响声。这种行为可能是为了抵御天敌，或者吸引捕食者作为传播孢子的一种手段。",
+    "Ency_PurpleVasePlant": "紫茎瓶",
+    "EncyDesc_PurpleVasePlant": "生长在陆地上的一种耐寒的物种。瓶状躯干保护根系不受天敌影响和有利于自我修复，也解释了为什么它的侧面会有一条裂痕。",
+    "Ency_OrangeMushroom": "橘子菇",
+    "EncyDesc_OrangeMushroom": "常见的真菌，生长迅速，尺寸取决于生长处的营养和空间条件。",
+    "Ency_VegetablePlant": "紫薯成株",
+    "EncyDesc_VegetablePlant": "
+90\/5000
+
+中国马铃薯还普遍存在于中国各地，在中国合成食物仍无法被接受，那边有大片耕地可以种植新鲜农作物。在种植前进行基因改良，让它可以适应不同环境，是新型殖民地星系的主食。
+
+评估：可食用",
+    "Ency_MelonPlant": "甜瓜",
+    "EncyDesc_MelonPlant": "这株植物从空气中获取水份而不是依赖于它的根系，并结出巨大的肉质的水果，既可食用，也可补水。 
+
+评估:可食用 （高含水量）",
+    "Ency_KooshBush": "库什植株",
+    "EncyDesc_KooshBush": "在深海，沙质环境生长，极端温度条件下仍保持较高的水合水平。
+根系极为牢固，使得掠食者纵使可以食用其外植被，也难以毁坏它的根系，这一特性也解释了为何在库什区，库什可以如此疯狂地生长。
+
+评估：可少量食用 - 含水量高",
+    "Ency_BluePalm": "蓝棕榈",
+    "EncyDesc_BluePalm": "蓝棕榈是一种常见的水生植物，在暴露于阳光中的浅水域容易生长。",
+    "Ency_SmallFan": "小风扇",
+    "EncyDesc_SmallFan": "一种常见的轻度发光植物，常被发现于较浅水域。",
+    "Ency_PurpleFan": "紫扇草",
+    "EncyDesc_PurpleFan": "一种常见的浅水植物，常常在叶子的边缘有被扑食过的痕迹。 厚厚的紫色静脉将营养物质运送到风扇的末端，明亮的种子围绕基部和茎生长。",
+    "Ency_WrithingWeed": "触手草",
+    "EncyDesc_WrithingWeed": "适应于浅水域和洞穴系统，这个植物生活在与围绕茎基地形成的珊瑚物种的共生生态系统。",
+    "Ency_GabeSFeather": "加布之羽的种子",
+    "EncyDesc_GabeSFeather": "这种植物几乎完全生长在深水域，在那里它的手状叶已经进化，以从环境中过滤沉淀物。 它可能依赖于摄取并分解上方和周围水域的动物群的排泄物。",
+    "Ency_SeaCrown": "皇冠草",
+    "EncyDesc_SeaCrown": "该植物主要由含有大量细菌种类的大型囊状生物组成，这可以使其能够分解从根系中提取的复合化合物。 与脑膜树有着极其相似的遗传密码。 环境扫描表明这种植物已经濒临灭绝。",
+    "Ency_MembrainTree": "脑膜树",
+    "EncyDesc_MembrainTree": "这个物种打破了之前对于这个星球上其他物种的规律。它是多种珊瑚类生物的结合体，在半透明的外膜内形成封闭的生态系统。玄武岩岩层为它提供了稳定且温和的生存环境。内部的亮紫色疑似动物在失去外膜的保护后可能会迅速死亡。",
+    "Ency_PinkFlower": "体素花",
+    "EncyDesc_PinkFlower": "一种外形美丽且独特的陆生植物，观赏性强。",
+    "Ency_FernPalm": "芭蕉草",
+    "EncyDesc_FernPalm": "首次鉴定此生物样本是在本地岛屿的人造植被。它不在现有的植物数据库中，所以无法确定其是否属于这个星球。该生物的DNA和本地生物有一定的相似性，但这可能是DNA的传染，而不是自然演化的结果。",
+    "Ency_OrangePetalsPlant": "海葵",
+    "EncyDesc_OrangePetalsPlant": "一种橙色的陆地植物，通常含有一个厚的、富含蛋白质的污泥状器官。这可能表明其猎物，幼虫和昆虫被明亮的花瓣吸引，在引诱下飞行到植物的中心，但无法逃离光滑的内叶，最终被消化。",
+    "Ency_EyesPlant": "邪目草",
+    "EncyDesc_EyesPlant": "一种带有发光、光敏性的眼睛状器官的洞穴植物。这些眼睛可能以某种方式直接扭曲的茎增长本身，可能是受外部光源的反应，洞穴壁影响和其他类似的环境条件的影响。",
+    "Ency_RedGreenTentacle": "鬼手草",
+    "EncyDesc_RedGreenTentacle": "只在深海生长，在低波长光照下回显现出淡色斑点。",
+    "Ency_PurpleStalk": "紫罗兰",
+    "EncyDesc_PurpleStalk": "一种常见的、发光植物，生长在海床上。",
+    "Ency_RedBasketPlant": "红篮草",
+    "EncyDesc_RedBasketPlant": "一个复杂的，洞穴居住的生物标本，这种植物明亮的黄色核心是在一个坚固的笼状器官里，大概是为了抵御中型草食动物。",
+    "Ency_RedBush": "红灌草",
+    "EncyDesc_RedBush": "一种常见的植物，能适应不同的环境，其红色汁液是许多小动物的主要食物。",
+    "Ency_RedConePlant": "红锥草",
+    "EncyDesc_RedConePlant": "这个标本由复杂系列的回归环组成，由卷须连接。",
+    "Ency_ShellGrass": "贝壳草",
+    "EncyDesc_ShellGrass": "虽然和血藻有内部遗传相似性，但是不同的是这一物种进化出了强硬的根系和喇叭状的外壳。",
+    "Ency_SpottedLeavesPlant": "荧根草",
+    "EncyDesc_SpottedLeavesPlant": "一个简单的水生植物。 化学物质的树叶以中和其他本地物种中发现的有毒和酸，从而吸引草食动物的捕食，尽管数量少。这保证了植物既能传播种子，又能保留足够的空间，使其存活下来。",
+    "Ency_RedRollPlant": "培根草",
+    "EncyDesc_RedRollPlant": "独特的卷曲叶片在这水生植物上的作用还不清楚。这可能是在低光照条件下展开，或者他们是为了让水流通过植物的主体，从而提高营养吸收。",
+    "Ency_PurpleBranches": "海樱花",
+    "EncyDesc_PurpleBranches": "一种紫色，发光物种，生长在远离阳光的耐寒的地形上。",
+    "Ency_SnakeMushroom": "蛇菇",
+    "EncyDesc_SnakeMushroom": "蛇菇洞穴的标志性景观，寄生在其中的危险生物蟹蛇与其形成了某种共生关系。
+-根基很坚韧，但是紫色的外薄膜很脆弱。
+-防御机制未知
+-共生机制未知。
+
+掠食者：未发现",
+    "Ency_BloodVine": "寒骨藻",
+    "EncyDesc_BloodVine": "这种海带系植物生长在深海，为一系列独特的生物乃至巨型生物提供居所。
+
+这个物种为了在这种严酷条件下生存，演化出了特别的应对机制，包括苍白如白骨般的外表，对环境中金属和原油的依赖，以及甚至具备电气防御机制。
+
+从寒骨藻中渗出的有机物红油会凝结成半硬的疱状物，然后散落开来，成为生态系统中其他生物的食物，或者随着时间的推移再次吸收进入地面，完成物种的繁殖。",
+    "FeedbackNewReply": "你收到了新的开发者回复，按 {0} 来阅读。",
+    "SurvivorPDA": "遗弃的PAD",
+    "Tooltip_SurvivorPDA": "下载数据",
+    "StarshipCargoCrate": "货物箱",
+    "StarshipCircuitBox": "电路盒",
+    "StarshipDesk": "办公桌",
+    "StarshipChair": "旋转椅",
+    "StarshipMonitor": "监控",
+    "Tooltip_StarshipCargoCrate": "从极光号抢救下来的物资。",
+    "Tooltip_StarshipCircuitBox": "复杂的接线盒。",
+    "Tooltip_StarshipDesk": "普通的舰载办公桌。",
+    "Tooltip_StarshipChair": "可以360度旋转。",
+    "Tooltip_StarshipMonitor": "错误",
+    "Techlight": "工业照明灯",
+    "Seaglide": "水下推进器",
+    "BaseBulkheadFragment": "隔离舱门碎片",
+    "BaseFiltrationMachineFragment": "海水过滤机碎片",
+    "BaseObservatoryFragment": "观景台碎片",
+    "BaseUpgradeConsoleFragment": "升级模块碎片",
+    "ConstructorFragment": "载具舱碎片",
+    "PowerTransmitterFragment": "能源延伸器碎片",
+    "RadioFragment": "无线电碎片",
+    "SeaglideFragment": "水下推进器碎片",
+    "SolarPanelFragment": "太阳能电池板碎片",
+    "SpecimenAnalyzerFragment": "标本分析仪碎片",
+    "TechlightBlueprint": "工业照明灯蓝图",
+    "Tooltip_Seaglide": "通过螺旋桨转动来产生水下推动力。",
+    "Tooltip_TechlightBlueprint": "用于建造工业照明灯。",
+    "Tooltip_Techlight": "可电池供电的工业照明灯，适用于一切环境。",
+    "Ency_Techlight": "工业照明灯",
+    "EncyDesc_Techlight": "由电池供电的标准照明灯，向单一方向投射强光，在各类工业勘探和紧急情况下很有用，可以应用在所有已知的环境中，电池可以升级。",
+    "Ency_Spotlight": "探照灯",
+    "EncyDesc_Spotlight": "开发以用于安装在现有栖息地和设施上的永久照明解决方案。 
+- 在180度拱门自动旋转 。
+- 运动检测：将跟踪附近的移动物体 。
+- 由主电源供电。",
+    "OxygenWarning10": "警告：氧气含量不足10%。",
+    "OxygenWarning30": "警告：氧气含量不足30%。",
+    "GrowingProgress": "生长率: {0:P0}",
+    "GrowingPlant": "正在生长 {0}",
+    "MelonSeed": "甜瓜种子",
+    "Tooltip_SmallKoosh": "外星植物样本。",
+    "Tooltip_MediumKoosh": "外星植物样本。",
+    "Tooltip_LargeKoosh": "外星植物样本。",
+    "Tooltip_HugeKoosh": "外星植物样本。",
+    "Tooltip_BulboTree": "外星植物样本，可食用。",
+    "Tooltip_OrangeMushroom": "外星植物样本。",
+    "Tooltip_PurpleVasePlant": "外星植物样本。",
+    "Tooltip_MelonPlant": "外星植物样本。",
+    "Tooltip_PurpleBrainCoral": "外星植物样本。",
+    "Tooltip_SpikePlant": "外星植物样本。",
+    "Tooltip_BluePalm": "外星植物样本。",
+    "Tooltip_PurpleFan": "外星植物样本。",
+    "Tooltip_SmallFanCluster": "外星植物样本。",
+    "Tooltip_PurpleTentacle": "外星植物样本。",
+    "Tooltip_GabeSFeather": "外星植物样本。",
+    "Tooltip_SeaCrown": "外星植物样本。",
+    "Tooltip_MembrainTree": "外星植物样本。",
+    "Tooltip_PinkFlower": "外星植物样本。",
+    "Tooltip_FernPalm": "外星植物样本。",
+    "Tooltip_OrangePetalsPlant": "外星植物样本。",
+    "Tooltip_EyesPlant": "外星植物样本。",
+    "Tooltip_RedGreenTentacle": "外星植物样本。",
+    "Tooltip_PurpleStalk": "外星植物样本。",
+    "Tooltip_RedBasketPlant": "外星植物样本。",
+    "Tooltip_RedBush": "外星植物样本。",
+    "Tooltip_RedConePlant": "外星植物样本。",
+    "Tooltip_ShellGrass": "外星植物样本。",
+    "Tooltip_SpottedLeavesPlant": "外星植物样本。",
+    "Tooltip_RedRollPlant": "外星植物样本。",
+    "Tooltip_PurpleBranches": "外星植物样本。",
+    "Tooltip_SnakeMushroom": "外星植物样本。",
+    "Tooltip_MelonSeed": "外星植物样本。",
+    "Tooltip_BlueJeweledDisk": "外星植物样本。",
+    "Tooltip_GreenJeweledDisk": "外星植物样本。",
+    "Tooltip_PurpleJeweledDisk": "外星植物样本。",
+    "Tooltip_RedJeweledDisk": "外星植物样本。",
+    "Tooltip_TreeMushroom": "外星植物样本。",
+    "Tooltip_BigCoralTubes": "外星植物样本。",
+    "Tooltip_CoralShellPlate": "外星植物样本。",
+    "RadioBounceBack": "无线电：这里是极光号。收到求救信号。救援将在9……9……9……9……9……小时后到达您的位置。请继续监测其他逃生舱状况。",
+    "RadioSecondOfficer": "无线电：拨放预录求救讯息……极光号第二副长官金：这里是求生舱19号的二副基恩！舰长已经不在了。我收到了他最后的命令。舰长临死前给了我检测到的陆地坐标，并命令所有幸存者在坠毁地点西南方一公里处集合，我们必须齐心协力了，请务必来到汇合点。现在重复这条讯息。主控制台：集合点坐标数据已损坏。正在下载原始数据。",
+    "RadioWarper1": "(乱码)发现9名新型生物。模式：狩猎\/分析。(乱码) 请与其他裂空者共享位置。",
+    "RadioWarper2": "(乱码)11783号客体已被摧毁(乱码)出现新的未知目标。",
+    "RadioPrecursor1": "无线电：乱码",
+    "RadioPassingShip": "[无信号]",
+    "HintSuccess": "厉害了！",
+    "PDABootingEmergency": "启动应急模式",
+    "EscapePodStorageOpen": "打开逃生舱存储柜",
+    "EscapePodMedKitOpen": "打开医用柜",
+    "EscapePodMedKitClose": "关闭医用柜",
+    "FuelPercent": "燃料: {0:P0}",
+    "Weld": "修理",
+    "Tooltip_MedicalCabinet": "每30分钟生成一个急救包。",
+    "Tooltip_FireExtinguisher": "可以扑灭火焰。",
+    "Damaged": "受损",
+    "Pickup_FireExtinguisher": "拾起灭火器",
+    "FireExtinguisher_Douse": "扑灭火焰",
+    "MedicalCabinet": "医用柜",
+    "MedicalCabinet_DoorClose": "关闭",
+    "MedicalCabinet_DoorOpen": "打开",
+    "MedicalCabinet_PickupMedKit": "拿取急救包",
+    "DamagedWires": "备用系统损坏",
+    "WeldToFix": "使用焊接器",
+    "IntroEscapePod1Header": "启动发射程序",
+    "IntroEscapePod1Content": "进入行星大气层！
+-所有系统：上线。
+-船员安全束缚：安全。
+-G力逼近危险等级
+-冲击缓冲。",
+    "IntroEscapePod1Power": "能源电池 1-3号 恢复",
+    "IntroEscapePod2Header": "紧急情况！",
+    "IntroEscapePod2Content": "碰撞检测。部署飘浮设备。发现逃生舱内部有大火。 
+二氧化碳含量接近危险等级。 
+辅助系统：脱机。 
+舱口：故障。",
+    "IntroEscapePod2Power": "主电源脱机",
+    "IntroEscapePod3Header": "警告!",
+    "IntroEscapePod3Content": "-电路测试：失败
+-第二系统：离线
+-无线电：离线
+-紧急信号广播：失败 
+-漂浮设备：展开 
+-船体完整性：良好。",
+    "IntroEscapePod3Power": "太阳能电池 1\/3工作中",
+    "IntroEscapePod4Header": "状态：确定",
+    "IntroEscapePod4Content": "-备用系统：重新上线 
+-无线电通信：失败 
+-接收无线电信号：成功 
+-漂浮装置：已部署 
+-船体完整性：良好 
+-环境：
+ -未知行星的海洋 
+ -大气层成分：氧气\/氮气 
+ -水中细菌等级：高",
+    "IntroEscapePod4Power": "主电源恢复",
+    "EncyPath_DownloadedData\/Degasi": "德加斯号船员资料下载",
+    "Ency_IslandsPDABase1Interior": "保罗托加尔的一号日志-放逐",
+    "EncyDesc_IslandsPDABase1Interior": "长官日志：从我们的飞船在空中遇难至今已经差不多5周了。在这场事故中，命运让我和我的儿子巴特幸免于难，但与此同时也给了我们一名同行的累赘，梅达。她是一名武装德加斯号的廉价雇佣兵，我很不情愿地同意她和我们同行。
+我们三人在逃生舱里度过了噩梦般的几天，每天看到的除了大海就是暴雨。天气终于放晴后，我们惊喜地发现了这个漂浮着的海上绿洲。我们利用德加斯号遗骸残存的物资建立了这个避难所。此后，我让巴特研究和培育本地的植物，很快，他的研究让我们得到了稳定的食物来源。他之前高昂的生物学院学费也算没有白交。
+唯一令人心烦的是那个雇佣兵梅达。她一直嚷嚷着这个岛太小，我们迟早会耗尽岛上的资源，而且还说一旦天气再度变差，我们的生存环境会变得十分恶劣。在我看来，这只是她作为一个雇佣兵周期性地躁动，一个多星期没打斗让她皮痒罢了。她的各种想法都是极度悲观，并且觉得我们如果延续这样的状态迟早会完蛋。但是如果他有像我一样的见识，就会知道人类天生就是可以掌控自然的，一切都会向好的方面发展。
+我们现在唯一要做的就是维持现状，尽量活下去，撑到保险公司派遣救援队来救我们。可能需要几个月，也可能是几年。",
+    "Ency_IslandsPDABase1a": "巴特托加尔的3号日志-深海归来",
+    "EncyDesc_IslandsPDABase1a": "这是我几个月的海底生活以来，第一次见到阳光。但是来到地表，我却很难独自享受这突如其来的自由。父亲说的对，我们从来就不该离开岸上去到海底的，这个星球和它海里的生物并不欢迎我们。
+父亲和梅达此时已经成为这个星球的一部分了。我的健康状况也在持续恶化，想到很快就能见到他们，也就没什么不舍了。\n在此之前，我至少还可以享受这美丽水世界的宁静和美景吧。",
+    "Ency_IslandsPDABase1bDesk": "德加斯的1号声音日志-基地位置",
+    "EncyDesc_IslandsPDABase1bDesk": "保罗：这个岛屿已经是我们最好的避难所了，没有掠食者，还有新鲜的食物供给。
+玛格丽特：但是这里没有建筑材料，飞船遗留下的材料已经用完了。培养皿用完后，我们也无法培育植物了，这样我们都会饿死。孩子，这是你说的吧。
+巴特：是的爸爸，植物种在这里的土壤自然生长太慢了，这样下去我们的收获赶不上消耗的速度。
+玛格丽特：我的意思很简单，在这样四面环海的小岛上躲藏着，我们只是在自欺欺人，坐以待毙罢了。
+保罗：梅达，如果你想去，你就去吧，如果不是这次事故，你的余生本来也应该在战斗中度过，但是请别拉上我，我决定的事情就不会再改变。你如果想去就游下去看看吧，但是你会因此被扣掉你的佣金。
+玛格丽特：相信我，我可不是说说而已。",
+    "Ency_IslandsPDABase1Desk": "德加斯的2号声音日志-风暴来了",
+    "EncyDesc_IslandsPDABase1Desk": "保罗：儿子，我说了不行。我们必须等待这场暴雨过去，跟我们的安全比起来，那些蔬菜样本算什么？
+巴特：爸爸，在你的船坠毁的那一刻，你已经不是船长了。你也没有权利命令我。
+保罗：直到你能管好自己，并做好自己的决定时，我才不会再管你！
+玛格丽特：长官，问你几个问题。
+保罗：说！
+玛格丽特：你是知道怎么把那几十吨雨水从培养皿里排出来，还是说你不需要培养皿，可以在空气中长出食物来？
+保罗：不要逞口舌之快，梅达，你这坏习惯要改一改了。
+玛格丽特：我只是想说，你儿子这条命现在可以为你培育植物。但你如果不让他去，到明天你会饿到连他的肉都想吃，你明白吗？
+保罗：去吧，去把植物抢救回来。
+
+[巴特·托格尔离开了基地]
+
+保罗：听着，如果你再像这样干涉我和我家人之间的事情，救援到达时，我会把你一个人留在这个星球上，你听懂了吗？
+玛格丽特：天真的长官啊，没有救援队会来的，至少在我们能解决生存问题之前不会来。这场雨一直这么下着，这里迟早会被淹没。唯一的问题是我们要不要死在一起。",
+    "Ency_IslandsPDAExterior": "德加斯的3号声音日志-后果",
+    "EncyDesc_IslandsPDAExterior": "玛格丽特：看到了吗，长官。是你把我们带到了这个糟透了的地方。之前你说我们会发财，但是六个星期后我们得到什么了？船员基本都死了，船坏了，食物也都被冲走了。
+保罗：你的意思是你这样一个只会用机枪扫射别人的脸的人比我更有领导权？
+玛格丽特：最起码我知道，在航行途中不要随便绕行到一个没有勘探过的未知星球，我想这应该常识吧。
+保罗：你只会在事故发生后指摘我的决定，却想不出如何让我们摆脱现在的困境的方案。
+玛格丽特：我还真有一个想法。我们可以把我们已有的资源和装备全部带走，在水下几百米的一个洞穴里建立基地，并且进行加固，我已经找好了地方，那里矿产很丰富。
+保罗：那我们吃什么，喝什么？
+玛格丽特：首先我们有丰富的建造资源，可以用于制造净水过滤器生产过滤净水，制造生物反应堆来发电，并且有新鲜的鱼可以吃，如果那样的话，我们必须付出的代价可能是吃海藻沙拉和回收我们的体液用于饮用。但是，你有比这更好的提议吗？
+保罗：这样吧，你先把你找的那个洞穴位置的坐标发送给我，我好好考虑一下。",
+    "Ency_JellyPDABrokenCorridor": "德加斯号语音日志#5 - 啄食顺序",
+    "EncyDesc_JellyPDABrokenCorridor": "保罗：儿子，不管在哪里，只要有人，就有阶级。在我们的世界，钱就是决定人们阶级的单位。我花钱雇佣梅达，并且我为你的教育花钱，所以，就算我的船不在了，我仍然处在阶级最顶端。
+巴特：如果是钱决定了人与人的层级，那为什么去哪里，做什么的决定都是梅达在做？
+保罗：我雇佣了她，所以她有责任帮我们做出正确恰当的决定，来让我们存活下去，这也是雇佣关系的一部分。
+巴特：但是如果她不想受雇佣合同限制了呢？
+保罗：只要给的钱够，人们会足够忠诚的，你会明白的。",
+    "Ency_JellyPDARoom2Desk": "德加斯号的5号声音日志 - 去往更深?!",
+    "EncyDesc_JellyPDARoom2Desk": "保罗：我们已经到200米深了，你还要去更深的地方吗？你疯了吗？
+玛格丽特：看看我们周围，船长，水已经渗进了船体板。我们快淹死了。你有没有想过，如果救援队来了,之前击落我们的武器还会再度击落它，直到我们关闭了这个武器之前，没有救援队能顺利降落。下面，就在下面，一定有某种开关可以关闭这个武器。
+保罗：你在说什么，在500米的水下怎么会有什么关闭开关？
+玛格丽特：这是我的预感,，之前我们找到的外星人留下的奇怪装置应该和这一切有什么关系，而且是我们在水下发现的，不是在岸上发现的。
+保罗：你疯了，你一定是疯了。
+玛格丽特：你说我疯了也好，固执己见也好，至少我这个假设有可能行得通，也是我们活下去的唯一可能。所以你们要是听我的，就跟过来。不听我的就回去，记住，你只有在水面上才有指挥权。",
+    "Ency_JellyPDAObservatory": "巴特托加尔的2号日志-潜行者的牙",
+    "EncyDesc_JellyPDAObservatory": "刚刚发生了一件难以置信的事情。
+
+我们带来的高强度搪瓷玻璃很快就用完了。虽然我们可以从本地的矿物里采集石英来制作普通的玻璃，但是这些玻璃的强度远远达不到我们手术台上的切割工作要求。所以我开始寻找一些本地可以替代或加强玻璃的硬度的生物材料。刚好发现本地一种生物潜行者的牙齿能达到要求，但是数量远远不够。我提到这件事的时候，玛格丽特好像很感兴趣。
+此后，她问了我一些关于我的生物研究的进展，其中旁敲侧击的问我关于潜行者习性的问题。由于父亲很少关心我的科学研究，我一直苦于研究成果无人倾听。于是我将我观测之后的大胆猜想告诉了玛格丽特，我告诉她，潜行者似乎会被金属吸引，在用金属磨牙后可能会掉牙，她听完之后马上兴奋地跑出了基地。
+三个小时后，她带着一大袋潜行者的牙齿回来了，手臂上有一个巨大的伤口，一直在流血。在我帮他包扎伤口时，她告诉我们潜行者实在是太弱了，还有可爱的白白肚皮。我只能说这太不可思议了，她一个人去海藻森林，一个人只用一把热能匕首解决了这么多潜行者，然后全身而退了。
+这件事让我喜忧参半，高兴的是，我有足够的优质材料替代之前的低强度玻璃进行科学研究了。担忧的是，我们的到来会不会破坏当地的生态环境或者食物链，毕竟根据我的研究，这里的环境十分易变且脆弱。
+我希望我可以更多地近距离研究这些生物，但是爸爸不让我出去，怕有危险。说不定有了这种高强度的材料，我们可以建造一个水族箱或者类似的东西来饲养这些生物，供我们研究，了解更多关于这个星球的信息。",
+    "Ency_JellyPDARoom1Desk": "巴特托加尔的1号日志-这个疯狂的世界",
+    "EncyDesc_JellyPDARoom1Desk": "我觉得这样一直生活在水下，我们会得幽闭恐惧症。哈哈，反正父亲一直这么觉得。在我看向窗外时，我觉得能这么近距离地看这个世界实在是太幸运了。如果是之前一直在岛上，我根本无法想象这水下有这么多丰富多彩的生物。甚至有一种鱼，身体的百分之90都是眼睛，还有身体长度比两个房间都大的蛇一样的生物。
+当然，其中的很多生物都是不友好的，并且99%的植物都有毒，这些都是我付出惨痛地代价才得到的研究结论。我已经设法将一些甜瓜种在了基地里，不过甜瓜不够吃的时候，我们还是会吃一些本地的鱼类，虽然很不好吃，但是起码是热量来源吧。
+我一直在记录我的研究发现，这一点父亲也是允许的，他也觉得我们如果想利用这个星球的资源离开，必须得先透彻了解这里的动物和生物。但是我做这些研究纯粹是因为我喜欢研究。没有扫描设备和网路，做起研究来会很难，但是用最原始的观察，总结，做笔记，测试实验这些研究方式，让我看到了从前用扫描光谱看不到的东西。
+比如最近我在研究一种名为蟹蛇的生物，它会寄生在本地一种发光的菌类植物中，袭击想来食用蘑菇的鱼，吃完的残渣掉落在海床，又可以作为菌类生长的养料。看到这一生物行为，我脑海中马上回想起生物共生学的概念，说不定这是这个星球上很重要的一种生物习性。",
+    "Ency_JellyPDARoom1Locker": "保罗托加尔的2号日志-一切都乱了",
+    "EncyDesc_JellyPDARoom1Locker": "你们绝猜不到今天梅达说了什么。她说我们得在东边1公里的海平面以下500米深建一个水下基地。她脑子里装的都是什么？就因为她的几次正确决定让我们活下来了，她就像当上领导吗？她难道忘了她只是我雇佣的安保人员？
+但是这个主意虽然疯狂，除此之外我也想不到更好的办法了，她说的没错，我们总不能坐以待毙。上周我已经80岁了，我原本以为我还能再活80岁，但这个星球上我没有肝脏可以换，没有了科技，我现在只是一介凡人，但是梅达或许可以帮我离开。
+所以我必须在两者间做出抉择，在岛上等待救援，并期望救援队不会受到不明攻击，或者到海底深处寻找这一切的答案？与此同时，还得期望自己是自然老死，而不是被海怪杀死。
+但是梅达有一点说对了，她给我的坐标那里矿产确实十分丰富，那里的锂大概可以生产100吨的塑钢，甚至可以造出一支独眼巨人号舰队。如果我们安全离开了，公司的股价可能会狂飙。",
+    "Ency_JellyPDAExterior": "玛格丽特梅达1号声音日志-自由",
+    "EncyDesc_JellyPDAExterior": "这些自私，自大，可悲，无能的资本家真是一点用都没有，他们都是榆木脑袋吗？
+这个孩子还好，比他的父亲有用的多，我发誓，这个父亲嘴里吐出来的每一个字都是自恋且愚蠢的谎言。
+他想留在这个洞穴是他的事情，而我有更重要的事情要做，去他的合约，去他的工资。我的生存哲学就是海怪追赶你的时候，不要躲藏，你也去狩猎他们，然后用他们的骨架搭成潜艇去狩猎更大的海怪，直到所有海怪被杀干净。
+我要去更深处，我要发现是什么人把我们的飞船射下来，我要打烂他的脸。
+我已经在准备了，这孩子教会了我如何做搪瓷玻璃，并且我存了很多矿石可以做一个海蛾号。在我离开之前，我会带走所有能吃的食物。
+万恶的资本家。",
+    "Ency_JellyPDARoom2Locker": "德加斯号4号语音日志 - 意外发现",
+    "EncyDesc_JellyPDARoom2Locker": "保罗：那是什么？
+玛格丽特：我不知道，这是我在外面的淤泥里发现的。
+保罗：是其他船只的残骸吗？
+玛格丽特：总之我从来没见过。
+巴特：连一点划伤的印记都没有。
+保罗：别乱动它，别弄坏了，这东西肯定有用。
+玛格丽特：别紧张，它要是那么容易碎，我拿起来的时候就会碎了。
+巴特：看，它在发光！
+保罗：在我们之前就有人来过这个星球了。
+玛格丽特：也许吧，可能是外星人，也可能是海怪？但有一点是肯定的，我们在这岸上什么线索都不会发现。",
+    "BaseMapRoomFragment": "扫描室碎片",
+    "BaseMapRoom": "扫描室",
+    "Tooltip_BaseMapRoom": "搜寻范围内的资源和残骸。
+",
+    "MapRoomCameraInfo": "摄像无人机 {0}",
+    "MapRoomCameraControls": "用鼠标滚轮切换摄像无人机",
+    "MapRoomCameraDistance": "距离: {0}",
+    "EncyPath_DownloadedData\/Lifepods": "未知",
+    "EncyPath_DownloadedData\/AuroraSurvivors": "极光号的幸存者",
+    "Ency_Lifepod1": "2号逃生舱首席工程师于的语音日志（T+2min）",
+    "EncyDesc_Lifepod1": "工程师于：漂浮装置失败！
+
+柏克萊：我们的逃生舱正在进水，快疏散！
+
+工程师于：等等，我可以重新配置氧气系统作为舱底泵！
+
+柏克萊：成功了!
+
+*崩溃*
+
+工程师于：好的，好消息是：我们还活着，我们已经停止了下沉。
+
+柏克萊：那坏消息呢？
+
+工程师于：氧气将在30分钟内用完，而我们在水下了500米处。
+
+柏克莱：我们该怎么办？
+
+工程师于：我们使用剩余的东西发送求救讯号，并制作任何有帮助的装备，然后找个方法回到水面。",
+    "Ency_Lifepod2": "12逃生舱医疗人员丹比的日志",
+    "EncyDesc_Lifepod2": "我并不是一个货真价实的医生。我知道我的卡片上说我是医疗人员，但我从来不是个医生。在医学考试时我不过是在上衣口袋里偷偷带了一台扫描仪，然后答案就都能扫描出来了，这谁不会？这年头有几个医生会手动接骨头？有几次手术是外科医生亲自做的？都是机器人来。你知道吗其实我很擅长我的工作的，扫描仪对着病人的胸口扫几下就可以出结果，治好病了。
+但是我终究为我的傲慢付出了代价。
+扫描仪这东西在没有网络连接的时候简直就是一堆废铁。我全身都在流血，手上长出了绿色的脓包，但是用扫描仪执行自扫描，它竟然说我是皮肤过敏，并建议制作急救包？当然了，我还记得化学课的时候和我旁边的美女搭讪，但我怎么记得天杀的漂白剂怎么做，或者怎么消毒伤口！
+我想我要死在这里了。",
+    "Ency_Lifepod3": "3号逃生舱船员日志",
+    "EncyDesc_Lifepod3": "未知船员1：你真的认为它能载我们两个人吗？
+未知船员2：常规的推进器可以牵引80kg的重量达到30码，我使用了更高额定功率的电池，应该可以。
+未知船员1：你觉得外面有什么东西能追的上？  未知船员2：我觉得这个星球已经给了我们足够的惊喜了。 未知船员1：你还真是冷静啊！
+未知船员2：我只是通过计算分散注意力罢了，否则我会害怕的要死的。",
+    "Ency_Lifepod4": "13号逃生舱大使语音日志",
+    "EncyDesc_Lifepod4": "[逃生舱系统在线]
+[07号乘客卡萨登入]
+[逃生系统启动]
+[逃生舱完成与极光号分离]
+卡萨：感谢我的创造者，爱我的人，我爱的人，给我此生带来的诸多欢愉，我也庆幸曾将如此多的欢愉带给你们。
+[进入行星大气层]
+[外部温度接近临界水平]
+卡萨：生命啊，像是一场无限循环的旅程，纠缠着爱与真理。而我的生命中大放异彩的却是权利，一次次敲击着我的灵魂。
+[船舱外表持续融化]
+[生命保全系统失败]
+[即将发生碰撞]
+卡萨：生命就是宇宙和它本身的一场游戏。循环往复，周而复始。我的灵魂在这具躯壳中即将逝去。也将在另外的某处，完成重生。",
+    "Ency_LifepodSeaglide": "17号逃生舱船员日志",
+    "EncyDesc_LifepodSeaglide": "奥齐的日志。真是崩溃的一天。我完全不知道发生了什么事情。现在我害怕的不敢出去。水下的舱门倒映着奇怪的影子，不知道是岩石，还是外星生物，周围全是外星奇特的洞穴。
+
+极光号上载有建造外形像为传送门所需的大量物资。载具舱，生物反应器，推进炮以及……电影院，哦对了，还有一个失重健身房和我最爱的咖啡厅，一切都来的太突然了，我不知道我现在在哪，我也不知道为什么没有人来救我。",
+    "Ency_LifepodKeenDialog": "19号逃生舱二副基恩的语音日志",
+    "EncyDesc_LifepodKeenDialog": "船长：金，这里是极光号，收到请回话！
+金：收到。
+船长：船载计算机分析确定在这个坐标附近可以重组幸存船员，我将这个任务交给你，坐标已经发送。
+金：了解，但是您？
+船长：现在他们的生命都扛在你一个人肩上，请对他们负责！
+金：船长，您也需要撤退啊！
+船长：不行，你们会需要尽量完整的极光号来回收资源并通过它联系阿尔特拉总部，我必须将极光号坠毁受到的伤害降到最低。
+*极光号爆炸声*
+金：船长！船长！
+*失去联系",
+    "Ency_LifepodKeenLog": "19号逃生舱二副金的船员日志",
+    "EncyDesc_LifepodKeenLog": "致所有船员-如果你收到这一信息，请无视我的安全，尽全力抵达最近陆地上的汇合点，和所有其他幸存船员汇合，我希望能在岸上看到你。",
+    "Ency_LifepodCrashZone1": "6号逃生舱船员1号日志",
+    "EncyDesc_LifepodCrashZone1": "船员：女士，请你冷静，我们现在还没有危险。
+乘客：救援队呢？救援队怎么还不来？
+船员：救援队没能抵达。
+乘客：你说什么？他们在哪？
+船员：他们死了，女士，但是我们有陆地汇合点的坐标，去那得穿过一大片有过量辐射的区域，我们只有一件防辐射服。
+乘客：所以怎么办！
+船员：如果让我穿上防辐射服，我会去找一些铅，回来帮你做另外一套潜水服，然后我们一起去汇合点。",
+    "Ency_LifepodCrashZone2": "6号逃生舱船员2号日志",
+    "EncyDesc_LifepodCrashZone2": "乘客：我不该让她抛下我一个人出去收集材料的，天都黑了还不见回来。
+说不定她已经自己去汇合点了，又或许她已经淹死或者被外星人杀死了，我不能坐以待毙，我要去发射一个求救信号弹。
+
+*点燃信号弹的声音*
+
+*舱门打开的声音*
+
+船员：你在做什么？！
+
+ 乘客：我在发射信号弹啊！你怎么去了这么久！
+
+船员:那不是求救信号弹。赶紧扔掉，你会伤到自己的！
+
+*爆炸声*",
+    "Ency_LifepodCTODialog1": "未知",
+    "EncyDesc_LifepodCTODialog1": "指挥官日志",
+    "Ency_LifepodCTODialog2": "未知",
+    "EncyDesc_LifepodCTODialog2": "指挥官日志",
+    "Ency_LifepodCTOLog2": "未知",
+    "EncyDesc_LifepodCTOLog2": "指挥官日志",
+    "MapRoomCameraNoSignal": "无信号",
+    "MapRoomCamera": "遥控摄像无人机",
+    "Tooltip_MapRoomCamera": "一种可控摄像无人机。",
+    "Quality": "品质",
+    "VRRenderScale": "VR呈现规模",
+    "Apply": "应用",
+    "HorizontalSensitivity": "横向灵敏度",
+    "VerticalSensitivity": "垂直灵敏度",
+    "InvertLook": "反转",
+    "EnableController": "启用手柄控制器",
+    "ResetToDefault": "重置为默认值",
+    "Deconstruct": "拆解",
+    "Construct": "建造(按住左键)",
+    "CyclopsWelcomeNoPower": "独眼巨人号：警告：仅剩应急能源，氧气供应系统瘫痪。",
+    "AssignQuickSlot": "指定快捷键",
+    "Eat": "吃",
+    "Use": "使用",
+    "Place": "放置",
+    "Drop": "丢弃",
+    "SwitchContainer": "开\/关",
+    "SeamothWelcomeNoPower": "海蛾号: 警告: 应急电源. 氧气生产停止。",
+    "BaseWelcomeNoPower": "基地: 警告: 仅剩应急电源,氧气生产系统崩溃。",
+    "MapRoomCameraConnecting": "正在连接",
+    "StarshipChair2": "办公椅",
+    "StarshipChair3": "长官椅",
+    "Tooltip_StarshipChair2": "让你更放松，更自信。",
+    "Tooltip_StarshipChair3": "由你指挥全局。",
+    "UseMapRoomFabricator": "使用工作台",
+    "MapRoomUpgrades": "扫描室升级模组",
+    "MapRoomHUDChip": "示波器芯片",
+    "Tooltip_MapRoomHUDChip": "显示扫描室的数据。",
+    "MapRoomUpgradeScanRange": "扫描范围升级模块",
+    "MapRoomUpgradeScanSpeed": "扫描速度升级模块",
+    "Tooltip_MapRoomUpgradeScanRange": "增加扫描室的扫描范围。",
+    "Tooltip_MapRoomUpgradeScanSpeed": "增加扫描室的运行速度。",
+    "FireExtinguisher": "灭火器",
+    "DamagedSavedGame": "<color='#000000FF'>损坏的游戏存档<\/color>",
+    "MapRoomCameraInfoScreen": "摄像无人机 {0}",
+    "ControlCamera": "控制摄像无人机",
+    "MapRoomScanningText": "扫描中",
+    "BindQuickSlot": "指定快捷键",
+    "Equip": "装备",
+    "Unequip": "取下",
+    "CyclopsHullModule1": "独眼巨人号MK1抗压模组",
+    "Tooltip_CyclopsHullModule1": "将安全下潜深度提高至400米，效果无法叠加。",
+    "CyclopsHullModule2": "独眼巨人号MK2抗压模组",
+    "Tooltip_CyclopsHullModule2": "将安全下潜深度提高至1000米，效果无法叠加。",
+    "WorkbenchMenu_CyclopsMenu": "独眼巨人号升级",
+    "CyclopsLightingToggle": "切换内部照明 开\/关",
+    "CyclopsPowerToggle": "独眼巨人号功率切换 开\/关",
+    "CyclopsFloodlightsToggle": "切换外部照明灯 开\/关",
+    "SeamothDepthWarning": "警告!海蛾号低于承受挤压深度!",
+    "UraniniteCrystal": "铀矿晶体",
+    "ReactorRod": "反应堆控制棒",
+    "Tooltip_ReactorRod": "用于核反应，为其提供能量。",
+    "Tooltip_UraniniteCrystal": "八氧化三铀高放射性物质。",
+    "SmallStorageDefaultLabel": "存储柜",
+    "SmallStorageEditLabel": "编辑储物柜名称",
+    "CyclopsExternalCam1": "摄像无人机 1 - 龙骨",
+    "CyclopsExternalCam2": "摄像无人机 2 - 潜望塔",
+    "CyclopsExternalCam3": "摄像无人机 3 - 螺旋桨",
+    "CyclopsExternalCamControls": "使用{0}和{1}循环摄像机
+使用{2}切换相机光
+使用{3}退出",
+    "Ency_SeaTreader": "踏浪者",
+    "EncyDesc_SeaTreader": "一种巨大的双足生物，群体于珊瑚礁中漫游。
+
+1.伸长的鼻子：
+用于从海底吸取植物，以及维持身体平衡。
+
+-据发现，该生物具有群体迁徙行为。
+- 大数量的群居会毁坏当地植被。
+- 高热量饮食
+
+评估：建议进一步调查",
+    "Ency_ReaperLeviathan": "死神利维坦",
+    "EncyDesc_ReaperLeviathan": "利维坦处于几乎所有食物链的顶端。
+这个物种是天生的狡猾猎人，具有发达的视力和回声定位能力。死神定期发出深吼声作为高效的声纳。
+-如果你听到了它，它也可以听到你。
+四个强大的下颚：利维坦能在它的爪子能触及的范围内锁定猎物。模拟攻击强度超过海蛾号抗压性。
+-扫描样品测量55米长。
+-观察到它习惯于从后方攻击猎物。
+-这个生物体身上几乎都是肌肉。没有大脑。没有道德感。只是有肉，筋骨和牙齿。
+猎物：一切生物。
+捕食者：未知。
+注意：这种生命形式被归类为利维坦类捕食者。恭喜您，离它这么近还能活到看到这里！
+
+评估:极端威胁！
+",
+    "Ency_Crabsquid": "蟹鱿",
+    "EncyDesc_Crabsquid": "这种大型捕食者通常出现在深海，便于潜伏在寒骨藻和脑膜树附近寻找猎物。 
+- 10个不同外肢具有游泳，行走和进攻行为的分工。
+- 以小型鱼类为食，通过辨别气味和光线在阴暗的水域中进行猎物识别。
+- 对光照很敏感，因此水母鳐和刺头鱼是其天然的猎物 。
+- 攻击性强
+
+评估：避免接触",
+    "Ency_Warper": "裂空者",
+    "EncyDesc_Warper": "一种具有侵略性的生物，具有超时空传送自己及其他生物的能力。
+
+1.头部：
+位于头部区域的特殊机能使该生命体能够将自己或其他生物相位跳跃到不同的位置。
+
+2.躯干：
+会狩猎其他生物，但并没有消化器官。内部结构比其他已知生物体复杂得多。
+
+-没有发现与其他本地生物遗传相似度。
+- 资料库中没有推荐的针对防御手段。
+
+",
+    "BaseBioReactorStorageLabel": "生物反应堆",
+    "UseBaseBioReactor": "使用生物反应堆 (充能: {0}\/{1})",
+    "BaseBioReactorActive": "激活",
+    "BaseBioReactorInactive": "未激活",
+    "BaseBioReactorCantAddItem": "你只能把有机物放入生物反应堆。",
+    "BaseBioReactorCantRemoveItem": "你不能从生物反应堆中回收物品。",
+    "BaseNuclearReactorStorageLabel": "核反应堆",
+    "UseBaseNuclearReactor": "使用核反应堆 (充能: {0}\/{1})",
+    "BaseNuclearReactorActive": "激活",
+    "BaseNuclearReactorInactive": "未激活",
+    "BaseNuclearReactorCantAddItem": "反应堆只能用核反应棒作为燃料",
+    "BaseNuclearReactorCantRemoveItem": "核反应棒只有耗尽才能被移除",
+    "DepletedReactorRod": "耗尽的反应堆控制棒",
+    "Tooltip_DepletedReactorRod": "核废料。",
+    "BaseNuclearReactor": "核反应堆",
+    "BaseBioReactor": "生物反应堆",
+    "Tooltip_BaseNuclearReactor": "使用核反应棒来产生能量。",
+    "Tooltip_BaseBioReactor": "将生物能转化为电能。",
+    "GhostRotateInputHint": "旋转 ({0} \/ {1})",
+    "BaseBioReactorFragment": "生物反应堆碎片",
+    "BaseNuclearReactorFragment": "核反应堆碎片",
+    "Tooltip_BaseBioReactorFragment": "生物反应堆科技碎片。",
+    "Tooltip_BaseNuclearReactorFragment": "核反应堆科技碎片。",
+    "Fullscreen": "全屏",
+    "Tooltip_UseBaseBioReactor": "将生物能转化为电能。",
+    "Tooltip_UseBaseNuclearReactor": "核反应堆控制棒。",
+    "WorkbenchMenu_SeamothMenu": "海蛾号升级",
+    "EncyPath_DownloadedData\/PublicDocs": "公开文档",
+    "EncyPath_DownloadedData\/BeforeCrash": "操作日志",
+    "EncyPath_DownloadedData\/Degasi\/Orders": "阿尔特拉搜索和救援任务",
+    "Ency_InnerBiomeWreckLore1": "搜索救援：保罗 托加尔",
+    "EncyDesc_InnerBiomeWreckLore1": "高级人员搜索&救援目标：保罗托加尔。
+职位：托加尔公司首席执行官，“德加斯号”的舰长。
+现状:在4546B星球附近失踪。
+失踪时年龄：79。
+保罗托加尔和他的船员在十年前与蒙古当局接触后就神秘失踪。保险公司对其进行了全方位的搜索和救援，并通过该系统的多艘船只试图跟踪该船，但没有任何结果。
+-他母亲退休后。他就是托加尔集团大股东。
+-与阿尔特拉有稀少的特许弹药交易。
+-生命延长技术的受益者。
+-一同失踪的还有他唯一的孩子，保罗托加尔(19)，托加尔公司的法定继承人。
+-蒙古使者卡萨报告托加尔经常带着少数骨干船员旅行。
+-系统维护不足可能是飞船失事的主要原因。",",
+    "Ency_InnerBiomeWreckLore2": "搜索救援：巴特 托加尔",
+    "EncyDesc_InnerBiomeWreckLore2": "高级人员搜索&救援目标:巴特托加尔
+职位：托加尔公司副总裁。
+现状：在4546B星球附近失踪。
+失踪时年龄：19。
+-保罗托加尔唯一的孩子。
+-强化学习技术和大脑植入技术的受益者。
+-学习了先进的生物化学和恒星经济学。
+-蒙古使者卡萨报告巴特陪同他的父亲，保罗，到了一个新建造的空间站，他将成为一个五年任期的首席运营官。",",
+    "Ency_InnerBiomeWreckLore3": "搜索救援：玛格丽特 梅达",
+    "EncyDesc_InnerBiomeWreckLore3": "高级人员搜索&救援目标：玛格丽特梅达。
+职位:安保人员。
+现状：在4546B星球附近失踪。
+失踪时的年龄：42。
+-自由雇佣兵，出生在蒙古国。
+-在船对船和近距离战斗技术上富有经验。
+-失踪前正在进行与蒙古国防军和跨系统联合会的义务旅行。
+-15年前曾逃离执行任务。
+-蒙古使者卡萨报告梅达被聘请陪伴保罗托加尔在德加斯号登上未知空间时，在遇到海盗袭击的情况下保卫船舶。",",
+    "Ency_InnerBiomeWreckLore4": "阿尔特拉市民感言",
+    "EncyDesc_InnerBiomeWreckLore4": "弗兰克告诉我们：“我听闻有一些世界，在那里孩子们仍然需要从书本中学习。他们每天都进入教​​室，背诵一些知识，然后在考试。但在另一种世界中世界，每个人都应该是一个艺术家！为了在人类世界中工作而学习有什么用？在阿尔特拉世界上，每个人都会被根据心理测试和特殊的数字测验决定每个人应该做什么，以发挥每个人的特长。
+马克斯：“我一开始从事于阿尔特拉的营销。这是一个很好的工作，尽管我认为我或许可以做得更好。后来我成立了自己的公司，为海蛾号潜水器设计代码。十年前我把这项技术卖给了阿尔特拉。现在我是董事会的一员了，并且从没有后悔过。
+乔治说，“我每天的生活从10点开始。我住在泰拉17号监控基地。我只需要五分钟说话。我是一个天生充满同情心的人，所以我以我的工作是做别人的伴侣。我整日的时间都用来访问客户，与他们谈话，了解他们,关注他们，了解每个人所需要和应该得到的，像大多数人一样，我觉得自己能活在阿尔特拉世界很幸运，在这里可以做我喜欢的事情。
+卡兹说，“我们很幸运，并且自由，我们有满意的工作。有些政府的领地机器人完全取代了人力，你知道吗？
+杰米说：“我设计了人造世界，包括一些最流行的机器人版本。要做到我这样你需要知道人们真正想要的是什么。他们想要兴奋，冒险，新的经历，以及成为任何他们想成为的人。我的工作是实现这些需求。有人说我们花了太多时间逃避我们的现实，而忽略了怎么让现实生活变得更好，我觉得这是因为他们根本没有体验过阿尔特拉。
+",
+    "Ency_InnerBiomeWreckLore5": "反式政府简介:蒙古独立国家",
+    "EncyDesc_InnerBiomeWreckLore5": "当扩大星际领土的行动停止时，在中国领土的外边缘，一些失去战术价值的殖民地便成了境外之地。由于高昂的回收成本，政府宁愿让他们在境外饿死。
+于是这些遗留的殖民组织系统便宣布独立，声称自己有完善的基础设施，以及他们可以自给自足的生产力。
+今天的蒙古联邦被认为是殖民空间边缘的一个相对较小的国家或联邦，但它仍然是银河系中实力增长最快的政权之一。在蒙古，很少有中央集权。即使是在战争时期，可以提高国防力量的主要力量也是来自跨星际公司，而不是政府，所以蒙古的政权实际上是比较松散的。
+蒙古的社会系统从中国继承了科技，但是它同时还是个整合多元文化的殖民地。非合成食品在那里仍很受欢迎，在蒙古，宗教组织是很有社会影响力的强大机构，尽管如此，蒙古人能够采取开明的观点看待宗教信仰，他们相信神也有缺陷，并不是完美无缺的。",
+    "Ency_InnerBiomeWreckLore7": "极光号扫描仪房间语音日志",
+    "EncyDesc_InnerBiomeWreckLore7": "金：我认为这不是一个人的责任。
+船员1:她给了我错误的坐标！
+船员2：他没有给我明确的指示！
+金:好,那我换个说法：你们都是废物。现在，我们已经失去了宝贵的救援时间，同时也离行星更近了，所以如果扫描到了德加斯号的信息，我们应该已经收到了。
+船员2：为什么我们要帮助蒙古人？他们不是竞争对手吗？
+金：那你想怎样？在本部享受你的养老休假？我的天啊。现在立即运行扫描，告诉蒙古人我们啥也没找到，然后离开，清楚了吗？
+船员1：长官，这里扫描到一些奇怪的东西。\n金:我看看，先把该死的录音机关掉！",
+    "Ency_InnerBiomeWreckLore9": "趋同论",
+    "EncyDesc_InnerBiomeWreckLore9": "宗教信仰曾经被整个太空历社会鄙视，但它还是被保留了下来。
+古老的冥想实践与现代科学的预见性相结合，导致泛神论即决定论诞生了。
+决定论告诉我们，永恒的真理。未来早已经决定，并没有自由意志。所有需要忏悔和承认原罪的日子一去不复返了。今天，我们明白，我们生来无辜，我们对我们生活的进程也毫无责任;
+我们只是空间中随着能量波战栗的原子结合体。
+了解我们所做的工作毫无意义，因为我们只是宇宙无数因果关系的一部分，因为宇宙本身就是一个因果关系的一部分；我们赋予了宇宙存在的意义，宇宙也给了我们存在的意义。
+我们是人。但我们也是神。如果我们是神，为什么我们觉得还不完美？如果只有我们有权对自己下令，我们自己就是自己的神，为什么还有人一直告诉我们要做什么？
+统一教会将为你解答这一困惑：300信用点即可参加公开研讨会。",",
+    "Ency_OuterBiomeWreckLore1": "视觉模拟套装日志",
+    "EncyDesc_OuterBiomeWreckLore1": "加载程序：荒岛上的戏剧
+规模：3名玩家
+资源：正常
+在沙滩上生成玩家
+玩家1被海浪冲走。
+玩家2以10信用点的价格交易了一个椰子给玩家3。
+玩家3种植了一棵椰子树。
+玩家都陷入饥饿。
+玩家3种植的椰子树结果了。
+玩家3吃了一个椰子。
+玩家3不再饥饿了。
+玩家3以30信用点的价格交易了一个椰子给玩家2。
+玩家2吃了一个椰子，但仍然饥饿。
+玩家3以一个椰子向玩家2换取一个帐篷。
+玩家3睡在了帐篷里。
+玩家2感觉很冷。
+夜幕降临。一艘路过的船提供交易。玩家2以30点信用点买了一把枪。
+玩家3睡觉的时候被玩家2开枪打中头部。
+玩家2获胜。
+
+玩家2最终又冷又饿地孤独死去。",
+    "Ency_OuterBiomeWreckLore2": "阿尔特拉救济品的小册子",
+    "EncyDesc_OuterBiomeWreckLore2": "“慈善”是一个古老的概念，但在今天的阿尔特拉现实主义面前已经过时。我们知道我们每个人都为自己负责，但最好的办法就是与阿尔特拉一起工作。
+这一推理的含义很明确：如果有人有需要，那他们先得证明自己被需要。
+阿尔特拉救济会是一个为那些需要被需要的人开设的培训学院。我们不是慈善机构，因为我们不寻求施舍，我们宁愿称自己作为促进雇主和员工之间的健康关系的资金流动协会。
+AA运作于一套较为随机的系统。投入任意数量的信用点就可以进入我们的抽奖。投资越多取胜的机会越大。你的信用点将用于培训非技术殖民者去执行至关重要的任务，比如学习维护和人际关系的技巧。殖民地居民自愿接受这个免费的培训。",
+    "Ency_OuterBiomeWreckLore3": "宪章",
+    "EncyDesc_OuterBiomeWreckLore3": "释义：
+反式政府-必须独立控制至少一个星系和相位门。
+公民-一个人口头或书面认同某个反式政府的统治。
+宪章-37个独立的反式政府预定和总结的完善法律条文。
+跨星系管理条例（TSA）-由军事力量保证执行该宪章的条款：为独立的机构，但由反式政府资助。
+跨星系相位门-任何永久性安装的允许太空船利用太阳能传送的相位技术。
+反式政府的原则:
+1.每个反式政府都拥有最广泛的基本自由，拥有与他人一样的自由平等的权利。
+a.每个反式政府都有权拥有自己的相位门和建设行星上的基础设施。
+b.每个反式政府有义务与其他反式政府分享星际相位门。
+c.每个反式政府有责任义务维护和遵守这项跨系统管理条例（TSA）。
+2.每个反式政府都有权自治政府，但要受到以下限制。
+a.反式政府不得开发武器和技术。
+b.反式政府不得从事人口买卖",。",
+    "Ency_OuterBiomeWreckLore4": "Strader VI的蜂巢思维模式研究",
+    "EncyDesc_OuterBiomeWreckLore4": "如何将构成蜂巢头脑的“个体”进行分类？它们是更大，更有智慧有机体的组成部分吗？还是更大的“思维”只是独立生物的产物？又或者两者都是？
+
+我们习惯于通过特征来定义生物，但常常发现这些特征是依赖于它们所处环境的。如果没有青蛙的概念，蝌蚪的概念就是无意义的。捕食者如果没有猎物，这一单词也没有意义。这就提出了一个问题：如果我们通过引用其他的东西来定义一切，那我们实际上解释了什么呢？
+
+最近对有研究机构对Strader VI上发现的蜂巢心理进行了一个有趣的实验。一个会让触碰到的生物触电的装置被放置在蚁穴外面。在一个基本的危险信号在它们之间成功传达之前，一个蚁群将会死去许多个体，从而最终“学会”躲避该设备。它们从生存学的角度来说成功了，但是付出了惨痛的代价。
+
+Strader VI殖民地很快形成了三个派系：
+  - 一个派系企图用强力移动设备。
+  - 第二次试图用沙子覆盖设备。
+ 
+这两个目标相互排斥，随之而来。凭借数量的减少，第一派被殴打。该装置被安全埋葬，幸存者称为休战。从个人的角度来看，这种经验一定是可怕的。从蜂巢头脑的角度来看，用最有效的解决方案克服了一个尴尬的问题。哪个角度是“正确的”？
+
+我认为都不对.通过尝试将这些实体融入到我们刚性的概念中，我们在世界上画上了一种具有实质和意义的虚假印象，这反映了我们自己的观念。
+
+我们将Strader VI个人描述为“彼此攻击”，就像我们在人体中描述微生物一样。然而，如同身体一样，Strader殖民地，如果没有其组成部分的“侵略”，就不能称之为整体。我们将大脑中的神经元描述为愚蠢的，但整体上的大脑是聪明的 - 但是当一个想法掌握在大脑中并强制下降时，我们将其描述为一种侵略行为？我们悼念死神吗？
+
+当一个哲学或技术在人类社会中占有一席之地……当战争与他们斗争，人们死亡时，正确地被认为是好还是恶？这不是破坏我们存在的意义。从我们的立场来看，我们的存在确实非常严重。但是我们的文明和我们的宇宙呢，与Strader VI的殖民地真的有什么不同吗？智力有限于血肉之物吗？或者是宇宙真正的一个巨大的智能系统，而我们呢，但是阿米巴在表面吹了自重的坑洼？
+
+像科学家一样，我们做得很好，要记住，我们的目标不是像我们看到的那样描述世界，而是要探究其后的真相。",
+    "Ency_OuterBiomeWreckLore5": "企业档案：托加尔公司。",
+    "EncyDesc_OuterBiomeWreckLore5": "托加尔金公司是一个老牌的，家族企业，经营着近十几个采矿和交易业务。
+他们意图建立一个新的相位门，利用蒙古的支持，股价得到飙升。巴特托加尔在位的时候这些计划被搁置，他打算开展一个新型采矿工作，却在这个特殊时期和他的父亲一起失踪。
+",
+    "Ency_OuterBiomeWreckLore6": "加入阿尔特拉公司的董事会",
+    "EncyDesc_OuterBiomeWreckLore6": "这不是钱的问题。每一个董事和阿尔特拉董事都会这么跟我说——我相信他们。盈利只是一个暂时的目的：权力和地位才是真正的目标。
+一旦阿尔特拉公司有足够的利润。你会被宇宙中最强大的商人注意到。然后建立一个公司，消除竞争者-最后强制收购-你可以晋升入董事会。
+福利包括：
+-旅行：免费使用公司的相位门。
+-随行人员:个人助理为你考虑生活的方方面面
+-更长的寿命：自动更换器官。
+-阿尔特拉虚拟现实：得到你应得的一切。
+",
+    "Ency_OuterBiomeWreckLore9": "B休闲区监控日志",
+    "EncyDesc_OuterBiomeWreckLore9": "检测到可疑关键字“宗教”。开始自动记录。
+卡萨：你们这些阿尔特拉人，你认为你拥有一切。但是在蒙古国，我们有为自己工作的自由。
+船员：嘿，我们大多数人是承包商！乔还拥有自己的公司！
+卡萨：<冷笑>那你现在住在谁的船上？你的，还是阿尔特拉的？
+船员：你真的意识到这艘船是属于谁的了吗？
+卡萨：我会说这艘船是属于所有人的、我们都是同一个系统的一部分，我们之间唯一的区别是我们选择去的地方。
+船员:宗教狂热的废话。你们只是一个在遥远的空间争夺矿石的阴谋家组成的集团罢了。",
+    "Ency_OuterBiomeWreckLore10": "盈利预测",
+    "EncyDesc_OuterBiomeWreckLore10": "两个选择：
+A)在外太空进行长距离工作；
+B)想出一些新奇的点子，卖给阿尔特拉，永远幸福地生活。
+我选择B。点子呢，倒有这么一些：
+-一个可以建造其他机器人的机器人（不知道他们是不是已经有了？）
+-水过滤系统，具有无限的电池使用寿命（太阳能发电？还是体热？以及太阳本身能永远存在吗？这个得好好想想）。
+-一个可以由机器人建造的相位门，而不是一帮可怜的人用18个月来完成这种任务（万一有什么差池,这些人也让太惨了）。
+-一个VR程序，精确模拟真实的生活，达到人类需要的最高细节要求（可是我怎么知道我现在不是已经生活在这样一个被创造出的世界里呢）。
+-可以射击其他枪的枪（这个看来是最靠谱的，可是可能违法了？）",
+    "EarlyAccessLabel": "深海迷航",
+    "SingleWallShelf": "单层壁架",
+    "WallShelves": "墙上的架子",
+    "BarTable": "酒吧桌",
+    "Trashcans": "垃圾桶",
+    "LabTrashcan": "核废料垃圾桶",
+    "VendingMachine": "自动贩卖机",
+    "LabCounter": "计数器",
+    "LuggageBag": "行李包",
+    "ArcadeGorgetoy": "玩具",
+    "LabEquipment1": "电子显微镜（失效）",
+    "LabEquipment2": "流体分析仪（失效）",
+    "LabEquipment3": "样本分析仪（失效）",
+    "CoffeeVendingMachine": "自动咖啡机",
+    "Cap1": "灰帽子",
+    "Cap2": "蓝帽子",
+    "LabContainer": "大型样本容器",
+    "LabContainer2": "小型样本容器",
+    "LabContainer3": "圆柱形样本容器",
+    "Tooltip_SingleWallShelf": "单面墙架。",
+    "Tooltip_WallShelves": "墙架。",
+    "Tooltip_BarTable": "圆形玻璃桌。",
+    "Tooltip_Trashcans": "永久分解不需要的物品，將其分解成原子状态安全的释放到大气中。",
+    "Tooltip_LabTrashcan": "用于处置核废料。",
+    "Tooltip_VendingMachine": "自动贩卖机。",
+    "Tooltip_LabCounter": "计数器。",
+    "Tooltip_LuggageBag": "用于装运个人物品的普通行李袋。",
+    "Tooltip_ArcadeGorgetoy": "让人安心。",
+    "Tooltip_LabEquipment1": "失效的实验室设备。",
+    "Tooltip_LabEquipment2": "失效的实验室设备。",
+    "Tooltip_LabEquipment3": "失效的实验室设备。",
+    "Tooltip_CoffeeVendingMachine": "生产保湿，不含咖啡因的咖啡。",
+    "Tooltip_Cap1": "蓝色帽子，不适合防护环境的服装。",
+    "Tooltip_Cap2": "灰色帽子，不适合防护环境的服装。",
+    "Tooltip_LabContainer": "没用的玻璃容器。",
+    "Tooltip_LabContainer2": "另一个没用的玻璃容器。",
+    "Tooltip_LabContainer3": "一个特别无用的玻璃容器。",
+    "VehicleHullModule1": "海蛾号MK1压力补偿模块",
+    "Tooltip_VehicleHullModule1": "将极限下潜深度增加至100M，效果无法叠加。",
+    "VehicleHullModule2": "海蛾号MK2压力补偿模块",
+    "Tooltip_VehicleHullModule2": "将极限下潜深度增加至300M，效果无法叠加。",
+    "VehicleHullModule3": "海蛾号初MK3压力补偿模块",
+    "Tooltip_VehicleHullModule3": "将极限下潜深度增加至700M，效果无法叠加。",
+    "VehiclePowerUpgradeModule": "引擎效率模组",
+    "Tooltip_VehiclePowerUpgradeModule": "减少设备能量消耗，适用于海蛾号和海虾动力盔甲。",
+    "VehicleStorageModule": "海蛾号存储升级模块",
+    "Tooltip_VehicleStorageModule": "增加额外的4x4储存空间，适用于海蛾号和海虾号动力盔甲。",
+    "VehicleArmorPlating": "海蛾号船体加固模块",
+    "Tooltip_VehicleArmorPlating": "在船体发生碰撞前加固，减少碰撞伤害。适用于海蛾号和海虾号动力盔甲。",
+    "ExosuitJetUpgradeModule": "海虾喷射跳跃模块",
+    "Tooltip_ExosuitJetUpgradeModule": "强大的后置喷射系统，可以将使用者送入空中。",
+    "ExosuitThermalReactorModule": "海虾热反应堆模块",
+    "Tooltip_ExosuitThermalReactorModule": "在很热的地区可以充电。",
+    "ExosuitDrillArmModule": "海虾电钻手臂",
+    "Tooltip_ExosuitDrillArmModule": "钻探岩石寻找更多的资源。",
+    "SavedGameOutdatedHeader": "游戏存档不可用",
+    "SavedGameOutdatedIntroduction": "这个存档过于久远，在目前版本不再适用。",
+    "SavedGameOutdatedDescription1": "您可以保留这个游戏存档，用它来玩游戏，然而，我们建议您开始一个新游戏。因为深海迷航已增添新内容。添加了新的洞穴、地区和地标。这个游戏存档并不包括所有的新领域。如果您选择继续玩这个游戏存档，它将会被升级，这个升级加入了新的地形，辽阔地区，以及大片空沙滩，所以升级可能不会提供所有新的地形，因而我们建议您最好创建一个新的游戏。",
+    "SavedGameOutdatedDescription2": "升级可能会破坏接近升级区域的海上基地，潜艇，设备等，任何升级区域以外的东西不会受到影响。",
+    "SavedGameOutdatedLearnMore": "了解更多关于深海迷航地形系统的信息",
+    "SavedGameOutdatedUpgrade": "升级并加载游戏",
+    "Cancel": "取消",
+    "TerrainSystemInformationHeader": "地形系统信息",
+    "TerrainSystemInformationText": "深海迷航使用体素地形系统存储批量信息。每一批是160米宽的立方体，世界是由大约12500立方体组成。开发团队正在不断地对这些批次进行工作。新洞穴雕刻，峡谷，海带森林种植和岩石雕刻。深海迷航会经常更新。但是由于有其他项目的存在，它可能每天更新三次！所以游戏存档就需要在多个游戏版本中适用。否则，一旦开发团队发布更新，游戏存档就会丢失。大多数游戏存档只能使用一个更新的信息。例如，一个包含两个氧气瓶的库存存在，如果一种新的潜水服添加到游戏。其他信息更新不能存在。例如，假设一个海上基地建在悬崖边上，假设开发团队工作的批处理包含悬崖，悬崖的高度。如果保存游戏加载,就会出现悬崖嵌入海上基地内。不仅基地无法访问，但玩家都有可能会卡在那里，出现崩溃，这就是深海迷航的游戏逻辑。为了解决这个问题，每一个游戏存档保留自己的地形数据的副本。这个数据存储真实的世界，游戏开始时，随着任何玩家修改。随着新发布的更新，保存的游戏会收到新功能，项目，生物，等等。这通常可以用，但在重大更新的情况下，就可能出现问题。新游戏系统和项目包括这个更新，但依赖于数据里包含的新地形。如果一个老游戏存档试图运行当前版本，它将无法正常工作，甚至可能出现深海迷航完全崩溃。这就是为什么老游戏存档必须升级到可以玩游戏的程度。但因为一些地形批次被迫更新，允许新的更新功能。任何东西放置在这些批次在这一过程被破坏，避免被困在上面所描述的悬崖场景。然而，这样升级并不完美，根据具体情况，有可能这样差距会打乱地形，或系统功能完全失败。此外，还有准备老存档不包括所有的新地形数据和新世界其他地区。要玩一个完全的最新的世界，有必要开始一个新的游戏。选择是在于您。不管您如何选择，谢谢您参与深海迷航早期访问。您看着外星海洋世界在您眼前成长。这个游戏存档的升级过程就是游戏成长。",
+    "GoBack": "返回",
+    "Troubleshooting": "排除故障",
+    "TroubleshootingText1": "有关于深海迷航的其他问题吗？开发团队很想帮助您！这里有一些解决问题的方法。",
+    "TroubleshootingGuide": "排除故障指南",
+    "TroubleshootingText2": "其他深海迷航玩家可能会有同样的问题,找到解决方案,浏览主题,试着到游戏论坛开贴讨论:",
+    "TroubleshootingForum": "游戏错误论坛",
+    "TroubleshootingText3": "作为参考,下面是一些关于计算机的信息,这些信息通常是解决问题的关键:",
+    "CPU": "中央处理器",
+    "RAM": "内存",
+    "GPU": "图形处理器",
+    "GPURAM": "显存",
+    "OS": "操作系统",
+    "Threads": "线程",
+    "Version": "版本",
+    "BuildDate": "版本日期",
+    "megabytes": "兆",
+    "LogicalProcessors": "逻辑处理器",
+    "Graphics": "显卡",
+    "Display": "显示",
+    "Sound": "音效",
+    "Keyboard": "键盘",
+    "Bindings": "绑定",
+    "Space": "空格",
+    "BigFilteredWater": "大瓶过滤水",
+    "Tooltip_BigFilteredWater": "15盎司的纯净水",
+    "MinSpecHeader": "警告",
+    "MinSpecIntroduction": "您的设备似乎并不满足深海迷航的最低配置要求，游戏很可能将运行的十分缓慢或最终导致崩溃。",
+    "MinSpecMemory": "内存",
+    "MinSpecMemoryOk": "需要至少4G内存",
+    "MinSpecMemoryNotOk": "内存不足4G，游玩过程中游戏可能崩溃。",
+    "MinSpecGPUOk": "您的显卡性能足以运行深海迷航",
+    "MinSpecGPUNotOk": "您的显卡配置似乎不达标，可能会影响您的游戏体验。",
+    "MinSpecGPUUnknown": "我们检测不到您的显卡，请确定显卡配置达标。",
+    "MinSpecCPUOk": "这台电脑的中央处理器达到了游戏的配置要求。",
+    "MinSpecCPUNotOk": "中央处理器的逻辑处理器似乎少于2个。您可能会有很低的帧速率。",
+    "MinSpecFAQButton": "查看常见问题。",
+    "Dismiss": "忽略",
+    "WhatIsThis": "这是什么?",
+    "MinSpecFAQ": "查看常见问题",
+    "MinSpecAnswer0": "我可以在不同的计算机上运行深海迷航吗？ 是的。您可以在任何计算机上运行深海迷航，使用账号登录。深海迷航绑定一个特定的游戏帐户, 而不是一个特定的计算机。",
+    "MinSpecAnswer1": "我可以退款吗?我的电脑不符合这些要求。因为深海迷航通过发行商售出，发行商具有绝对的和唯一的退款问题自由裁量权。我们不能干预发行商与您之间的退款问题。",
+    "MinSpecAnswer2": "我怎么知道这些需求？深海迷航最低和推荐系统需求都会列在其产品的商店页面。",
+    "MinSpecAnswer3": "是否需求很高的系统配置？
+深海迷航的最低配置要求并不高，远低于次时代主机游戏显卡需求。",
+    "MinSpecAnswer4": "如果我不管这个警告尝试运行深海迷航会发生什么？游戏可能会运行得很好。也可能在加载游戏世界的时候崩溃。我们不确定什么会发生什么，但很可能大的可能是游戏将运行得缓慢或崩溃。",
+    "MinSpecAnswer5": "这些系统的需求会下降吗？不太可能，目前的最低系统需求已经低于时下流行游戏了。",
+    "MinSpecMemoryInfoHeader": "更多信息 - 内存",
+    "MinSpecMemoryInfoText": "内存是计算机中重要的部件之一，它是与CPU进行沟通的桥梁。计算机中所有程序的运行都是在内存中进行的，因此内存的性能对计算机的影响非常大。
+我们常说的物理内存是由电脑硬件决定的，没有任何软件方面的手段可以扩充主机的物理内存。
+深海迷航需求最低4G的内存，但是如果你的电脑安装有6G或6G以上的内存，那就更好了。如果不够的话，要不考虑买根扩展内存条，或者更新一下你的机器，毕竟已经2017年了！",
+    "MinSpecRAMDetected": "内存检测:",
+    "MinSpecGPUInfoHeader": "更多信息 - 图形处理器",
+    "MinSpecGPUInfoText": "GPU（图形处理器）的作用是将计算机系统所需要的显示信息进行转换驱动，并向显示器提供行扫描信号，控制显示器的正确显示，也就是我们通常说的显卡。
+很难界定哪一款显卡是运行深海迷航的最低显卡配置，因为显卡的种类，品牌，系列等等实在是太多了。
+大体来讲，在3D图形测试中能跑到950分以上的显卡就可以在最低画质下运行深海迷航了，分辨率设置为1280×720
+如果系统检测到你的显卡不足以流畅运行游戏，你依然可以玩，但是运行帧数会很低，达不到理想的游戏效果，所以为了更畅快的游戏体验，还是升级一下你的显卡吧。",
+    "MinSpecGPUDetected": "图形处理器检测",
+    "MinSpecCPUInfoHeader": "更多信息 - 图形处理器",
+    "MinSpecCPUInfoText": "中央处理器（CPU）是一块超大规模的集成电路，是一台计算机的运算核心和控制核心。它的功能主要是解释计算机指令以及处理计算机软件中的数据。在我们游戏中，可能就是每个生物的位置，动作，所有资源的刷新数量，刷新点等等。
+CPU的运算频率取决于它的核心数和线程数，很多Intel的CPU都采用了多核多线程的数据处理方式来提升性能。
+要流畅运行深海迷航需要你的电脑CPU至少为双核处理器，否则在数据运算中会很吃力，很可能出现游戏崩溃或闪退的情况。",
+    "MinSpecLPsDetected": "逻辑处理器检测:",
+    "MinSpecCPUDetected": "中央处理器检测",
+    "Bed1": "基本双人床",
+    "Bed2": "精致双人床",
+    "NarrowBed": "单人床
+",
+    "Tooltip_Bed1": "一张双人床。",
+    "Tooltip_Bed2": "一张灰色亚麻布镶边的双人床。",
+    "Tooltip_NarrowBed": "一张单人床。",
+    "UseBed": "睡觉",
+    "NotEnoughSpaceToLieDown": "没有足够空间",
+    "StarshipSouvenir": "缩小版极光号",
+    "Tooltip_StarshipSouvenir": "这艘船的模型看起来很熟悉。",
+    "Monitor": "显示器",
+    "Period": "时间",
+    "SeaTreaderPoop": "外星生物的粪便",
+    "Tooltip_SeaTreaderPoop": "营养丰富的肥料，可用来加速植物生长。",
+    "IntroUWEPresents": "完美世界 未知世界娱乐",
+    "EncyPath_Tech\/Vehicles": "载具",
+    "EncyPath_Tech\/Power": "电源",
+    "Ency_Oculus": "鬼眼鱼",
+    "EncyDesc_Oculus": "这个物种与普通大眼仔具有遗传相似性。 这两个物种的进化历史一定是在某个时候产生了分歧，因为鬼眼鱼进化出了专门的洞穴导航系统。 1.高度发达的夜视能力：与其浅水表亲相比，大而复杂的眼球为这种草食动物提供了卓越的夜视能力。 虽然浅层和洞穴系统由仅仅几米的岩石分开，但是这两个生态系统中的食物和威胁是完全不同的。 可能一开始一批大眼仔偶然来到洞穴生存，被切断回到浅水区的道路，从而适应环境进化成为鬼眼鱼。 
+
+评估：可食用",
+    "Ency_Crabsnake": "蟹蛇",
+    "EncyDesc_Crabsnake": "这种生命体似乎可以与蛇菇共生。 所有遇到的样本都位于蛇菇菌群的50m以内，其中很多直接生活在植物体内。
+- 在攻击行为中可以快速移动 
+- 口腔周围配备大型钩爪以穿透或困住猎物
+- 有领土意识，会经常巡逻他们居住的洞穴系统
+- 有些样本甚至会阻止其他草食类动物以蛇菇为食
+
+评估：避免接触",
+    "Ency_Ampeel": "电鳗",
+    "EncyDesc_Ampeel": "一种大体型的，侵略性的捕食者，常被发现于礁石区和库什区的深水地带。
+-强壮且领土意识强
+-身体上的刺状物似乎能够产生强大的电流
+-根据行为记录，电鳗似乎使用电流攻击猎物使其丧失行动能力
+-如果一个行动更快，更强壮和饥饿的捕食者居住在礁石区，它仍然会躲着电鳗
+",
+    "Ency_Boneshark": "骨鲨",
+    "EncyDesc_Boneshark": "一种强大的捕食者，小群体活动并且会不惜一切捍卫其领地。
+1.厚装甲外骨骼：表明其可防御其他大型捕食者，或侵略其他物种。
+2.巨大的眼球：与其对高光的灵敏度一致，让其在低光环境中寻找发光的猎物。一般情况下行动迟缓，攻击性不强，但会对其领土的任何威胁采取坚决的攻击行为。
+
+评估：避免接触",
+    "Ency_Seaglide": "水下推进器",
+    "EncyDesc_Seaglide": "水下推进器是专为水下作业人员设计的机动装备。
+
+-能够于水中达到36km\/h的速度
+-绘制并显示洞穴系统的基本地型数据
+-可更换电池
+-注意别把手指卷到螺旋桨里
+
+“小贴士：请记住，海里会移动的东西可能都想吃掉你”
+
+",
+    "Ency_LaserCutter": "激光切割器",
+    "EncyDesc_LaserCutter": "雷射切割器专门用于切割厚度高达10cm的钛及塑钢材料。使其成为建设，抢救行动的重要工具，但对自然屏障无效。
+
+“阿尔特拉雷射切割器：谁叫的锁匠”",
+    "Ency_Welder": "焊接器",
+    "EncyDesc_Welder": "这个维修工具可针对常见设备 - 控制面板，基地模组，收音机等 - 在原子结构层面修复电线和焊接裂缝，所有优秀的技术人员都会随身携带。
+
+大多人不在乎它怎么运作，只是它曾拯救他们的生活一次 - 但如果你好奇，它是结合扫描仪和制造工具台技术来确定该如何正确修复目标，然后以物理方式重新排列结构并还原符合材料原始规格。
+
+“阿尔特拉维修工具：让修理变得简单。”",
+    "Ency_Bioreactor": "生物反应堆",
+    "EncyDesc_Bioreactor": "在具有丰富有基物质，但没有阳光的行星上，可靠的生物反应器会是最有效的电力解决方案。
+
+  - 可安状在任何多用途基地
+  - 化学堆肥有机材料，随时间增加将其转化为能量
+  - 可接受所有植物，从种子到胞子到发梅的水果蔬菜
+  - 也可接加工动物（脂肪，肌肉，蛋等）和有机废物
+  - 产出能原与有机物热量成正比
+
+“生物反应器：完全有机”",
+    "Ency_ThermalPlant": "热能发电机",
+    "EncyDesc_ThermalPlant": "在陌生环境中生存的首要规则是使用一切可用的资源。
+如果面临800度高温的考验，高温环境随时可能杀死你，但你可能也会因此得到一些好处，可靠的能源
+- 将热能转换为电能
+- 在尝试安装前先用温度计读下温度
+- 热能发电设备安装于一个耐热的底盘之上，不受极端温度的影响",
+    "Ency_NuclearReactor": "核能反应堆",
+    "EncyDesc_NuclearReactor": "足够维持一个小型前哨站的可再生能源，其他所有设备都由核电供电。
+- 由高达四个可更换的铀反应堆控制棒供电 
+- 没有防辐射服不要试图更换反应堆控制棒 
+- 不要试图超频反应堆 
+核能是能源密集型工程的理想选择: 
+- 能提供20多人基地的能源 
+- 可为操作多个码头和重型机械供能 
+- 为维持研究所标本生存环境供能",
+    "Ency_Cyclops": "独眼巨人号",
+    "EncyDesc_Cyclops": "独眼巨人号是这个星系中最可靠和最受欢迎的深海潜水艇。与其他同型舰艇相比，他只需要一名船员就可驾驶，名称也由此得来。
+
+它的特点：
+ -三速手动驾驶控制和前观景台，利于精准操控
+ -内部包含一组提供维修及充电功能的小型月亮池
+-船尾提供大容量储存空间
+-提供内外摄影无人机
+-威胁检测AI系统
+-多种类自订选项
+
+给新任船长的信息和忠告：
+-能耗等级：引擎关闭状态(0x)；慢(1x)；标准(2x)、高速(4x)
+-运转时会产生噪音，可能引起不必要的敌对生物注意
+
+-静音模式可以于任何速度下开启，能将噪音降至零，但会额外增加50%的能量消耗
+-独眼巨人升级模组可在引擎室制造，并安装在其附近的面板上
+
+规格：
+-最高速度：8m\/s
+-加速度：3m\/s\/s
+-电源：6颗可更换电池
+-基本潜水深度：海底500m
+-尺寸：54m x 14m x 12m
+-乘员：1-6人
+
+注意独眼巨人不具备以下设施：
+-居住宿舍：建议船长轮流安排每晚谁睡在走廊
+-紧急情况：如果发生淹水及停电，船舰将会下沉",
+    "Ency_MapRoom": "扫描室",
+    "EncyDesc_MapRoom": "这种先进的基地模块可以将一个小前哨变成一个新兴的科学和探索站。
+- 在500m遥控侦察无人机扫描区域范围
+- 一个三维显示设备在房间的中心，存储本地地形数据 
+- 安装在墙上的摄像无人机可以像无人侦查机样的遥控 
+- 系统可以扫描和确定特定的材料
+- 升级控制台可用于增强模块的加强",
+    "Ency_WaterPark": "大型水族馆",
+    "EncyDesc_WaterPark": "尽管阿尔特拉科学技术强大，但在探索新世界方面仍面临挑战，在外星的生活也是其中之一。这是我们制造外星生物水族馆的原因。主要用于繁殖体型较大或危险的物种。
+
+技术规定：
+ -必须安装于多用途房间内
+ -可连接在一列立式堆叠的房间中
+ -必须安装舱口才能进入水族箱内
+ -水族馆底部可种植当地海洋植物种子
+
+育种提示：
+ -提供足够的时间及生活空间，同一物种的生物应该会进行交配繁殖和繁殖
+
+-水族箱内的蛋会随着时间慢慢孵化
+ -水族箱中孵出的生物往往展现出较为激进生物状态
+
+警告：
+ -如果放入过多单位，环境控制系统可能会失效
+ -疾病感染在水族馆中传播速度较快
+ -不要敲击玻璃：你不知道什么生物会回答你，这是一种十分危险的行为",
+    "Ency_Exo": "海虾号（MK3）",
+    "EncyDesc_Exo": "应用了压力激活再生技术的纳米防水服系列，该装置旨在保护操作员能在极端环境中生存。 MK3是最新版本，至今为止，海虾号因其高价，仅在相位门任务时才会投入使用。
+
+ -装甲与外界环境完全隔离
+ -强大的液压四肢提供强大动力通过各种环境
+ -后制推进器于低重力环境提供机动性
+ -可进行一系列修改，以增强资源开采及增强探勘能力
+
+“海虾号：提供全方位保护”",
+    "Ency_JellyPlant": "凝胶球",
+    "EncyDesc_JellyPlant": "这些植物通常在洞壁上生长。表面突出的紫色袋状物含有低密度凝胶，带有植物的孢子。不时会发生小型爆炸，喷射出孢子，漂浮并附着到下落时碰到的第一块岩石表面。
+
+评估：可食用，且是重要的进阶制造材料",
+    "Ency_LifepodRandom": "7号逃生舱船员日志",
+    "EncyDesc_LifepodRandom": "我什么方法都试过了。如果这个工作台还能用，我现在已经在我的私人天文台躺在摇椅上看日出了。但是用这个机器我连最基本的东西都做不了。想要电池？这里有一个儿童玩具！需要潜水盔甲？这里倒是有些烧杯试管什么的！饿了吗？我来帮你把那个水果化成烂泥！现在我脑子里就剩一团烂泥。好吧，我将继续尝试，不管错多少次。接下来每个按钮都试一次，终归会有用的吧。",
+    "Deprecated": "废弃",
+    "DeprecatedBuildableInstructions": "使用建造工具进行拆解",
+    "ExchangePowerSource": "更换电池 ({0})",
+    "PowerPercent": "能源: {0:P0}",
+    "PowerSourceUnload": "卸下{0}",
+    "PowerSourceUnloaded": "没有电池",
+    "GasTorpedo": "毒气鱼雷",
+    "Tooltip_GasTorpedo": "如果被引爆可以释放出一团毒气，装填到载具的鱼雷舱即可使用",
+    "ItemSelectorPrevious": "前一个",
+    "ItemSelectorNext": "下一个",
+    "ItelSelectorSelect": "选取",
+    "ItemSelectorCancel": "取消",
+    "ChargerInsufficientPower": "电量不足 ( {0}s后将进行再次充电尝试)",
+    "ChargerSlotEmpty": "充电器插槽空N\/A",
+    "BatteryChargerInteract": "使用电池充电器",
+    "BatteryChargerStorageLabel": "电池充电器",
+    "BatteryChargerIncompatibleItem": "不兼容",
+    "BatteryChargerCantDeconstruct": "请先取出电池",
+    "PowerCellChargerInteract": "使用动力电池充电器",
+    "PowerCellChargerLabel": "动力电池充电器",
+    "PowerCellChargerIncompatibleItem": "不兼容",
+    "PowerCellChargerCantDeconstruct": "请先取出电池",
+    "BatteryCharger": "电池充电器",
+    "PowerCellCharger": "动力电池充电器",
+    "BatteryCharge": "电量: {0:P0} ({1}\/{2})",
+    "BatteryNotInserted": "没有电池",
+    "BatteryChargerFragment": "电池充电装置碎片",
+    "PowerCellChargerFragment": "动力电池充电装置碎片",
+    "Tooltip_BatteryCharger": "可以同时为4个电池充电。",
+    "Tooltip_PowerCellCharger": "可以同时为2个动力电池充电。",
+    "Tooltip_BatteryChargerFragment": "电池充电器科技碎片。",
+    "Tooltip_PowerCellChargerFragment": "动力电池充电器科技碎片。",
+    "GasPod": "毒气囊",
+    "Tooltip_GasPod": "毒气鱼用于装毒气的器官。",
+    "WorkbenchMenu_BatteryMenu": "电池升级",
+    "GenericConsole": "数据终端",
+    "Tooltip_GenericConsole": "用于下载数据。",
+    "Story_AuroraConsole1": "（乱码）录制中（乱码）",
+    "Story_AuroraConsole2": "请遵守CSP21号安全协议来分类处理货物",
+    "ExosuitTorpedoStorage": "海虾鱼雷舱",
+    "ExosuitPropulsionArmModule": "海虾冲击炮模块",
+    "Tooltip_ExosuitPropulsionArmModule": "为海虾号装备冲击炮。",
+    "GotFeedback": "有反馈吗?
+访问 PlaySubnautica.com",
+    "GameNotSaved": "游戏没有保存",
+    "NewGameConfirmation": "继续保存游戏，存档将被覆盖，确定继续吗？",
+    "PressStart": "按键开始",
+    "PressStart.XB1": "按下菜单",
+    "PressStart.PS4": "按下选项",
+    "StartScreenLoading": "正在加载",
+    "SlotEmpty": "空",
+    "EarlyAccessWarning": "《深海迷航》预约版本",
+    "EarlyAccessWarning.XB1": "预发行软件。
+这个游戏是在一个预发布阶段的发展。这意味着，该游戏的一些配件，包括Xbox Live功能（如聊天、游戏），可能没有预期的功能（或者不可能有所有功能）。游戏甚至可能崩溃.因为这是一个预发布游戏，微软和出版商不承诺为游戏提供客户支持。",
+    "EarlyAccessWarning.PS4": "EA中",
+    "SceneLoading": "场景加载……",
+    "NewsletterSignup": "注册通讯",
+    "OptionJump": "跳",
+    "OptionPDA": "PDA电脑",
+    "OptionDeconstruct": "拆解",
+    "OptionLeftHand": "左手 \/ 使用",
+    "OptionRightHand": "右手",
+    "OptionSlot1": "快捷 1",
+    "OptionSlot2": "快捷 2",
+    "OptionSlot3": "快捷 3",
+    "OptionSlot4": "快捷 4",
+    "OptionSlot5": "快捷 5",
+    "OptionRotateConstructableLeft": "左旋转",
+    "OptionRotateConstructableRight": "右旋转",
+    "OptionTakePicture": "拍照",
+    "OptionReload": "重新加载",
+    "OptionMoveUp": "向上",
+    "OptionMoveDown": "向下",
+    "OptionMoveForward": "向前移动",
+    "OptionMoveBackward": "向后移动",
+    "OptionMoveLeft": "向左",
+    "OptionMoveRight": "向右",
+    "IntroUWEPresents.XB1": "未知世界的娱乐
+&
+控制数字
+
+现在",
+    "UseFeedbackForm": "使用反馈模式",
+    "UseFeedbackForum": "打开论坛",
+    "ControllerDisconnected1": "摇杆断开连接",
+    "ControllerDisconnected2": "按任意键继续",
+    "SaveFailed": "数据保存失败({0})。
+是否重试？",
+    "SaveFailedSpace": "保存失败:磁盘空间不足。 
+再试一次?",
+    "LoadFailed": "数据读取失败({0})。
+是否重试？",
+    "QuitToMainMenu": "回到主菜单",
+    "InvertGamepad": "反转视角",
+    "GamepadSensitivity": "视角灵敏度",
+    "SwitchUser": "切换用户",
+    "GamepadEnabled": "启用游戏手柄",
+    "ScannerScreenUnpowered": "无能源",
+    "CyclopsNameConsole": "独眼巨人号改造站",
+    "KeyRange15.XB1": "X",
+    "KeyRange15.PS4": "?",
+    "PropulsionCannonToRelease": "按 {0} 键松开或装填",
+    "LockedRecipeHint": "扫描更多的碎片来解锁",
+    "ExosuitGrapplingArmModule": "海虾格斗手臂",
+    "Tooltip_ExosuitGrapplingArmModule": "可以发射抓钩增强移动和战斗能力。",
+    "CrashEgg": "自爆鱼蛋",
+    "Tooltip_CrashEgg": "可以孵化自爆鱼。",
+    "OptionExit": "退出 \/ 装袋",
+    "PropulsionCannonNoItems": "冲击炮未装填",
+    "ExosuitPropulsionCannonNoItems": "冲击炮未装填",
+    "PressToExit": "退出 ({0})",
+    "SeamothTorpedoModule": "海蛾号鱼雷模块",
+    "Tooltip_SeamothTorpedoModule": "一个标准的水下发射装备，可以发射非致命的旋涡鱼雷。",
+    "ExosuitTorpedoArmModule": "海虾鱼雷手臂",
+    "Tooltip_ExosuitTorpedoArmModule": "一个标准的水下发射装备,可以发射鱼雷。",
+    "NoInputAssigned": "无输入",
+    "DamagedWiresGeneric": "损坏的电线",
+    "EnterExosuit": "进入海虾号",
+    "ExosuitCharging": "海虾号充能中",
+    "SeamothCharging": "海蛾号充电中",
+    "NoVehicleDocked": "无载具停泊",
+    "CookedLavaBoomerang": "烤熟的岩浆飞镖鱼",
+    "CookedLavaEyeye": "烤熟的岩浆小眼仔",
+    "CuredLavaBoomerang": "腌制的岩浆飞镖鱼",
+    "CuredLavaEyeye": "腌制的岩浆小眼仔",
+    "LavaBoomerang": "岩浆飞镖鱼",
+    "LavaEyeye": "岩浆小眼仔",
+    "Tooltip_CookedLavaBoomerang": "口味相当火爆。",
+    "Tooltip_CookedLavaEyeye": "非常辣，多汁。",
+    "Tooltip_CuredLavaBoomerang": "辣而且硬，脱水但可以保存很久。",
+    "Tooltip_CuredLavaEyeye": "肉质紧且不好吃。经过脱水，可以保存更久。",
+    "Tooltip_LavaBoomerang": "小型可食用鱼。",
+    "Tooltip_LavaEyeye": "小型可食用鱼。",
+    "ExosuitWelcomeAboard": "欢迎回来，长官",
+    "ExosuitWelcomeNoPower": "警告：只剩应急能源，氧气供给终止",
+    "BaseRoomFragment": "多功能房间碎片",
+    "StillSuitFragment": "环保潜水服碎片",
+    "BaseBulkheadBlueprint": "隔离舱门蓝图",
+    "BaseRoomBlueprint": "房间蓝图",
+    "StillsuitBlueprint": "环保潜水服蓝图",
+    "Ency_Bladderfish": "泡泡鱼",
+    "EncyDesc_Bladderfish": "这种不寻常的食草动物没有任何攻击力。 
+1.半透膜：这种生命体能够通过独特的膜过滤海水进入体腔，去除和消耗从其中过滤的有机颗粒。 
+2.开口式血管：可以张开和收缩，以喷射出水流，实现低速的定向推进。
+唯一确定的防御机制：95％的软骨构成。 
+
+评估：膜可作为天然的过滤器来生产纯净水",
+    "ContainerCantFit": "没有足够空间",
+    "VehicleTorpedoNoAmmo": "弹药耗尽,离开载具并重新装填鱼雷",
+    "OptionSprint": "冲刺",
+    "ReadMore": "了解更多",
+    "LoadingSceneFormat": "加载中{0}",
+    "Aurora": "极光号",
+    "Precursor_Interior_Gun_Lower": "µ3a",
+    "Precursor_Interior_Gun_Upper": "µ3b",
+    "Poster": "物竞天择2的海报",
+    "PosterAurora": "极光号海报",
+    "PosterExoSuit1": "海虾号海报",
+    "PosterKitty": "KEEP CALM海报",
+    "RadioGrassy21": "无线电：这里是17号逃生舱，已附加我的位置坐标。月池在我面前倒塌了。如果没有激光切割器，不要来尝试救援，你只会让这里增加一具尸体。完毕。",
+    "RadioShallows22": "无线电：这里是6逃生舱，载有高优先级乘客，请安排优先救援。坐标已发送。我们在极光号坠毁附近着陆了，但我们通往汇合点的路上充满了辐射，且我们只有一套防辐射服，请求立刻加派支援。完毕。",
+    "RadioGrassy25": "无线电：这里是3号逃生舱，正在上传我们的坐标。我们的备用水下推进器出了点毛病，所以去汇合点可能会迟到
+###-1000
+请不要丢下我们离开，我是认真的！完毕。",
+    "RadioMushroom24": "无线电：来自极光号13号逃生舱的高优先级自动消息。已发送坐标。逃生舱内有蒙古大使约什卡萨的遗体。确认：遗体为约什卡萨。即刻发送遗体细节。",
+    "RadioKelp28": "无线电：这里是7号逃生舱，已附加坐标。舱体保存较为完好，但是工作台损坏了，请求立即支援，完毕。",
+    "RadioRadiationSuit": "这里是4号逃生舱！
+我们降落在极光号附近，漂浮系统能正常工作，但周围有很多巨大的怪鱼，我并不知道漂浮系统能维持多久。###-1000
+我们就在坠毁区周围，所以我打算去找一些激光武器。4号逃生舱，暂时离开。",
+    "Goal_PDALoading": "###4000检测到轻微脑震荡。
+你在一场空难中幸存了，PDA目标已变更，唯一指令，确保用户在外星生存。
+需要更详细的资料，请查询数据库。
+祝你好运。",
+    "Goal_BiomeSafeShallowsCave": "复杂的洞穴系统会增加溺水风险.建议制造更多的氧气瓶来延长探索时间。
+同时检测到洞穴附近含有微量硫成分，硫是制作焊接器的重要成分。",
+    "Goal_BiomeKelpForest": "看来这个星球上的生命生长在异常独特和多样的生态生物群落中。建议进一步研究。",
+    "Goal_BiomeKelpForestCave": "洞穴潜水员最常见的并发症是窒息或被异物困住,事实就是如此。",
+    "Goal_BiomeGrassyPlateaus": "短距离扫描表明这种海草植物群造就了其“草原”以上和以下广泛的生物多样性和地形的复杂性。",
+    "Goal_BiomeJellyCave": "这个洞穴的外部观察和分析表明其中可能居住着特别的，危险生物。尽量谨慎行动，留心观察来规避风险。",
+    "Goal_BiomeMushroomForest": "这个地区大部分生物是植物。另外检测到微弱的“阿尔特拉技术设备”的信号。",
+    "Goal_BiomeMushroomForestCave": "你目前在一个几乎完全钙化的根状地形内。扫描表明，这是某种其他生命形式用几百年的时间“吃出来”的一个洞穴。",
+    "Goal_BiomeKooshZone": "检测到显著的火山活动，以及几处异常电磁信号。探索这一区域时要格外小心。",
+    "Goal_BiomeFloatingIsland": "在地表检测到多个微弱的能量信号。",
+    "Goal_BiomeMountains": "检测到该地区的大规模能源信号。无法准确识别。",
+    "Goal_BiomeMountainCave": "局部扫描表明这一地区有大量的矿床。",
+    "Goal_BiomeUnderwaterIslands": "这里的土地表面的侵蚀模式表明它们曾经浮在表面上。",
+    "Goal_BiomeSparseReef": "这个地区的生物多样性异常低。 原因不明。",
+    "Goal_BiomeSeaTreaderPath": "海底植物受到损害表明这里可能是一个底层居住的巨大生命体的迁移路径。",
+    "Goal_BiomeDunes": "在该地区检测到多个利维坦类生命体信号。你确定你非得继续呆在这？",
+    "Goal_BiomeBloodKelp": "这种生态群落满足了最可怕的生态系统9个标准中的7个。",
+    "Goal_BiomeDeepGrandReef": "扫描显示，此处地表下有复杂的洞穴系统，同时伴随着多处能量信号。",
+    "Goal_BiomeLostRiver": "地形扫描表明这种生态系统含有异常高密度分布的有机物和化石遗骸。",
+    "Goal_CopperWire": "未知",
+    "Goal_Constructor": "未知",
+    "Goal_Bioreactor": "可靠稳定的能源系统是通往自给自足的海底生活的重要一步。",
+    "Goal_RadSuit": "极光号船员及通讯设备情况不明，建议进一步探索坠毁区域已获得更多信息。",
+    "Goal_Seamoth": "海蛾号可以让你快速而安全地进行水下旅行，但是同时别忘了适量的游泳也对你的身体健康与脑内啡浓度维持有帮助。",
+    "Goal_Room": "为了最大化生产力，在建立水下基地时记得将娱乐区和工作区分开。像对待自己的家一样对待基地，同时也别忘了，这里并不是你的家。",
+    "Goal_Observatory": "除非根据特定的研究任务构建，观测台和其他玻璃模块对于生存目的而言是不可靠的。",
+    "Goal_FarmingTray": "种植外星植物作为生存热量来源是一个十分聪明的策略。著名冒险家克雷格就曾依靠食用海藻沙拉和昆虫在外星生存了47个月。",
+    "Goal_Bench": "警告：内啡肽水平低。考虑采取散步或坐下来冥想的调节手段来恢复心情。现在经历的所有困难其实只存在于你的大脑里,而你能够不去想它。",
+    "Goal_Cyclops": "警告：独眼巨人号的设计容量为3人。只有有丰富经验且装备齐全的人才可以尝试独自驾驶它。",
+    "Goal_Moonpool": "在持续几个星期不与其他人接触的情况下，经历心理上的不适期是正常的。研究表明，通过饲养宠物或对无生命物体进行拟人化可以适当缓解症状。",
+    "Goal_WaterPark": "水族箱让你有机会近距离观察这些生物，但一定要谨慎选择要放养哪些动物，因为在你观察它们的时候，它们可能也在观察你。",
+    "Goal_Diamond": "永远记住这些你用来求生的材料都是阿尔特拉财团的合法资产，你将承担按市场价格偿还这些材料的责任。迄今，你的账单已达到3百万信用点。",
+    "Goal_StasisRifle": "听说曾经有位冒险家在意外坠落异星之后通过驯服当地生物，茹毛饮血，建立自己的生存基地，生存了47个月后坚持到救援到来，如果他能做到，相信你也可以。",
+    "Goal_NuclearReactor": "处理放射性物质时必须格外小心，一旦泄露，连PDA都来不及记录和分析你的死亡信息。",
+    "Goal_Exo": "首次穿上海虾动力盔甲会觉得自己瞬间变得无所不能，所向披靡，这是很正常的现象。专业的机甲操作员往往要接受数周的培训来治疗这种心理现象。尽量不要自大得上头了。",
+    "EncyPath_DownloadedData\/Codes": "数据和线索",
+    "Ency_Aurora_Office_PDA1": "备忘录",
+    "EncyDesc_Aurora_Office_PDA1": "所以我们终于进入太空了，我们越过一个又一个星系，建造一个又一个相位门，殖民，开采，这样是不是会最终耗尽星系的资源，这样究竟是为了什么？
+18.06-于的生日
+40-还有这么多周我们才能回家
+400-感觉还有这么多周才能回家
+没几个子儿-工资
+1454-货舱密码",
+    "Ency_Aurora_Office_Terminal1": "阿尔特拉发射了极光号",
+    "EncyDesc_Aurora_Office_Terminal1": "为了在阿里亚德内之臂建造相位门，阿尔特拉发射了极光号
+阿尔特拉集团发射了一艘新建的旗舰级飞船，船上载有一个用于阿里亚德内之臂的相位门，所以人类居住的最远范围将进一步扩大。极光号将从阿尔特拉空间边缘的隔离墙出发，通过九个不同政府统治的区域,经历上百次相位跃迁，并在三个月后到达阿里阿德内之臂的远端。从那里指挥机组将驾驶船穿越最后的相位门，大约18个月后到达下一个星系.。在那里，精英团队的工程师将开始一个六个月的新相位门建设项目，耗资一万亿信用点。由于该地区缺乏现有基础设施，该船配备了先进的热能和核电设施。
+阿尔特拉财团目前控制了星系中所有相位门的9％。如果极光号的使命完成，阿尔特拉将会在蒙古企业的基础上，在该地区建立一系列新的前哨站和矿场，开展进一步的殖民计划。
+",
+    "Ency_Aurora_Cargo_PDA1": "极光号工程无人机“阿尔伯特号”-日志",
+    "EncyDesc_Aurora_Cargo_PDA1": "[退出睡眠模式。加载语音识别。]
+伯克利：“无人机,检测推进炮。
+[排斥炮检测中]
+CTO：“嘿！伯克利！如果你把那些电线插入排斥炮，你会造成货舱减压的。
+伯克利：“天呐。无人机，我说的是推进炮，不是排斥炮。
+[排斥炮检测中]
+伯克利：“无人机,，重新校准语音传感器！
+CTO：“传感器没问题。只是我对语言界面做了一些调整。你试试像一个普通的船员说话。
+[传感器重新校准]
+伯克利：“无人机，你这废物。我知道这不是你的错，但请把这个东西拿开，并且给我配备推进炮，谢谢。
+[推进炮检测中]
+伯克利：“谢谢.现在滚吧。
+[进入睡眠模式]
+伯克利：“你的专业知识都用来整这些幺蛾子了？
+CTO：“是啊，在没出太空之前我一直在忙这个。",
+    "Ency_Aurora_DriveRoom_Terminal1": "极光号黑匣子数据",
+    "EncyDesc_Aurora_DriveRoom_Terminal1": "围绕4546B号行星发起的弹射着陆启动警告：
+受到从行星表面发射的高速能量脉冲攻击
+已发送紧急遇险信号
+检测到碰撞.
+驱动核心防护受损
+求生系统右舷侧受损
+紧急撤离启动
+极光号进入行星大气层
+受到剧烈碰撞冲击
+船体网络失灵分析：
+- 能量脉冲不匹配任何已知的行星防御技术
+- 正在计算和下载脉冲的发射源头
+- 信号成功发出
+- 阿尔特拉答复在8小时内展开最高优先级救援。",
+    "Ency_Aurora_Locker_PDA1": "极光号辅助任务清单",
+    "EncyDesc_Aurora_Locker_PDA1": "-任务：搜索和救援
+-蒙古飞船“德加斯”号的船员
+-最后位置：4546B星球
+-联系人:蒙古使者卡萨，极光号乘客区,4号房间
+任务摘要：一艘蒙古船“德加斯”在十年前消失了。卡萨购买了极光号的乘客保险，您收到的的订单是为他们提供一切合理的设施和支持，以便在不影响主要任务的情况下定位和检索德加斯机组成员。极光号将在发射大约13个月后左右围绕4546B号行星进行重力弹射启动。这将使极光号来到德加斯号最后被发现的地方。德加斯号船员的遗言已经以单独数据包的形式分发给高级雇员。",
+    "Ency_Aurora_Locker_PDA2": "肥差",
+    "EncyDesc_Aurora_Locker_PDA2": "来自：哈金斯
+写给：威尔逊
+过去13个月你告诉过我，你从来没有来过外太空对吧？现在你来到了一艘被导出都是先进机械的船上。反正明天我们没有任何事情，直到我们到达行星并开始为建造相位门工作。你说过你想要操控一套潜水机甲，去那些你只能嘴上说说的行星看看，巧了，我这里有一套写着你名字的潜水机甲。你根本不知道那种充满力量的感觉，直到你用你的裸露但是经过机械增强的手臂击碎小行星。如果你感兴趣就来我的房间看看。密码是1869。
+",
+    "Ency_Exo_Code_LifepodPDA": "非必要系统维护日志",
+    "EncyDesc_Exo_Code_LifepodPDA": "机械舱（密码6666）
+零件扫描- 完成 
+标准走廊程序 - 完成 
+使用效率检查 - 延后 
+求生系统甲板A维修检查 - 开始",
+    "Ency_Exo_Code_WreckPDA": "机械舱安全",
+    "EncyDesc_Exo_Code_WreckPDA": "来自：工程师于
+写给：技工辛克尔
+我好好想了想，无论我们给机械舱设置什么密码，他们都会找到方法进去的，所以如果下次他们让我们改密码，我会说干脆我们把密码改成大家都不会忘记的吧，你觉得改成6666咋样？他们应该会喜欢的。",
+    "Ency_Aurora_Living_Area_PDA1": "反式政府资料：阿尔特拉集团",
+    "EncyDesc_Aurora_Living_Area_PDA1": "-联邦航空航天技术和消费电子产品的最大供应商之一
+-TSF的官方供应商
+-一直是银河最好的雇主之一
+-在22世纪中期成为国防制造商
+-国家座右铭:“得到你应得的“
+虽然大多数反式政府可以追溯到地球时期，阿尔特拉(字面意思是”地球“)是唯一一个厚颜无耻到用母星名称自我命名的。在扩建期间，阿尔特拉向所有各方提供武器，获得并收容广大的殖民劳动力，并从制造商过渡到国家。公司停止贸易的威胁是冲突的转折点之一，导致敌对行动的结束和“宪章”的签署。
+阿尔特拉在自己的国界内拥有垄断权。鼓励企业自由发展;但竞争很激烈，所有出口到世界的商品必须是阿尔特拉品牌，有利可图的企业会被国家购买，原先的所有者会晋升到阿尔特拉董事会。着名的阿尔特拉旗下的技术如独眼巨人号潜水器就是起源于这样的私人企业。
+尽管表面上像是国家政府，但是该公司的律师一直认为它对其“雇员”没有法律义务，是自愿选择担任通常由民主选举的政府服务的角色。尽管如此，针对这一矛盾的诉讼从未在联邦法院出现过",
+    "Ency_Aurora_Living_Area_PDA2": "责任自主关系",
+    "EncyDesc_Aurora_Living_Area_PDA2": "前言，作者罗宾艾克伦德
+生活中的所有好东西都是商品。我们把爱情作为交易，就像我们买卖股票一样。当有公平的价值交换时，我们才会建立人际关系-无论是支持，鼓励，挑战，学习-从来没有什么是免费的。
+如果银河系中的每一个物质都来自一个供应商，那么这将形成一种危险的垄断情形。人与人之间的关系也是一样的：重要的是，人们可以从多个来源获得他们所需要的东西。此外，如果有人找到他们需要的货物的更好来源，他们应该可以自由添加备选或更换现有供应商。
+如果关系中的成员感到受到了威胁或嫉妒，他们必须检查下自己的商业模式，并询问它是否在竞争性。
+总会有改进的余地。",
+    "Ency_Aurora_Living_Area_PDA2b": "关系合同法律记录",
+    "EncyDesc_Aurora_Living_Area_PDA2b": "威尔逊：听着，我知道我没有权利要求你，但我需要你明白，我想改变我们现在的关系。
+哈金斯：我听到你在说什么，我会努力尊重你的行为。但是你想如何改变呢？
+威尔逊;我想减少我们的联系时间。哈金斯：我们还能怎么减少？
+威尔逊:减到零。
+哈金斯:你这是要离开我？
+威尔逊：我只是改变了我们相处的方式。
+哈金斯:如果我们根本看不到对方，那还算是一种关系吗？
+威尔逊：为什么不算？是你的期望太高了。
+哈金斯：我觉得你只是想在甲板上跟那帮人花更多的时间。
+威尔逊：我觉得你没在好好说话，嫉妒是一种占有欲的情绪。你为什么不能单纯为我高兴呢？
+哈金斯：我为你高兴，我也为甲板上那帮人高兴。我只是自己不高兴。
+威尔逊：这就是为什么我想改变我们的关系",
+    "Ency_Aurora_Living_Area_PDA3": "今日菜单",
+    "EncyDesc_Aurora_Living_Area_PDA3": "对于有时间意识的消费者，通常会喜欢素食饼干。它们满足各种食用条件，做起来也方便。
+
+起源：太空熊奶油
+自从二十一世纪引入星际真空以来，太空熊已经适应和蓬勃发展，没有任何其他的生命形式能够幸存下来。压缩成光滑，坚果，蛋白质丰富的汤，它们是长途太空飞行旅客的最新鲜的速食食材。
+
+注释：小屋馅饼
+肉馅中是捣碎的鲜牛肉，配上一大堆捣碎的紫薯(每天现摘的)，搭配炒上紫薯的叶子。
+
+甜点：干果和坚果
+不幸的是，货船湾3涉及不正确应用排斥炮的事故与改装的电池充电器相结合，导致所有脱水甜点的空间排放。水果和坚果将是未来39周唯一可用的甜点。
+
+请记住，摄入的卡路里不应超过消耗的热量。您可以使用个人PDA上的相关应用程序检查您的营养水平。运动是平衡这一热量数字的最佳方法。",
+    "Ency_Aurora_RingRoom_Code_PDA": "访问实验室",
+    "EncyDesc_Aurora_RingRoom_Code_PDA": "如果您需要调整您的设备，请使用前面部分的模组站，或从数据线旁边的实验室检索预配置的设备。 密码是6483。",
+    "Ency_Aurora_RingRoom_Terminal1": "未知",
+    "EncyDesc_Aurora_RingRoom_Terminal1": "未知",
+    "Aurora_RingRoom_Terminal2": "在您的PDA电脑上检测到数据库损坏。您的最新蓝图资料已更新。",
+    "Ency_Aurora_RingRoom_Terminal3": "阿尔特拉总-最后的传输信号",
+    "EncyDesc_Aurora_RingRoom_Terminal3": "极光号远程通信继电器:失效
+平均远程传输延迟:8小时
+显示最后记录的传输……
+极光号 [T-6mins]：这是一次紧急求救呼叫。极光号与行星发生突发碰撞。正在发送所有可用的环境数据。请提供生存的解决方案。
+阿尔特拉总部[T+8hrs]：这是是阿尔特拉总部，这可能是我们唯一可能通话的窗口。我们派遣的营救飞船无法抵达星球内部，所以极光号的幸存者，你们需要先离开星球，在太空与我们的救援队汇合。我们已经将建造离开星球所需载具的蓝图发往舰载计算机了。黑匣子数据显示，船长居住区的最高安全终端还可以正常工作。密码是####当你完成蓝图下载后，需要自己想好建立逃逸飞船的计划，材料都是足够的，关键的必须要有足够的能量供应。你可能需要从极光号的反应堆碎片里收集残余的有效零件，或者想到其他更靠谱的手段，我们一定会-*静音*
+[T+8hrs]：通信中断",
+    "Sign_Aurora_Airlock": "气阀",
+    "Sign_Aurora_Office": "行政",
+    "Sign_Aurora_Cargo": "三号货舱",
+    "Sign_Aurora_Seamoth": "海蛾号停靠处",
+    "Sign_Aurora_DriveRoom": "驾驶舱",
+    "Sign_Aurora_Robotics": "海虾号安放处",
+    "Sign_Aurora_Robotics_2Line": "海虾号安放处",
+    "Sign_Aurora_Locker": "储物间",
+    "Sign_Aurora_LivingArea": "宿舍区",
+    "Sign_Aurora_Seamoth_Bay1": "1号港",
+    "Sign_Aurora_Seamoth_Bay2": "2号港",
+    "TemperatureFormat": "{0:0.0} 摄氏度",
+    "CraftingBegin": "{0}的建造需要{1}秒。 此任务完成后，您将收到通知。",
+    "CraftingEnd": "{0}的制作已完成。 准备好接收。",
+    "SeamothUpgradesMenu_CommonModules": "通用模块",
+    "SeamothUpgradesMenu_SeamothModules": "海蛾号模块",
+    "SeamothUpgradesMenu_ExosuitModules": "海虾号模块",
+    "SeamothUpgradesMenu_Torpedoes": "鱼雷",
+    "VehicleStorageLabel": "载具存储",
+    "VehicleTorpedoStorageLabel": "鱼雷舱",
+    "ExosuitPropulsionArmFragment": "海虾号冲击炮碎片",
+    "ExosuitGrapplingArmFragment": "海虾号格斗手臂碎片",
+    "ExosuitDrillArmFragment": "海虾号电钻手臂碎片",
+    "ExosuitTorpedoArmFragment": "海虾号鱼雷手臂碎片",
+    "Tooltip_ExosuitPropulsionArmFragment": "海虾号冲击炮科技碎片。",
+    "Tooltip_ExosuitGrapplingArmFragment": "海虾号格斗手臂科技碎片。",
+    "Tooltip_ExosuitDrillArmFragment": "海虾号电钻手臂科技碎片。",
+    "Tooltip_ExosuitTorpedoArmFragment": "海虾号鱼雷手臂科技碎片。",
+    "EncyNotificationEntryUnlocked": "数据库入口解锁",
+    "EncyNotificationPressPDAToView": "[{0}] 按下以查看",
+    "Tooltip_Poster": "物竞天择2海报。",
+    "Tooltip_PosterAurora": "极光号海报。",
+    "Tooltip_PosterExoSuit1": "海虾号海报。",
+    "Tooltip_PosterKitty": "KEEP CALM海报。",
+    "Ency_DeepPDA1": "德加斯7号语音日志-瘟疫",
+    "EncyDesc_DeepPDA1": "巴特：你们俩都停下听我说，我们可能病了。
+玛格丽特： 什么？
+保罗:为啥？
+巴特:你一直在咳嗽，对吧？而且感觉痒
+玛格丽特:是的。
+保罗:不对啊，如果真的感染了潜水服的生物识别系统会警告我们。
+巴特:这是新的星球上的新的疾病。不在潜水服的数据库里。
+玛格丽特:这病毒能怎样，让我们吐出我们的内脏，从里到外溶解成粘液，是吗？
+巴特:这是一种外星病毒，我们刚到这里其实就已经感染了，这个星球上的所有生物都携带这种病毒。我们迟早会死于这种病毒，但是奇怪的是，这里的生物居然都没事。
+玛格丽特：需要我去帮你采集样本研究这是什么病毒吗？
+巴特:别！
+保罗：儿子，直说你需要什么吧！材料，实验室？样本，不管什么我们都帮你弄来。
+巴特：能不能让我一个人待会！我需要时间想。",
+    "Ency_DeepPDA2": "德加斯8号语音日志-冒险",
+    "EncyDesc_DeepPDA2": "*舱盖关闭声*
+中央电脑：玛格丽特 梅达回到基地。
+保罗：你怎么这么高兴，梅达？
+玛格丽特：孩子，猜猜我给你带来了什么？
+保罗：这是一个利维坦吗？
+玛格丽特：把他拖到潜艇后面。
+巴特：你杀了它吗？
+玛格丽特：它还在呼吸。但我一会会用我的刀了结它。
+保罗：你疯了吗？你把这个东西带到这里？如果它的同类找过来怎么办？
+玛格丽特：但是如果就它一个，什么时候出于好奇，来我们这转一圈，随便做点破坏，那样就好了吗？
+保罗：当我们离开这个星球，我要从整个帝国的所有法院起诉你！",
+    "Ency_DeepPDA3": "德加斯9号语音日志-灾难",
+    "EncyDesc_DeepPDA3": "保罗：你做的这些事时时刻刻威胁着我和我家人的安全，你明白吗？
+玛格丽特：哦，算了吧老哥。孩子需要标本进行研究，那些标本都是我带回来的。
+保罗：巴特，告诉她。告诉她我是对的。
+巴特：你们都错了！玛格丽特，如果你每次都杀死他们或者让他们充满传染淤血，我是没法知道他们抵抗细菌的方式的。
+玛格丽特：他们又不是每次都愿意活着乖乖跟我回来的，那你说怎么办？
+保罗：不要这样对他说话！
+巴特：父亲，如果我们在这里耗着而不去外面，不会有好结果的。我们必须找到一个折中的方法。
+保罗：没有妥协！只要这个女人还在这里。
+玛格丽特：这是你的基地？
+巴特：我要去外面。
+中央电脑：巴特托加尔 离开基地
+保罗：巴特！这很危险！这混蛋东西，我知道你听到我说话了！给我回来！
+*利维坦的声音*
+玛格丽特：好了好了，关掉收音机，戴上你的头盔。
+巴尔：什么？
+玛丽：别这么怂好吗！
+*基地破裂和进水的声音*",
+    "Ency_DeepPDA4": "保罗托加尔的3号日志-剧终",
+    "EncyDesc_DeepPDA4": "不知道从哪出来的，一头像鲲一样，独眼巨人大小的外星生物，穿过加固的船体，并且钻了一个洞出来，我几乎喘不过气来。我早告诉她了。我说其他利维坦会来。我们被迫抛弃了基地，那东西转过来，趴在我身上。就在它的触角快碰到我的时候，梅达突然出现了。她一只手操控这水下推进器，另一只手上有一块锯齿状的废金属。她的意思要杀掉那只野兽，或者单纯是想死。最后一次我看到她时，她把把金属插进了怪物脖子里，紧紧抓住，怪物猛烈摇晃真题拜托她，他们扭打着消失在黑暗里。我肯定她应该是如愿了，第一种或第二种都可能。
+然后我觉得我看到一丝光亮，在我下面很深的地方。我希望巴特一路都是安全的。我只要跟着光就能找到他。现在我好像什么都看不到了。我的氧气没了。基地在我眼前消失了。我看不到天空。我敢肯定我闻到血的味道了。",
+    "BasaltChunk": "玄武岩块",
+    "SandstoneChunk": "砂岩块",
+    "ShaleChunk": "页岩块",
+    "AquariumFragment": "水族箱碎片",
+    "BaseWaterParkFragment": "大型水族馆碎片",
+    "BenchFragment": "高级工作台碎片",
+    "BuilderFragment": "居留舱建造器碎片",
+    "FarmingTrayFragment": "大型种植箱碎片",
+    "LEDLightFragment": "LED照明灯碎片",
+    "PlanterBoxFragment": "室内种植箱碎片",
+    "PlanterPotFragment": "花盆碎片",
+    "PlanterShelfFragment": "壁挂花盆碎片",
+    "PictureFrameFragment": "相框碎片",
+    "RadiationSuitFragment": "辐射服碎片",
+    "ReinforcedDiveSuitFragment": "强化潜水服碎片",
+    "SignFragment": "标志牌碎片",
+    "StillsuitFragment": "环保潜水服碎片",
+    "TechlightFragment": "工业照明灯碎片",
+    "ExosuitClawArmFragment": "海虾号碎片",
+    "Biter": "食人鱼",
+    "Bleeder": "吸血虫",
+    "CaveCrawler": "蹒跚蟹",
+    "CrashHome": "自爆鱼巢穴",
+    "Mesmer": "催眠师",
+    "SeaTreader": "踏浪者",
+    "ReaperLeviathan": "死神利维坦",
+    "CrabSquid": "蟹鱿",
+    "Warper": "裂空者",
+    "Crabsnake": "蟹蛇",
+    "Shocker": "电鳗",
+    "BoneShark": "骨鲨",
+    "ExosuitClawArmModule": "海虾号钩爪手臂",
+    "Tooltip_ExosuitClawArmModule": "装备升级！",
+    "RadioLifepod7": "这是极光号高级工程师拉菲特，从7号逃生舱广播！ 我们已经在撞击中幸存下来, 但逃生舱设备故障，我们正在下沉！坐标已连接！尝试修复！因为干扰将失去无线电联系*静电干扰*",
+    "RadioLifepod17": "这是一个从极光号的17号逃生舱自动发出的求救信号。坐标已连接。请立即派出紧急救援队。",
+    "safeShallows_Cave": "未知",
+    "Goal_BiomeCrashZone": "未知",
+    "Goal_Bladderfish": "外星生物可能会有意想不到的生存帮助，合理利用它们来增加你的存活概率。",
+    "Goal_HolyDiver": "未知",
+    "Goal_BaseWindow": "窗户既美观又实用，但是会降低基地强度。",
+    "Ency_AuroraEngineeringLog": "未知",
+    "EncyDesc_AuroraEngineeringLog": "未知",
+    "Ency_InnerBiomeWreckLore8": "未知",
+    "EncyDesc_InnerBiomeWreckLore8": "未知",
+    "Ency_OuterBiomeWreckLore7": "未知",
+    "EncyDesc_OuterBiomeWreckLore7": "未知",
+    "Ency_OuterBiomeWreckLore8": "未知",
+    "EncyDesc_OuterBiomeWreckLore8": "未知",
+    "Ency_DeepPDABase3": "未知",
+    "EncyDesc_DeepPDABase3": "未知",
+    "Ency_Airsack": "泡泡鱼",
+    "EncyDesc_Airsack": "这种不寻常的食草动物没有任何攻击力。  1.半透膜：这种生命体能够通过独特的膜过滤海水进入体腔，去除和消耗从其中过滤的有机颗粒。  2.开口式血管：可以张开和收缩，以喷射出水流，实现低速的定向推进。 唯一确定的防御机制：95％的软骨构成。  
+
+评估：膜可作为天然的过滤器来生产纯净水",
+    "Primary": "主要",
+    "Secondary": "次要",
+    "MouseButtonLeft": "鼠标左键",
+    "MouseButtonRight": "鼠标右键",
+    "MouseButtonMiddle": "鼠标中键",
+    "PressAnyButton": "按下任意键继续",
+    "PosterExoSuit2": "海虾号海报",
+    "Tooltip_PosterExoSuit2": "海虾号海报",
+    "Signal_Lifepod3": "4号逃生舱（海表）-探索前建议装备防辐射服",
+    "Signal_Lifepod12": "12号逃生舱（250米）-靠近海床",
+    "Signal_Lifepod13": "13逃生舱（175米） - 原先载有贵宾级乘客",
+    "Signal_Lifepod17a": "17号逃生舱（100米）-周围似乎有载具舱碎片",
+    "Signal_Lifepod17b": "6号逃生舱-(船员遭受辐射,请求支援)",
+    "Signal_Lifepod19a": "3号逃生舱（海面）-船员水下推进器遭到损坏",
+    "Signal_Lifepod19b": "7号逃生舱（175米）-极光号旧船员请求支援",
+    "Signal_EnergyPulseOrigin": "能量脉冲源头",
+    "Story_AuroraConsole3": "强化潜水服安全操作指南A14条：在装甲还在运行时不要执行穿进或脱下的操作。",
+    "PropulsionCannonUnload": "卸下",
+    "PropulsionCannonUnloaded": "未装备",
+    "KeyRedemption": "激活码兑换",
+    "NotificationCreatureDiscovered": "发现新生命形式",
+    "NotificationBlueprintUnlocked": "已获得蓝图",
+    "PrecursorKey": "密钥",
+    "Insert_Precursor_Key": "使用密钥",
+    "Signal_Prison": "早期外星设备",
+    "Goal_BiomePrecursorGunUpper": "扫描表明这种结构由具有前所未有的完整性的金属合金组成。在数据库中找不到匹配项。建议执行结构分析。",
+    "EncyPath_DownloadedData\/Precursor": "外星数据",
+    "Precursor_Gun_DataDownload1": "正在尝试翻译广播数据",
+    "Ency_Precursor_Gun_DataDownload1": "外星人数据终端",
+    "EncyDesc_Precursor_Gun_DataDownload1": "这个终端发现于4546B号行星表面的外星人设施内。在受到接近时，终端会产生包含复杂但可识别的数据模式的低频无线电波。
+-
+没有已知的人类技术与之匹配
+- 使用与设施本身相同的奇特未知材料构造
+- 似乎是某种固态计算机
+- 没有可识别的用户界面
+设计这种技术的外来物种可能经过了进化或基因选择，他们拥有一种特殊的人类不具有的感官以“听到”并且理解由设备正在广播的信息，并以此为媒介进行通信。执行这种心灵感应所需的心理处理能力意味着设计者比普通人类的脑力发达得多。要使用从该设备收集的证据，可以从其他这样的设备(如果存在的话)提取可理解的数据。
+
+评估:需要进一步的资料",
+    "Precursor_Gun_DataDownload2": "正在尝试翻译广播数据",
+    "Ency_Precursor_Gun_DataDownload2": "外星设施概要",
+    "EncyDesc_Precursor_Gun_DataDownload2": "该数据整合包似乎是某种多维原理图。通过将图案映射到三维空间，可以重现设施内部的详细信息。
+
+建筑材料：
+该设施的未知建筑材料被鉴定为由未知材料合成的超硬，稳定态的汞合金。没有迹象表明它可能被通常的手段损坏或毁坏。
+
+功率：
+原理图表明，该设施由位于星球其他地方的独立的自维持电厂提供动力。该地点没有列出，但有证据表明，设计者想利用星球上的天然热能。
+
+布局：
+该设施包括上部工程部分，其中显示了原理图，以及可以通过电梯或单独的水下月池进入的控制室。
+
+控制：
+下部的控制室是唯一已知的与进入设施内部的方式，但是原理图没有详细说明操作程序或已配备的安全措施。",
+    "Ency_Precursor_LostRiverBase_DataDownload1": "物种研究数据",
+    "EncyDesc_Precursor_LostRiverBase_DataDownload1": "该设备记录了病毒蔓延之前，对所有样本进行的免疫测试结果，其中的一些条目已经翻译完成。
+咖喱鱼：
+无免疫力，通常在4感染4天后死亡。但是在接触42号酶后症状缓解，离开后迅速复发。
+海龙幼体：
+成体太大无法研究。幼体无免疫能力，感染3周后死亡。已保留少量未孵化的蛋，便于后续进一步研究利维坦生物孵化机制。
+偷窥鱼：
+没有免疫力，但是展现出了天生的强学习能力，可以将42号酶散播给其他生物，后续进行重点研究。
+不明利维坦生物：
+最接近意思的翻译为海皇利维坦，这种生物天生对卡拉病毒免疫，并且其生成的42号酶可以抑制该病毒。该样本被关押在1200米深的熔岩堡。
+
+PDA评估：尽管海皇样本存货可能性很低，为了获得外星人疫苗开发尝试的进一步数据，仍值得进入设施进行探索。",
+    "Ency_Precursor_LostRiverBase_DataDownload2": "卡拉蔓延情况概要",
+    "EncyDesc_Precursor_LostRiverBase_DataDownload2": "卡拉病毒的详细档案
+被发现：在对外部世界的星际扩张中发现。
+大爆发：网络错误导致常规检疫程序执行失败。 传染病来到主世界并迅速蔓延。 确定死亡人数：1430亿。
+感染机制：附着于健康的组织，催生DNA突变并在身体各组织间迅速扩散。
+
+症状：阶段1：无。 阶段2：免疫系统逐步衰竭。 阶段3：生物结构发生不可预知的突变。 阶段4：失去生命体征。
+
+紧急措施：与主世界隔离。 将病毒样品分布到分散的疾病研究设施尝试开发疫苗。
+
+治疗程序：未知。",
+    "Ency_Precursor_LostRiverBase_DataDownload3": "损伤报告",
+    "EncyDesc_Precursor_LostRiverBase_DataDownload3": "探测到附近有利维坦生物，并高速向你靠近。
+机体外部遭受重创。
+机体变形，机身漏水正在下沉。
+与海底接触。
+机体毁坏等级7级（利维坦生物的蛋）.
+开始保护采集样本。
+共有314种生物被毁灭，1种生物未知。
+疏散系统开始工作。
+外星检疫系统开始工作。
+
+警告：被感染者将被禁止离开星球。",
+    "Ency_Precursor_LavaCastleBase_ThermalPlant": "外星喜热生物",
+    "EncyDesc_Precursor_LavaCastleBase_ThermalPlant": "该系统将热能转换为90％效率的电流。这些能源中的一些以化学能的形式存储起来，而未知的机制似乎将大部分能量转移到星球上其他地方的远程位置：30％存储在现场紧急使用，30％用于地对空检疫执行平台22％用于主要收容设施11％用于疾病研究设施7％用于自我扭转检疫执行单位
+该系统似乎是完全自动化的，并且根据目前对所涉机制的理解，持续工作不会间断。",
+    "ConstructNextRocketStage": "建造下一节火箭",
+    "RocketFinished": "海王星号建造完成",
+    "RocketBase": "海王星号发射平台",
+    "RocketBaseLadder": "海王星号龙门",
+    "RocketStage1": "第一节火箭",
+    "RocketStage2": "第二节火箭",
+    "RocketStage3": "第三节火箭",
+    "Tooltip_RocketBase": "为逃逸火箭提供稳定的发射平台。",
+    "Tooltip_RocketBaseLadder": "在火箭制造过程中提供物理支撑。",
+    "Tooltip_RocketStage1": "第一节火箭主要用于燃料储备。",
+    "Tooltip_RocketStage2": "第二节火箭为逃逸大气层提供推力。",
+    "Tooltip_RocketStage3": "第三节火箭为驾驶舱。",
+    "ConstructorMenu_Rocket": "海王星号逃逸火箭",
+    "IGPHullPlate": "独立游戏船体板",
+    "Signal_LostRiverBase": "外星人疾病研究设备",
+    "Signal_LavaCastleBase": "外星热能发电厂",
+    "Ency_Precursor_LostRiverBase_DataDownload4": "卡拉感染报告",
+    "EncyDesc_Precursor_LostRiverBase_DataDownload4": "你感染了一种未知的水生细菌。细菌数量正在以指数级速度攀升。预计爆发时间：2周。
+您的免疫系统目前无法有效抑制感染，你可能已经出现外部症状，随着进一步感染，症状可能会加剧。
+当务之急是抑制并消除感染。
+推荐步骤：
+-寻找收集关于疫苗研制的外星先驱者数据
+-调查本地生态系统中可能可以抑制感染症状的环境要素（动物或植物）",
+    "Precursor_LostRiverBase_Log1": "这个外星建筑似乎已经坍塌到海床底部了",
+    "Precursor_LostRiverBase_Log2": "检测到外星广播。 翻译如下：“注意：设施内包含危险材料和生命体。”",
+    "Precursor_LostRiverBase_Log3": "正在下载与细菌有关的数据. 注意：检测到血浆蛋白中的非典型波动. 强烈建议首先进行自扫描",
+    "Precursor_LostRiverBase_Log4": "未知",
+    "Incubator": "孵化器",
+    "HatchingEnzymes": "孵化酶",
+    "UseIncubator": "使用孵化器",
+    "SeaEmperorBaby": "海皇幼体",
+    "Tooltip_Incubator": "用于孵化的设备。",
+    "Tooltip_HatchingEnzymes": "发现于库什区的一种特殊酶体，可能可以用于海皇利维坦的孵化。",
+    "LavaLizard": "岩浆蜥蜴",
+    "SeaDragon": "海龙利维坦",
+    "Tooltip_LavaLizard": "在火山地区生活的中体型捕食者。可能经过人工饲养。",
+    "Tooltip_SeaDragon": "一种巨大的利维坦族水生物种,强侵略性。",
+    "Ency_LavaLarva": "熔岩虫",
+    "EncyDesc_LavaLarva": "一种看起来没有视觉和味觉，但能够感知和排出环境中的热能和电能的蠕虫类物种。
+
+吸盘：
+能够吸附到光滑的表面并产生高压吸力。
+
+躯干：
+隔热能力强，且没有发现传统的消化系统。
+
+  - 可以吸收各种能源
+
+ - 从其猎物中吸取能量以生存
+
+评估：驾驶需要动力的载具时避免接触。",
+    "Ency_LavaLizard": "岩浆蜥蜴",
+    "EncyDesc_LavaLizard": "中等体型的熔岩区域捕食者。
+1.下颚：
+能对猎物造成最大的伤害; 尖锐的内齿通过肉体和骨头相互咬合。
+
+2.疤痕：
+可能由于不时的岩浆炙烤。
+
+这种生物不仅适应于高温地区，而且已经学会了利用熔岩流的优点。 它能够通过将其身体埋在岩浆中来防御自身，并通过将熔岩溅到敌人身上进行攻击。
+
+评估：避免接触，尤其是在岩浆附近碰到时。",
+    "Ency_SeaDragon": "海龙利维坦",
+    "EncyDesc_SeaDragon": "具有一般爬行动物体征的巨大水生物种，利维坦家族的一员。已进化到可以以矿物为食并吞吐为熔岩物质的地步。
+1.无机组织
+分析显示，该生物身体的三分之一由无机物组成。以胸部为中心延伸成坚不可摧的外部甲壳。同时以矿物为食解释了为什么这种生物如此耐高温。
+2.前臂
+用于推动和拿取物体，与其相似的海皇利维坦手臂已经退化。所以海龙可能是星球上最古老的生物。
+3.触手
+7个触手可以提供强大的运动能力，尽管样本可能超过100米长。
+
+猎物：一切
+捕食者：？？？
+
+评估：极端危险",
+    "Ency_TreeCoveTree": "生命之树",
+    "EncyDesc_TreeCoveTree": "生命之树是星球上最美丽的植物。该物种目前在星球上只发现一例。
+
+1.表面
+- 外表包裹着生长迅速且十分耐寒的植物组织。
+-
+在树皮的密集凹槽中有小型生物在其中栖息。
+
+2.幽灵利维坦蛋
+- 树枝中包裹着很多未孵化的蛋。
+- 这些蛋孵化出的生物被称为“幽灵利维坦”。
+- 这些蛋的年龄和植物的很多部分同样古老。
+
+这棵生物似乎在其生长的初期被幽灵利维坦作为筑巢地。很多年过去了，这些蛋被植物所保护，并等待合适的孵化时机。",
+    "Ency_GhostRay": "幽灵鳐",
+    "EncyDesc_GhostRay": "遗传学分析表明，幽灵鳐是凝胶鳐鱼的近亲，生活在生态环境更为恶劣的失落之河附近。不同的是，幽灵鳐的防御机制更完备，并且运动能力更强。
+- 高毒性的肉质
+- 性格温顺
+- 以深海海床的植物为食
+
+评估：不可食用",
+    "Ency_FireRay": "猩红鳐",
+    "EncyDesc_FireRay": "和4546B星球上遇到的其他鳐类生物一样，该生物的肉质也带毒，并且表现比较温顺。
+
+1.体型较厚
+看上去应该耐热能力更好。
+2.突出的眼睛
+可能很久之前曾是肉食类动物，但是捕猎能力好像已经退化了。
+
+评估：不可食用",
+    "GhostRayBlue": "幽灵鳐",
+    "GhostRayRed": "猩红鳐",
+    "EnzymeCureBall": "婴儿利维坦酶",
+    "Tooltip_EnzymeCureBall": "42号酶的浓缩。",
+    "GroupBasePieces": "基础零件",
+    "GroupExteriorModules": "外部模块",
+    "GroupInteriorPieces": "内部零件",
+    "GroupInteriorModules": "内部模块",
+    "GroupMiscellaneous": "杂项",
+    "Kyanite": "蓝晶石",
+    "Tooltip_Kyanite": "深蓝色耐热水晶",
+    "Disable_Gun": "禁用设施",
+    "CoveTree": "生命之树",
+    "Tooltip_PrecursorIonCrystal": "高密度离子能源块。",
+    "Tooltip_PrecursorIonCrystalMatrix": "离子晶体矩阵。",
+    "PrecursorKey_Red": "红色先驱者芯片",
+    "PrecursorKey_Blue": "蓝色先驱者芯片",
+    "PrecursorKey_Orange": "橙色先驱者芯片",
+    "PrecursorKey_White": "白色先驱者芯片",
+    "PrecursorKey_Purple": "紫色先驱者芯片",
+    "Tooltip_PrecursorKey_Red": "远古外星人遗物，闪着红光。",
+    "Tooltip_PrecursorKey_Orange": "远古外星人遗物，带有橙色标志。",
+    "Tooltip_PrecursorKey_Blue": "远古外星人遗物，带有蓝色标志。",
+    "Tooltip_PrecursorKey_White": "远古外星人遗物，闪着白光。",
+    "Tooltip_PrecursorKey_Purple": "远古外星人遗物，带有紫色光。",
+    "Feedback": "反馈",
+    "Ency_LifepodCTOLog1": "已移除",
+    "EncyDesc_LifepodCTOLog1": "已移除",
+    "PipeSurfaceFloater": "浮动空气泵",
+    "Tooltip_PipeSurfaceFloater": "将空气泵入管道的浮动装置，作为管链的起点。",
+    "Ency_LifepodCaptainsQuartersCode": "未知",
+    "EncyDesc_LifepodCaptainsQuartersCode": "未知",
+    "PrecursorIonCrystal": "离子晶体",
+    "SpineEel": "游掠者",
+    "Ency_Kyanite": "蓝晶石",
+    "EncyDesc_Kyanite": "蓝晶石是在高温,高压条件下形成的蓝色硅酸盐矿物。它熔点高达1100摄氏度，通常用作电绝缘体。
+
+评估：高级载具模改的基本材料",
+    "Ency_IonCrystal": "离子晶体",
+    "EncyDesc_IonCrystal": "这些外星晶体每一个都存储着约等于小规模核爆的能量。外星的先进技术将离子间的势能储存在永久稳定的状态，然而在正确的条件下，反应可以被再催化，且能量能以受控的温和方式释放。它们可用作制作电池，存储反应堆产生的电力，然后运输到需要便捷能源的地方。",
+    "Ency_SpineEel": "游掠者",
+    "EncyDesc_SpineEel": "在失落河流生物群中发现的快速，敏捷的捕食者。
+-  强大的下颚用于捕食猎物和防御更大的捕食者 
+-  它的躯干是高度易损的,主要由脊柱和软骨组成 
+-  它将尽量保持其颌面正对对手，但更小，更快的生物面对它时可能有优势
+
+评估：避免接触",
+    "OptionCycleNext": "下一个",
+    "OptionCyclePrev": "上一个",
+    "BasePipeConnector": "带底座的空气泵",
+    "Tooltip_BasePipeConnector": "将空气泵入管道的基座连接装置,可作为管道链的起点。",
+    "SelfScan1": "执行自扫描。 生命体征正常。 检测到微量的外来细菌。 将在后台继续监视。",
+    "SelfScan2": "自扫描完成。检测到微量的外来细菌。继续监控。",
+    "SelfScan3": "自扫描完成。检测到较多的细菌水平。未检测到不良影响。请继续保持警惕。",
+    "SelfScan4": "执行自扫描。 细菌感染已经扩散到皮肤和肺部系统。你必须找到一种清除感染的方法。",
+    "SelfScan5": "执行自扫描。 生命体征正常。 没有细菌感染的剩余迹象。",
+    "Goal_BiomePrecursorGunUpper2": "对墙上的图案的分析不能确定它们的目的是美观还是功能性。 需要更多数据。",
+    "Goal_BiomePrecursorGunUpper3": "通过访问下部的控制室，是你实现设备交互的最有可能的手段。",
+    "Goal_BiomePrecursorGunUpper4": "未知",
+    "Precursor_Gun_ControlRoom": "扫描表明设施的控制室位于此门口之外。",
+    "Precursor_Gun_DisableDenied": "###4100
+翻译外星广播……警告：受感染的个体可能无法禁用执法系统。这个星球正在隔离中。",
+    "Precursor_Gun_Disabled": "未知",
+    "Precursor_Gun_Finder": "未知",
+    "Ency_Precursor_Gun_DataDownload3": "外星设施位置",
+    "EncyDesc_Precursor_Gun_DataDownload3": "截获了关于星球上其他地方的外星设施的背景资料。
+疾病研究机构
+-深度：800米
+-地点:在检疫执行平台西南方向，有大量化石和洞穴。
+-功能:活体标本研究。
+-目的：研制可以治愈卡拉细菌的疫苗
+火力发电设施
+-深度：1200米
+-地点:在一个密集的火山活动区域。
+-功能：为所有当地外星设施提供能源。
+避难所-数据损坏。
+避难所B -数据损坏。
+场外实验室-数据损坏。
+主控制设施-数据损坏。
+如果发生疫情，检疫程序将立即生效。检疫执行平台将攻击所有入境和出境的船只，以防止感染在宇宙中传播。",
+    "DeconstructUpgradeConsoleFabricatorError": "在解构车辆改装站之前，记得从工作台取走制作的东西。",
+    "Centrifuge": "离心机",
+    "Tooltip_Centrifuge": "离心机",
+    "Ency_StillSuit": "环保潜水服",
+    "EncyDesc_StillSuit": "工业匠师级环保潜水服，过滤和回收你的水分来节约净水。
+
+毕竟和自己处理过得尿液总比脱水而死要来的实在。
+
+- 回收的净水储存在容器中，正常的速度是每天回收两瓶净水
+-
+4种以上体液会进入到环保潜水服的循环中，至于是哪几种就不说了
+-
+为了改善用户体验，在使用时可以开启异味中和装置，但并不是所有型号的环保潜水服都搭载这一技术。",
+    "Ency_RadSuit": "辐射服",
+    "EncyDesc_RadSuit": ""这件潜水服可以帮你抵抗陆地，水面和太空中的所有辐射。
+
+- 和AEP原版潜水服完美兼容
+- 安全阈值可达400 Sv\/hr
+- 表面很光滑",
+    "Ency_ReinforcedSuit": "强化潜水服",
+    "EncyDesc_ReinforcedSuit": "此款衣服采用芳纶纤维增强,以减少受到的物理和热损伤。
+强化潜水服：当你可以穿阿尔特拉牌衣服时，什么要冒险呢？
+-  吸收并减少物理冲击速度约50％
+-  额定温度高达70度
+-  免责声明：这件衣服并不会让你无敌",
+    "Nickel": "镍矿",
+    "Tooltip_Nickel": "镍。 多用途合金成分，多用于潜艇舰体强化。",
+    "BreakBarnacle": "打破藤壶",
+    "RadioSunbeam2": "极光号，这里是阳光号。 我们刚刚在你们的信号位置发现了一个巨大的飞船废墟。 我不知道情况有这么差……你们有多少人……算了，我不知道该说什么了。 我们现在正在立刻前往你们的位置。 我们会带你们回家。 完毕。 
+我还能说什么？ 我们船上有6个人，却没有人能处理这个情况？ 我们的飞行员最后一次登陆行星是在飞行学校的模拟器里？ 这不是个好选择，但确是唯一的选择。",
+    "RadioSunbeam3": "这里是阳光号，现在向所有极光号的幸存者广播。 我们已经行驶了一半以上的距离，所以请务必坚持住。在我们说话的时候，我们正在寻找行星上的陆地。我想换做你们也不会选择在海里着陆吧，当我们能提供一个准确地陆地登陆点，我们会立刻将位置发送给你们。完毕。",
+    "RadioSunbeam4": "极光号，这里是阳光号。我们已经进入了轨道，扫描发现了一个陆地上的登陆点，只是有点危险。但这也是我们最好的机会。我们向您发送了坐标。我们将在那里呆两天。祈祷天气一直这么好吧，别让我们久等了。完毕。",
+    "Story_RadioWarning": "生存建议：你的船载无线电设备失灵了，尽快修好它可以大大增加你的获救可能性。",
+    "Precursor_Gun_LostRiverHint": "正在翻译外星广播并下载可用数据。",
+    "PlayWithFish": "和鱼类玩耍",
+    "GilathissHullPlate": "吉拉西斯船体板",
+    "PDASunbeamDestroyEventOutOfRange": "PDA：收到来自贸易飞船阳光号的轨道应答信号。阳光号正在穿越星球大气层并已开启自动登录扫描系统。
+检测到来源不明的巨大能量脉冲。###1000
+检测到巨额能量释放。###3000
+阳光号失去联系。###4000",
+    "PDASunbeamDestroyEventInRange": "幸存者,我们看到你了!
+老兄，我不知道你是怎么坚持下来的。
+我们已经穿过大气层，正在前往着陆点。###1000
+下面是不是有个建筑？什么？无法识别？
+坚持下去，没有回头路了。*失去信号*
+各就各位了，准备着陆，倒计时10、9、8-  ###1000
+那是什么？从那个建筑发射出来的吗，糟了！赶紧调- *失去信号*。",
+    "Insert_Precursor_Crystal": "插入离子晶体",
+    "Marki1": "一个奇怪的玩偶",
+    "Marki2": "一个奇怪的玩偶",
+    "Tooltip_Marki1": "一个特别的玩偶。",
+    "Tooltip_Marki2": "一个特别的玩偶。",
+    "JackSepticEye": "杰克的化粪池",
+    "Tooltip_JackSepticEye": "一个别致的物件。",
+    "DeconstructFailed": "无法破坏",
+    "DeconstructObstacle": "{0} 必须先被拆解",
+    "DeconstructGhostError": "必须先拆除部件",
+    "PlayerObstacle": "你在解构目标内部或者离的太远",
+    "EatMyDiction": "马拉",
+    "Tooltip_EatMyDiction": "Eat My Diction里的猫。",
+    "SunbeamRendezvousLocation": "阳光号登陆点",
+    "SunbeamArrivalCountdown": "阳光号会到达的",
+    "Play": "开始游戏",
+    "StartNewGame": "开始新游戏",
+    "PrecursorKey_PurpleFragment": "紫色先驱者遗物碎片",
+    "PrecursorKeyTerminal": "力场控制台",
+    "Ency_PrecursorKeyTerminal": "力场控制台的终端",
+    "EncyDesc_PrecursorKeyTerminal": "这个设备应该是由外星先驱者制造，并且连接到附近的一个力场。这个技术先进程度远超人类认知范围。尽管如此，他好像只是一把普通的外星人造的锁而已，需要正确的钥匙才能打开。",
+    "PrecursorTeleporter": "外星传送门",
+    "Ency_PrecursorTeleporter": "外星传送门",
+    "EncyDesc_PrecursorTeleporter": "建造这幢建筑的原始目的不清楚。
+可能的解释：
+-  礼仪或宗教作用 
+-  工业应用 
+-  先进的交通方式
+建议谨慎地搜索该地区的其他外星建筑和技术来获得更详尽的举证。",
+    "PrecursorEnergyCore": "能量核心",
+    "Ency_PrecursorEnergyCore": "能量核心",
+    "EncyDesc_PrecursorEnergyCore": "这个装置内含有一亿吨核爆当量的能量，可以在设施内控制以打击行星大气层内的所有飞行目标，遇到特殊情况可以被关闭，但是目前没有设置特别的运行参数，表明他会打击轨道上的所有装置。",
+    "Ency_PrecursorKey_Purple": "紫色先驱者遗物",
+    "EncyDesc_PrecursorKey_Purple": "这个芯片有几百年甚至几千年的历史，尽管如此,通过发光的图案可以推测它还能正常使用。应该是和其他的外星科技配套使用的。",
+    "Ency_Precursor_SparseReefCache_DataDownload1": "外星避难所阿尔法",
+    "EncyDesc_Precursor_SparseReefCache_DataDownload1": "发现这一数据集的前厅已被确定为某种形式的外星圣地。 
+天花板固定装置：安装在天花板上的特殊装置在下面的数据集线器上投射着绿色的光，同时它们也你能调节周围水的pH值，并发出低频声波。 可能是为了某种其他目的维持理想条件，但它们同样可能是单纯仪式性的作用，或甚至是娱乐性的。 
+美学：像在4546B上发现的许多外星建筑一样，设计很华丽。 安装在基座上的离子晶体没有被耗尽，这表明它们提供着一些更符号化的目的。 与旧地球宗教图像的相似性可能是巧合，但它们也可能表明一些共同的和古老的文化历史。 
+
+评估：需要进一步的数据",
+    "EscapePodObstacle": "逃生舱已经在路上",
+    "Precursor architecture": "外星建筑",
+    "TrashcanStorageLabel": "垃圾桶",
+    "UseTrashcan": "使用垃圾桶",
+    "Ency_Precursor_Cache_DataDownload2": "外星避难所贝塔",
+    "EncyDesc_Precursor_Cache_DataDownload2": "将此终端上的数据与存储的翻译进行比较，可以发现有关这个外星避难所的新信息。 
+前厅由一系列主要数据集线器组成，每个主要数据集线器装有离子晶体。 这些网络并行连接到主终端，可能是为了确保数据的长期完整性。 
+-  前所未有的数据复杂度 
+-
+ 存储的数据在本地终端扫描到系统中 
+-
+ 证据表明原始数据源本质上是有机的，这个前厅是建造它的外星人的终极避难所。 在灾难发生时，他们可以撤退到这里，并以某种方式将自己转移到数据中心进行保存。 目前尚不清楚外来物种的其他成员是否曾经返回过这里，或者有多少灵魂在枢纽上备份，但存储的数据太复杂，无法用可用的小量信息重新还原。",
+    "Ency_Precursor_Cache_DataDownload3": "外星生物历史",
+    "EncyDesc_Precursor_Cache_DataDownload3": "该终端包含大量映射了外星物种完整生物学历史的数据。 
+数据集非常复杂，但一些基本事实可以重构。
+1708个地球年前从细胞开始分裂
+因为特殊的训练目的进行孵化分离
+被分配至研究机构，作为最早的一批研究员，年龄96
+下载到损坏的数据，并因此储存三年以重构
+重新定位至外星系团，以支持疾病研究 
+重新定位至4546B号行星进行高优先疾病研究
+感染“卡拉尔”细菌
+存储在3号避难所，尸体已经过安全处理。",
+    "TabPing": "标识管理",
+    "Lifepod": "逃生舱",
+    "DeployConstructorInPrecursor": "必须在户外才能放置载具舱",
+    "OptionAltTool": "切换道具",
+    "BedSleepTimeOut": "你刚休息过，不能睡觉",
+    "PrecursorIonPowerCell": "离子动力单元",
+    "PrecursorIonBattery": "离子电池",
+    "Tooltip_PrecursorIonPowerCell": "离子动力电池。",
+    "Tooltip_PrecursorIonBattery": "离子电池。",
+    "BarPercentFormat": "{0:P0}",
+    "BarFractionFormat": "{0} \/ {1}",
+    "HandReticleProgressPercentFormat": "{0:P0}",
+    "TrashcanErrorNuclearWaste": "不能用于丢弃核废料",
+    "TrashcanErrorNotNuclearWaste": "只能用于丢弃核废料",
+    "DeconstructNonEmptyStorageContainerError": "存储器不是空的",
+    "DeconstructNonEmptyFiltrationMachineError": "海水过滤器满了",
+    "Ency_Precursor_LavaCastleBase_ThermalPlant2": "主要能量输送设施",
+    "EncyDesc_Precursor_LavaCastleBase_ThermalPlant2": "该系统似乎是某种能量分流设施，将能量分配给星球上的其它设施。
+分配如下：
+35％用于检疫执法平台50％用于主要收容所15％用于自我扭转检疫执行单位
+没有确切的终止方式。",
+    "Ency_Precursor_LavaCastleBase_ThermalPlant3": "化石数据",
+    "EncyDesc_Precursor_LavaCastleBase_ThermalPlant3": "用来建造这个外星设施的火山岩记录了以下重要信息。
+基因差异：
+外星数据记录了该星球10000-1000年前的所有生物数据，和现在这个星球遇到的所有生物类型重合度极低。
+灭绝事件：
+1000年前的土壤样本中有机物浓度比平均水平高出3倍，概述据支撑了4546B星球在1000年前发生了一起大规模的物种灭绝事件，并使得星球的物种发生了极端迅速的基因变异以适应环境。",
+    "Ency_Precursor_LavaCastleBase_DataDownload1": "离子晶体数据",
+    "EncyDesc_Precursor_LavaCastleBase_DataDownload1": "安装在外星热能发电厂上方的黄色终端似乎是整个外星电网的网络枢纽。这些数据过于复杂，因而无法进行有效的翻译，但却可以提取有关外星离子警惕的大量有用信息。这些离子成分的立方体是人为地从矿物中生长出来的，尽管包含了巨大的离子能量，但它们被控制在稳定的状态。通过在适当的装置中放入一个离子晶体，可以将离子间的势能释放为电能。利用这些外星科技知识，可以合成新的电池并得到动力电池蓝图，可以得到更便携持久的能源。",
+    "PrecursorThermalPlant": "外星喜热植物",
+    "Snack1": "薯片",
+    "Snack2": "零食",
+    "Snack3": "土豆条",
+    "Tooltip_Snack1": "各种口味的合成薯条，从制造错误中回收而得。",
+    "Tooltip_Snack2": "美味的零食。",
+    "Tooltip_Snack3": "合成马铃薯制成的零食。",
+    "EarlyAccessLabel.XB1": "游戏预览",
+    "RadioBloodKelp29": "工程师于：这里是2号逃生舱，已经发送我们的坐标！我们超出了安全深度，身体组织因为缺氧开始渗血。必须得游到海洋表面去补充氧气，但是这里已经离海面有500米。保持联系，祝我好运吧。完毕。",
+    "RadioKoosh26": "无线电：来自12号逃生舱的自动求救信号,坐标已发送。###1000
+警告：逃生舱已下沉超过最大安全深度。在没有较强力海底载具的情况下请不要尝试救援。###1000",
+    "PrecursorDroid": "外星机器人",
+    "Precursor_LavaCastle_Log1": "在这个地区形成的火山岩通过同位素检测，产生于800到3000地球年前。",
+    "Precursor_LavaCastle_Log2": "检测到外星物质和1000兆瓦范围内的大量局部能量。",
+    "Ency_PrecursorDroid": "外星人工智能",
+    "EncyDesc_PrecursorDroid": "这是个设计简单的外星机器人。
+目的：应该是用于巡逻外星设施或修复受损区域，没有很强的攻击性。
+设计：简约但优雅，机械腿能让其高速移动穿越各种地形，看上去还是可更换的，内部几乎没有运动部件，只提供所需能量。
+
+评估：带回阿尔特拉进行详细研究。",
+    "Coffee": "纯正美式咖啡",
+    "Tooltip_Coffee": "来自意大利的咖啡豆，不过被来自美利坚的水稀释了。",
+    "MouseWheelUp": "向上滑动鼠标滚轮",
+    "MouseWheelDown": "向下滑动鼠标滚轮",
+    "ControllerButtonA": "A键",
+    "ControllerButtonB": "B键",
+    "ControllerButtonX": "X键",
+    "ControllerButtonY": "Y键",
+    "ControllerButtonLeftBumper": "LB",
+    "ControllerButtonRightBumper": "RB",
+    "ControllerButtonBack": "后退",
+    "ControllerButtonBack.XB1": "查看",
+    "ControllerButtonHome": "开始",
+    "ControllerButtonHome.XB1": "菜单",
+    "ControllerButtonLeftStick": "左击",
+    "ControllerButtonRightStick": "右击",
+    "ControllerLeftTrigger": "LT",
+    "ControllerRightTrigger": "RT",
+    "ControllerRightStickRight": "右摇杆向右",
+    "ControllerRightStickLeft": "右摇杆向左",
+    "ControllerRightStickUp": "右摇杆向上",
+    "ControllerRightStickDown": "右摇杆向下",
+    "ControllerLeftStickRight": "左摇杆向右",
+    "ControllerLeftStickLeft": "左摇杆向左",
+    "ControllerLeftStickUp": "左摇杆向上",
+    "ControllerLeftStickDown": "左摇杆向下",
+    "ControllerDPadRight": "右方向",
+    "ControllerDPadLeft": "左方向",
+    "ControllerDPadUp": "上方向",
+    "ControllerDPadDown": "下方向",
+    "Test_Radio1": "测试无线电1",
+    "Test_Radio2": "测试无线电2",
+    "Test_Radio3": "测试无线电3",
+    "Test_Radio4": "测试无线电4",
+    "Goal_LocationGiantMushroomTree": "未知",
+    "CallElevator": "呼叫电梯",
+    "StartElevator": "启动电梯",
+    "Rocket_PreflightCheck1": "海王星号：生命支持系统启动。",
+    "Rocket_PreflightCheck2": "海王星号：增加液压动力。",
+    "Rocket_PreflightCheck3": "海王星号：启动辅助动力单元。",
+    "Rocket_PreflightCheck4": "海王星号：时光胶囊已就绪。",
+    "Rocket_PreflightCheck5": "海王星号：启动远距离即时通信系统。",
+    "Rocket_PreflightCheck6": "海王星号：核心计算机全面启动。",
+    "PreflightCheck_LifeSupport": "生命支持系统",
+    "PreflightCheck_Hydraulics": "液压系统",
+    "PreflightCheck_APU": "辅助动力单元",
+    "PreflightCheck_Telemetry": "遥测系统",
+    "PreflightCheck_CommunicationsArray": "通信矩阵",
+    "PreflightCheck_Computer": "主要计算机",
+    "Status": "状态",
+    "Ready": "已准备",
+    "NotReady": "未准备好",
+    "ThrowSwitch": "拉动开关",
+    "ActivateSystem": "激活系统",
+    "Launch_Rocket": "发射火箭",
+    "Rocket_NotReady": "火箭还未准备好",
+    "ConstructButton": "建造",
+    "ConstructingInfo": "建造中……",
+    "Signal_Lifepod2": "2号逃生舱（500米）-工程师于在弃船前报告，入水深度达500米。",
+    "Signal_Lifepod19": "19号逃生舱（300米）-金长官的最后广播位置。",
+    "Signal_AuroraRendezvous": "极光号汇合点（陆地）。",
+    "ExosuitStorageShrinkError": "在存储容器中释放足够的空间，以便能够删除此模块",
+    "Ency_Aurora_RingRoom_Terminal2": "极光号安全指南",
+    "EncyDesc_Aurora_RingRoom_Terminal2": "出错",
+    "Ency_InnerBiomeWreckLore6": "未知",
+    "EncyDesc_InnerBiomeWreckLore6": "未知",
+    "Ency_IslandsPDAPaal": "保罗托加尔的日志",
+    "EncyDesc_IslandsPDAPaal": "出错",
+    "ScannerScreenNotInfected": "正常",
+    "ScannerScreenInfected": "感染",
+    "SelfScan3b": "自扫描完成。你体内的细菌感染正在恶化。检测到皮肤异常和免疫系统反应。需要进一步的数据来鉴定菌株。",
+    "UnauthorizedAccessException": "未授权！深海迷航被另一个进程拒绝访问。",
+    "ScannerSelfScanFormat": "执行自扫描 ({0})",
+    "SubnauticaStore": "游戏商店",
+    "SubnauticaStoreSecondary": "T恤衫，海报，还有更多！",
+    "WaterQuality": "水面品质",
+    "Medium": "中",
+    "High": "高",
+    "Loading": "正在加载",
+    "Essentials": "必需品",
+    "Precursor_LostRiverBase_Log5": "这段区域的墙体经过了特别加固，这表明建筑的设计者曾经希望将某种生物关在里面或者抵御外面的什么生物。但不管意图是什么，显然他们并没能如愿。",
+    "Precursor_LostRiverBase_Log6": "线索表明设施中曾有大量的活体标本。生物学分析表明，这些标本在大约1000年前就已经死亡了。",
+    "Precursor_LostRiverBase_Log7": "残余的生物痕迹表明，有大量的本地生物曾经被集中带到这里进行调查研究。",
+    "Ency_Precursor_LostRiverBase_GiantFishSkeleton": "研究标本遗体",
+    "EncyDesc_Precursor_LostRiverBase_GiantFishSkeleton": "一个巨大的捕食者骨骼遗骸，发现于外星人研究设施。
+
+1.栖息地：
+建造用于容纳样本的环境设施表明它因研究目的被保存长达几个月，甚至几年。 有机物分析表明栖息地一度被植物覆盖，虽然早已腐烂。
+
+2.死因：
+死亡时间与设施的遗弃时间相吻合。 骨骼几乎没有物理损伤，表明死因为营养不良或外部环境。
+
+3.生物特征：
+虽然它在骨骼特征上与食人鱼有相似，但它的标本明显更大，并具有不寻常的前臂。 它没有匹配到目前为止所遇到的活着的物种，表明它在过去一千年里面临灭绝，或已经演化到无法识别的程度、",
+    "Ency_Precursor_LostRiverBase_SeaDragonSkeleton": "海龙利维坦遗骸",
+    "EncyDesc_Precursor_LostRiverBase_SeaDragonSkeleton": "未验证的利维坦生物的半完整骨骼结构。
+
+1.头部创伤：
+生物头部有明显的身体创伤。 损伤十分严重，表明在死亡之前不久在附近发生物理碰撞，可能是由与固体物体的高速碰撞造成的。
+
+2.年龄：
+骨骼目前保存完好，但钙衰减检测表明死亡时间在一千年以前。 骨生长程度表明该生物死亡时处于其产卵期。",
+    "PrecursorPrisonArtifact1": "不同寻常的盒子",
+    "PrecursorPrisonArtifact2": "全息投影通信设备",
+    "PrecursorPrisonArtifact3": "普通的外星电脑",
+    "PrecursorPrisonArtifact4": "精良的工艺品",
+    "PrecursorPrisonArtifact5": "诡异的雕塑",
+    "PrecursorPrisonArtifact6": "外星设备",
+    "PrecursorPrisonArtifact7": "外星来复枪",
+    "PrecursorPrisonArtifact8": "古代地球宝剑",
+    "PrecursorPrisonArtifact9": "展柜",
+    "PrecursorPrisonArtifact10": "外星雕像",
+    "Ency_Precursor_Cache_DataDownloadLostRiver": "生物生殖数据",
+    "EncyDesc_Precursor_Cache_DataDownloadLostRiver": "该终端包含有关当地动物繁殖方法的大量数据。
+
+-
+ 该星球上的动物群体随着单个性别的进化而生育，并且能够进行产卵和授精
+-
+ 生物的卵诞生后通常需要第二个生物体的遗传物质才能得以成熟
+-
+ 在极少数情况下，只有一个真正意义上的“双亲”，通过环境本身的影响引起的进化突变遗传生成后代
+
+研究专注于孵化条件和父母与子女之间的遗传变异。 这与外星人能够操纵本地其他物种的生命周期直到它们死去的猜想一致。",
+    "Ency_Precursor_Cache_LostRiverLabTable": "外星研究设备",
+    "EncyDesc_Precursor_Cache_LostRiverLabTable": "大型实验室表和配套的扫描仪利用了远远超出我们目前理解水平的技术。
+
+推断：
+- 设备维修
+- 员工维护
+- 样品分析
+- 标本基因操作",
+    "LoadingWorld": "正在生成世界",
+    "LoadingWorldTiles": "正在生成资源",
+    "LoadingEntityCells": "正在创造生物",
+    "PreloadingBase": "正在加载地基",
+    "PrecursorWarper": "裂空者",
+    "Ency_Precursor_LostRiverBase_WarperScan": "自我检疫执行单位",
+    "EncyDesc_Precursor_LostRiverBase_WarperScan": "这种生命形式显示出重度基因修正和多处机械移植的迹象。
+
+它的消化系统和肺系统已被高容量电池所取代，该电池直接从该设备接收能量并将其分布在身体周围。
+
+皮肤下面植入了小型化相技术，由中枢神经系统触发，能让该构造物随意传送。
+
+大脑和中枢神经系统已经数字化增强，具有先进的处理能力和远程通信能力。
+
+评估：机械猎人\/冷血杀手 
+- 避免接触",
+    "GenericEgg": "未知生物的卵",
+    "PrecursorFishSkeleton": "骨骼遗骸",
+    "PrecursorSeaDragonSkeleton": "利维坦骨骼遗骸",
+    "Ency_LostRiver_BonesfieldHugeSkeleton": "巨无霸骨架化石",
+    "EncyDesc_LostRiver_BonesfieldHugeSkeleton": "这是一个看起来已经灭绝的超级捕食者的骨架化石。它的巨大尺寸并不能让它自愿来到如此封闭的空间，这表明该星球的地质结构随着时间的推移发生了巨大的变化。
+-年龄大约三百万岁
+-肋骨结构测量表明该生物属于鱼类
+-计算表明这只是生物三分之一身体的标本
+-现在围绕着骨架化石周围形成了小型生态系统
+注意：胸腔有一系列精确的三角压痕，表明有第三方曾经从标本采集样本信息。",
+    "CaveSkeleton": "古生物骨架",
+    "EncyPath_Lifeforms\/Fauna\/Deceased": "尸体",
+    "Ency_Precursor_LostRiverBase_CaveSkeletonScan": "古生物化石骨架",
+    "EncyDesc_Precursor_LostRiverBase_CaveSkeletonScan": "这具骨架有上百万年历史，来自于一头食肉动物。 它应该比目前这个星球上任何生物都大出许多。
+
+海洋的供给无法给这头庞然大物提供充足的营养，甚至比任何利维坦生物都要大很多。",
+    "Ency_Precursor_LostRiverBase_ScanningCableScan": "外星传感设备",
+    "EncyDesc_Precursor_LostRiverBase_ScanningCableScan": "这个外星人传感器朝向古生物骨骼遗迹，表明这个前哨部分是为了研究生态系统的进化生物学而建立。
+
+评估：建议进一步调查研究。",
+    "PrecursorScanner": "外星传感器",
+    "PrecursorSensor": "外星传感器",
+    "PrecursorLabCacheContainer1": "外星骨骼标本样本",
+    "Ency_Precursor_Cache_LostRiverBonesScan": "外星骨骼标本样本",
+    "EncyDesc_Precursor_Cache_LostRiverBonesScan": "这些化石可能来自居住在今天这个星球上的利维坦生物们的古老祖先。骨头的相对大小和精致程度表明它们是生物体耳道的一部分，或者是类似耳朵的其他复杂内部结构。",
+    "PrecursorLabCacheContainer2": "外星植物标本样本",
+    "Ency_Precursor_Cache_LostRiverPlantCaseScan": "外星植物标本样本",
+    "EncyDesc_Precursor_Cache_LostRiverPlantCaseScan": "当地的一些植物标本被小心地保存在休眠状态。外星人显然曾经寻求对该星球生态系统的更深入的了解，这对于任何活体标本的研究都是必要的。",
+    "PrecursorLabTable": "外星研究设备",
+    "Ency_Precursor_LostRiverBase_LeviathanEggShellScan": "海龙蛋",
+    "EncyDesc_Precursor_LostRiverBase_LeviathanEggShellScan": "这个巨大的卵被保存在完全密封的特定环境中，应该不是正常生物体产卵至此。据推断应该是由外星先驱者保存起来用以研究利维坦类生物的特殊孵化机制，但是是否成功或得到什么有用的信息就不得而知了。",
+    "TimeFormatMinutes": "{0}分",
+    "TimeFormatHoursMinutes": "{0} 时, {1} 分",
+    "TimeFormatDaysHoursMinutes": "{0} 天, {1} 时, {2} 分",
+    "DeleteSaveWarning": "确定要删除这个存档吗，该行为无法撤销。",
+    "DeleteCancelButton": "留下",
+    "DeleteConfirmButton": "删除",
+    "Controller": "控制器",
+    "Tab": "Tab键",
+    "LeftBracket": "（",
+    "RightBracket": "）",
+    "LeftShift": "左SHIFT",
+    "RightShift": "右SHIFT",
+    "LeftControl": "左CONTROL",
+    "RightControl": "右CONTROL",
+    "SubmarineName": "潜艇名",
+    "SubmarineNameEditLabel": "点击修改",
+    "SubmarineColor": "潜艇颜色",
+    "SubmarineColorBase": "基本",
+    "SubmarineColorStripe1": "条纹1",
+    "SubmarineColorStripe2": "条纹2",
+    "SubmarineColorName": "名字",
+    "SubmarineColorInterior": "室内",
+    "SubmarineEditDone": "完成",
+    "SubmersibleName": "载具名称",
+    "SubmersibleColor": "载具颜色",
+    "SubmersibleEditInactive": "无载具停泊",
+    "SignalDistanceFormat": "{0}米",
+    "FeedbackEmailInstructions": "可选：输入您的电子邮件地址，以便开发团队就您的报告与您联系。 请注意，我们只会联系一小部分报告者，您很可能不会收到我们的回复。 但是，如果我们与您联系，您的帮助可以帮助我们修复最棘手的错误！",
+    "FeedbackPrivacyInfo": "您的电子邮件地址与公开的反馈数据将分开存储，除了深海迷航的开发人员，任何人都无法访问。如果选择“记录电子邮件”，您的电子邮件将以纯文本未加密的形式存储在安装文件夹中。",
+    "FeedbackPrivacyDismiss": "了解！",
+    "FeedbackGeneral": "整体",
+    "FeedbackGameplay": "游戏性",
+    "FeedbackBug": "漏洞",
+    "FeedbackFramerate": "帧数",
+    "FeedbackSubmit": "点击提交",
+    "FeedbackEnter": "进入反馈界面（可选）",
+    "FeedbackRememberEmail": "记住邮箱地址",
+    "FeedbackOpenPrivacyInfo": "个人隐私",
+    "FeedbackEnterEmail": "输入邮箱地址（可选）",
+    "FeedbackReplies": "反馈回复",
+    "FeedbackOpenTroubleshooting": "打开故障排除指南",
+    "Antialiasing": "抗锯齿",
+    "HeatArea": "热区",
+    "Wreck": "碎金属",
+    "Fragment": "碎片",
+    "Locked": "锁上了",
+    "CyclopsWelcomeAboardAttention": "独眼巨人号：欢迎回来，长官。部分系统运行异常。",
+    "CyclopsWelcomeAboardEmergency": "独眼巨人号：紧急情况，系统发生错误。",
+    "CyclopsFireExtinguished": "独眼巨人号：火情已控制，启动空气净化系统。",
+    "CyclopsShieldModule": "独眼巨人号护盾发生器",
+    "Tooltip_CyclopsShieldModule": "在舰体周围释放一道屏障，保证船身在一段时间内不受伤害。",
+    "CyclopsSonarModule": "独眼巨人号声呐升级",
+    "Tooltip_CyclopsSonarModule": "扫描船体外部地形，并生成3D地图。",
+    "CyclopsSeamothRepairModule": "独眼巨人号月池修理模块",
+    "Tooltip_CyclopsSeamothRepairModule": "用于修理停泊在独眼巨人号的载具。",
+    "TakeFireExtinguisher": "拿起灭火器",
+    "ReplaceFireExtinguisher": "替换灭火器",
+    "CyclopsHorn": "喇叭",
+    "CyclopsSpeed_SilentRunning": "速度：无声",
+    "CyclopsSpeed_Slow": "速度：缓慢",
+    "CyclopsSpeed_Standard": "速度：正常",
+    "CyclopsSpeed_Flank": "速度：极快",
+    "HullLow": "警告：船体耐久低！",
+    "HullCritical": "警告：船体耐久极低！",
+    "HullAbandon": "警告：船体即将完全损坏，请尽快弃船！",
+    "HullExternalDamage": "警告：检测到船体外表受损！",
+    "Cavitate": "警告：发生气蚀，噪声过大！",
+    "CreatureAttack": "警告：生物攻击！",
+    "FireDetected": "警告：检测到火情！",
+    "SilentRunning": "独眼巨人号：准备无声航行",
+    "AheadSlow": "独眼巨人号：慢速前进",
+    "AheadStandard": "独眼巨人号：匀速前进",
+    "AheadFlank": "独眼巨人号：全速前进",
+    "CrabsquidEgg": "蟹鱿的蛋",
+    "CutefishEgg": "抱抱鱼蛋",
+    "LavaLizardEgg": "岩浆蜥蜴的蛋",
+    "Tooltip_CrabsquidEgg": "可以孵化蟹鱿。",
+    "Tooltip_CutefishEgg": "可以孵化抱抱鱼。",
+    "EnterCyclops": "登上独眼巨人号",
+    "DeployDecoy": "放置诱饵",
+    "DisplayFormat": "显示{0}",
+    "LanguageBulgarian": "保加利亚文",
+    "LanguageChinese (Simplified)": "简体中文",
+    "LanguageCroatian": "克罗地亚文",
+    "LanguageCzech": "捷克文",
+    "LanguageDanish": "丹麦文",
+    "LanguageDutch": "荷兰文",
+    "LanguageEnglish": "英文",
+    "LanguageFinnish": "芬兰文",
+    "LanguageFrench": "法文",
+    "LanguageGerman": "德文",
+    "LanguageGreek": "希腊文",
+    "LanguageHungarian": "匈牙利文",
+    "LanguageItalian": "意大利文",
+    "LanguageJapanese": "日文",
+    "LanguageKorean": "韩文",
+    "LanguageLatvian": "拉托维亚文",
+    "LanguageLithuanian": "立陶宛文",
+    "LanguageNorwegian": "挪威文",
+    "LanguagePolish": "波兰文",
+    "LanguagePortuguese (Brazil)": "葡萄牙文（巴西）",
+    "LanguagePortuguese": "葡萄牙文",
+    "LanguageRomanian": "罗马尼亚文",
+    "LanguageRussian": "俄文",
+    "LanguageSerbian": "塞尔维亚文",
+    "LanguageSlovak": "斯洛伐克文",
+    "LanguageSpanish": "西班牙文",
+    "LanguageSwedish": "瑞典文",
+    "LanguageThai": "泰国文",
+    "LanguageTurkish": "土耳其文",
+    "LanguageUkrainian": "乌克兰文",
+    "UseDecoyTube": "打开诱饵匣",
+    "Tooltip_UseDecoyTube": "在这装入诱饵",
+    "DecoyTubeStorageLabel": "诱饵匣",
+    "CyclopsDecoy": "生物诱饵",
+    "Tooltip_CyclopsDecoy": "可以吸引外星生物。手动或通过载具部署皆可。部署后无法回收。",
+    "CyclopsDecoyModule": "独眼巨人号诱饵匣升级",
+    "Tooltip_CyclopsDecoyModule": "提升独眼巨人号诱饵匣的容量。",
+    "CyclopsFireSuppressionModule": "独眼巨人号消防系统",
+    "Tooltip_CyclopsFireSuppressionModule": "在独眼巨人号上搭载消防系统。",
+    "Ency_LavaBoomerang": "岩浆飞镖鱼",
+    "EncyDesc_LavaBoomerang": "这种生物为了适应高温进行了进化演变。
+1.颜色
+赤红的颜色和炎热的熔岩环境融为一体，作为天然的保护色。
+2.行为
+虽然比它的近亲飞镖鱼单子稍微大点，但是熔岩飞镖鱼看见体型比他大的生物还是会掉头就跑。
+
+评估：可食用",
+    "Ency_LavaEyeye": "岩浆小眼仔",
+    "EncyDesc_LavaEyeye": "是普通小眼仔为适应高温环境演化出的进化亚种。
+
+热敏迷彩外表：
+深红色和橙色的外表使这个亚种可以完美融入熔岩环境。
+
+目前这两个物种哪种先出现还不清楚。 但是无论怎样，这样一种行为缓慢且没有攻击性的生物在任何一种环境能生存，表明了它一定是在生态系统中扮演着不可或缺的角色。
+
+评估：可食用，热量低",
+    "Ency_BloodRoot": "血草",
+    "EncyDesc_BloodRoot": "这些根系结构通常发现于墙壁或地板天花板之间。
+1。纠缠的根系
+只要根系伸展到水域中，发达的根系就会一根根纠缠在一起，来保证生物体足够的强度。
+2。根系延伸
+每当根系在生长过程中碰到洞穴或其他石质结构，会穿透石层继续生长，但是生长速度会变慢。
+
+血根草和寒骨藻都会生产血油，所以它们应该是同一个门类的植物的不同变体。",
+    "CyclopsDecoyLaunch": "独眼巨人号：部署鱼饵",
+    "CyclopsFireSystemActivate": "独眼巨人号：消防系统激活",
+    "CyclopsCameras": "激活外部监控系统",
+    "CyclopsLaunchDecoy": "对危险生物发射诱饵作为反抗手段",
+    "CyclopsShield": "激活独眼巨人号护盾防御系统",
+    "CyclopsFireSuppressionSystem": "激活独眼巨人号消防系统",
+    "CompassDirectionN": "北",
+    "CompassDirectionNE": "东北",
+    "CompassDirectionE": "东",
+    "CompassDirectionSE": "东南",
+    "CompassDirectionS": "南",
+    "CompassDirectionSW": "西南",
+    "CompassDirectionW": "西",
+    "CompassDirectionNW": "西北",
+    "UseCyclopsFabricator": "使用独眼巨人号升级工作台",
+    "CyclopsNoPower": "独眼巨人号无电力",
+    "Tooltip_LavaLizardEgg": "可以孵化岩浆蜥蜴。",
+    "Tooltip_Databox": "打开数据箱。",
+    "GazeBasedCursor": "注视光标",
+    "CyclopsDamageLabel": "损坏的独眼巨人号",
+    "Ency_LifepodDecoy": "4号逃生舱船员日志",
+    "EncyDesc_LifepodDecoy": "致所有阿尔特拉船员。我在着陆后遇到了十分凶猛的利维坦种族生物，扫描显示物种名为死神利维坦，它对我的船体造成了巨大的伤害，甚至想将逃生舱整个吞下。我决定尽快前往极光号坠毁附近的安全区。\n我收集了制造生物诱饵的蓝图和足够的资源。但是游过去的路程太长，中途诱饵可能失效，但也足够缠住那家伙一段时间了。如果你在极光号的甲板上没看到我，那我应该已经不在了，自求多福吧。",
+    "Ency_RendezvousFloatingIsland": "集合点语音日志",
+    "EncyDesc_RendezvousFloatingIsland": "工程师于：我们得回去，不可能只有我们活着离开了。
+金长官：我们的船长没有给你下过那样的命令，我也没有。
+工程师于：这不是什么命令不命令，也不是逞英雄，这是为了活着。多一个人就多一点活下去的希望。
+金长官：作为临时指挥官，我的天职是服从命令和下达命令，给我起来。
+工程师于：对不起我不能服从。如果我陷入麻烦了，我会把我的坐标发给你。
+金长官：好吧，服了你了。我跟你一起去，但是我得先把PDA留在这，万一有人看到可以来找我们。
+
+[收到舰船大副金长官失联后2小时的紧急信息传输]
+金：这些是我最后的命令了。我承认，在岛上汇合是个失败的提议。但是我们收到阿尔特拉总部的消息，他们好像将离开星球所需的技术支持发到了极光号，具体细节无法得知。如果你能听到，那将是你最后的希望了。工程师于和我已经无法生还。金，汇报完毕。",
+    "CyclopsRemovePowerCell": "取下动力电池",
+    "GenericDeployNoPower": "低电力，无法发射。",
+    "MinSpecOpenSupoprtForums": "打开疑问解决",
+    "Mouse": "鼠标",
+    "ControllerRightStick": "右摇杆",
+    "ControllerLeftStick": "左摇杆",
+    "HintLook": "用 {0} 来观察四周",
+    "HintMove": "用 {0} 来移动",
+    "HintPickupFireExtinguisher": "用 {0} 来捡起灭火器",
+    "HintUseFireExtinguisher": "用 {0} 来使用灭火器",
+    "HintOpenClosePDA": "按 {0}  打开或关闭PDA电脑",
+    "SwimToSurface": "赶快游上水面！",
+    "FeedbackInstructionsGamepad": "使用反馈菜单来报告游戏BUG并提供意见。",
+    "FeedbackNewReplyGamepad": "你收到了新的开发者反馈，打开反馈菜单以查看。",
+    "ControllerLayout": "键位",
+    "ControllerLayoutAutomatic": "默认",
+    "ControllerLayoutXbox360": "XBOX 360",
+    "ControllerLayoutXboxOne": "Xbox One",
+    "ControllerLayoutPS4": "PS4",
+    "ControllerButtonPs4Cross": "十字",
+    "ControllerButtonPs4Circle": "圆圈",
+    "ControllerButtonPs4Triangle": "三角",
+    "ControllerButtonPs4Square": "方块",
+    "ControllerButtonPs4Share": "Share键",
+    "ControllerButtonPs4Options": "Options键",
+    "ControllerPs4L1": "L1键",
+    "ControllerPs4L2": "L2 键",
+    "ControllerPs4R1": "R1键",
+    "ControllerPs4R2": "R2键",
+    "SkipIntro": "按住{0}跳过",
+    "TakeItem_SupplyCrate": "拿取",
+    "RadioCaptainsQuartersCode": "这是阿尔特拉总部。这可能是我们之间唯一的通讯窗口了。###
+-1000
+我们派遣的营救飞船无法抵达星球内部，所以极光号的幸存者，你们需要先离开星球，在太空与我们的救援队汇合。 ### -2000
+我们已经把一些必要的蓝图科技上传到极光号的电脑上了。### -2000
+*其他声音*我们正在做三明治，你也要吃吗？### -2000
+嗯，好，等我一会。###-1000
+黑盒子数据显示，船长宿舍的高安全终端应该还可以工作。###-3000
+*其他声音*贝基只能等你5分钟。###-1500
+好吧，告诉贝基，我就要和每次一样的口味。###-1500
+*其他声音*一样的？
+是，一样的，她会明白我的意思的。###-500
+*其他声音*如果她不明白呢？###-500
+你就跟她说一样的就行，可以吗？###-500
+*其他声音*万一我说和以前一样，她不知道，我还得跑回来问你。##-3000
+代码应该是2679。### -1000
+和以前一样就是加火腿和奶酪。###-1000
+*Offmic*
+那你直接说火腿和奶酪不就好了吗？###-1000
+火腿和奶酪！行了吧！
+*
+Offmic *好的，凶什么。",
+    "Ency_LavaZone_ReaperSkeleton": "死神利维坦骨架",
+    "EncyDesc_LavaZone_ReaperSkeleton": "这具骨架的生物特征与死神利维坦的特征基本吻合。
+
+-
+该生态系统区域内没有发现任何其他死神利维坦个体
+- 烧伤和咬合痕迹和海龙利维坦的攻击手段吻合
+-
+可能是海龙利维坦在该生态食物资源耗尽后，不得已前往浅海区猎杀同种族的危险生物作为食物。",
+    "Ency_Decoy": "生物诱饵",
+    "EncyDesc_Decoy": "诱饵通过模仿小型生物的习性达到捕捉较大捕食者的目的，通常用于自卫或活捉样本用于科研。
+
+-高频率振动并影响空气和海水，以模仿一个活着的生物
+-可以手动放置，也可以用独眼巨人号发射
+-由于设计原因，电池容量较小，所以效果不会太持久
+-可以吸引各种掠食者",
+    "Ency_PrecursorPrisonArtifact1": "有机物湮灭机",
+    "EncyDesc_PrecursorPrisonArtifact1": "这种装置含有高度不稳定的放射性同位素，可能会破坏所有作用到的有机物，同时保持物理结构完好。虽然这听上去很适合作为防身的武器，但它更有可能曾被用来为为房屋消毒。没有使用说明的话还是不要碰它为好。",
+    "Ency_PrecursorPrisonArtifact2": "全息投影设备",
+    "EncyDesc_PrecursorPrisonArtifact2": "这个设备看上去很明显是个利用全息投影进行远程通信的装置，可以将使用者的影响投影到远处的其他地方，进行远程通信。但是附近没有找到可以和它配套的设备。",
+    "Ency_PrecursorPrisonArtifact3": "基本外星终端",
+    "EncyDesc_PrecursorPrisonArtifact3": "这个设备和很多用于访问外星研究所的设备很像，应该是某种基本款的外星科技终端，其中可能储备着一些数据，也可能有更特别的功能，不得而知。",
+    "Ency_PrecursorPrisonArtifact4": "跟踪植入器",
+    "EncyDesc_PrecursorPrisonArtifact4": "这种结构发出的高频信号与在其他地方截获的外星信号相一致。外部DNA扫描表明，它曾经被植入到4546B星球的一种特别生命形式中，其大小表明这是一种利维坦族生物。除了追踪和传播其位置之外，植入装置还可能还记录了大量该生物的数据，但这些数据目前无法获得。",
+    "Ency_PrecursorPrisonArtifact5": "外星雕像",
+    "EncyDesc_PrecursorPrisonArtifact5": "这个雕刻品已经有上千上百年的历史了，并且由一种无法识别的特殊自然纤维制成，看上去这种纤维的生物来源于目前未发现的星球文明。",
+    "Ency_PrecursorPrisonArtifact6": "末日发生器",
+    "EncyDesc_PrecursorPrisonArtifact6": "尽管设计程序极其简单，但这个装置有着足够强大的能力可以摧毁整个星球，甚至大半个星系。幸运的是，这个装置现在似乎不起作用了。",
+    "Ency_PrecursorPrisonArtifact7": "外星来复枪",
+    "EncyDesc_PrecursorPrisonArtifact7": "这种外星来复枪的制作工艺和人类星球的手段很相似，不能确定这些外星来客是否和地球有渊源。不管怎么说，配备了武器说明这个研究设施中有需要保护看守的重要事物，这是它能提供的唯一线索了。此外，看起来并没有什么好办法能取出这把武器。",
+    "Ency_PrecursorPrisonArtifact8": "古代地球宝剑",
+    "EncyDesc_PrecursorPrisonArtifact8": "这把地球工艺的烧制剑可以追溯至13世纪，剑刃上血液的DNA匹配当时很多国家的重要元首。由此可见，这一外星文明十分先进，并热衷于对较为落后的文明的文化加以研究。",
+    "Ency_PrecursorPrisonArtifact9": "展柜",
+    "EncyDesc_PrecursorPrisonArtifact9": "这个箱子由坚固的半透明金属制成，扫描后无法获得任何数据，可以屏蔽扫描仪所有波段的信号。",
+    "Ency_PrecursorPrisonArtifact10": "外星雕塑",
+    "EncyDesc_PrecursorPrisonArtifact10": "这个芯片内并没有能量，说明它的作用是仪式性的，而不是功能性的。金字塔像是有生命般在生长着，顶部的石头发出暖暖的蓝色光芒。可能代表着外星先驱者母星球的某种植物或是直接指示了先驱者母星系的位置。",
+    "DoubleTank": "大容量氧气瓶",
+    "SeaEmperorLeviathan": "海皇利维坦",
+    "Tooltip_DoubleTank": "含氧气。高压缩可呼吸空气。",
+    "Goal_BiomeJellyCave2": "恭喜，幸存者：你已经超过了你额定每周运动量的5倍。 数据表明您最喜爱的运动方式是游泳。 建议尝试多种锻炼方式结合以均衡各部位肌肉发育。",
+    "SelfVaccinated": "已完成感染清除，现在已经可以关闭物理防御系统。",
+    "PrecursorSurfacePipe": "外星管道系统",
+    "Ency_PrecursorSurfacePipe": "外星管道系统",
+    "EncyDesc_PrecursorSurfacePipe": "外星管道设施的入口，终点由于深度过深，超出扫描范围，无法得知。
+
+-
+该管道设施从浅海抽水，输送往未知的地方
+- 发现很多大眼仔在进食后随着水流进入管道系统
+-
+其他小型鱼类似乎在有意避开管道系统
+- 设施的建造目的未知
+
+评估：需要进一步调查",
+    "PrecursorPrisonArtifact11": "外星技术设备",
+    "Ency_PrecursorPrisonArtifact11": "普适性翻译设备",
+    "EncyDesc_PrecursorPrisonArtifact11": "该设备存储了来自1000多种不同语言的大量数据。该设备的运算核心用于使用者阅读和翻译其他星球语言文本。对内置数据的分析表明其囊括了一些古老的地球语言，同时“吃喝不愁live”这个名字出现频率很高，原因并不清楚。这个设备的设计目的是完全为使用者服务，似乎不能逆向翻译。",
+    "PrecursorPrisonArtifact12": "外星建筑单元",
+    "Ency_PrecursorPrisonArtifact12": "外星建筑单元",
+    "EncyDesc_PrecursorPrisonArtifact12": "这种石头一样的材料内部有生物机械部件，因为和外星人用来建在建筑物的材料相同，所以可以匹配在4546B星球碰到的大部分外星建筑物。甚至让人不禁怀疑，是否外星人自身的制造材料也是这些基本单元。",
+    "Ency_Precursor_Prison_DataDownload1": "海皇计划数据",
+    "EncyDesc_Precursor_Prison_DataDownload1": "该装置记录了研究设施最原始的数据。
+根据日志内容，一个巨大的海皇利维坦个体被关押在研究设施内，包括一些卵。这种生物不禁免疫病毒，而且可以分泌一种名为42号酶的物质，可以抑制甚至治愈病毒。
+
+此前的外星先驱者曾努力为其创造理想的生存环境，包括建立传送门将其故乡的植物和动物接过来，但是这一生物体的健康状况在被关押后就开始持续恶化。
+
+病毒爆发和检疫系统执行时，所有研制疫苗的尝试皆宣告失败。",
+    "Ency_Precursor_Prison_DataDownload2": "海皇孵化计划数据",
+    "EncyDesc_Precursor_Prison_DataDownload2": "这一设备记录了所有重要时间节点，研究情况的相关数据，最后的数据停在了设施被检疫隔离的那天。
+
+物种信息：
+-这里关有一只海皇利维坦样本和一些它的卵
+-海皇利维坦母体健康状况持续恶化
+-它的卵保存状态完好，但是无法孵化
+
+研究进程：
+-数据表明这一设施的建立就是为了孵化海皇的卵
+-已有的孵化系统表明外星人先驱曾经致力于创造孵化海皇卵的理想条件，但是没有成功
+-在检疫隔离后，所有进出研究设施的常规入口都已经被封闭了
+
+分析：尽管未孵化的海皇幼体是治愈星球病毒的最后希望，但是由于长久以来食物的匮乏和生存环境的恶劣，海皇及其未出生的孩子仍然存活的几率极低。",
+    "Ency_Precursor_Prison_DataDownload3": "离心交换机",
+    "EncyDesc_Precursor_Prison_DataDownload3": "这一机器的运转在交换管道系统两边的海水。
+
+流出：
+从这里流出的水都是无氧,且贫瘠的海水。
+流入：
+流入的液体应该是来自于浅海,富含氧气和养分。",
+    "PrecursorPipeRoomIncomingPipe": "流入管道",
+    "Ency_PrecursorPipeRoomIncomingPipe": "大眼仔进入外星设施",
+    "EncyDesc_PrecursorPipeRoomIncomingPipe": "这些管道是大眼仔用以进入外星研究设施的入口。
+-大眼仔们应该是出于某种目的主动进入外星研究设施
+-它们在进入之前都已经保湿一顿，填饱了肚子
+-这些样本呈现或多或少的细菌感染痕迹",
+    "PrecursorPipeRoomOutgoingPipe": "流出管道",
+    "Ency_PrecursorPipeRoomOutgoingPipe": "携带酶的大眼仔离开外星设施",
+    "EncyDesc_PrecursorPipeRoomOutgoingPipe": "流出的管道里有大量的大眼仔。
+-标本无病毒感染状态
+-所有生物体都携带可以抑制病毒的42号酶
+-生物体的胃腔都是空的
+
+评估：大眼仔的眼睛可能有向周围水质传播酶的功能，这也解释了为何4546B星球的一部分生物在“卡拉”爆发后的以存活。",
+    "PrecursorPrisonLabEmperorFetus": "已解剖样本",
+    "Ency_PrecursorPrisonLabEmperorFetus": "海皇胎儿",
+    "EncyDesc_PrecursorPrisonLabEmperorFetus": "- 表面的创伤表明胎儿可能是在未成熟时被强行取出。
+- 不知由于何种原因,胎儿在被取出后就终止了解剖,被低温保存了
+
+细菌抗性：
+- 该生物在成年后可能可以对细菌完全免疫
+- 未完成发育,目前无法生成活性酶
+
+分析：
+- 健康的婴儿可能可以生成足够的活性酶
+- 外星先驱者应该没有发现孵化海皇幼体的理想条件,否则也不会将其强行取出
+
+建议：
+尚无",
+    "PrecursorPrisonLabEmperorEgg": "完好的样本",
+    "Ency_PrecursorPrisonLabEmperorEgg": "完好的样本",
+    "EncyDesc_PrecursorPrisonLabEmperorEgg": "外壳：
+蛋的外壳由加厚的碳合成材料构成，表明了该生物母体漫长的妊娠期。该生物可能一生只能怀孕一次。
+切口痕迹：
+曾经有人为使用激光切割工具尝试打开生物的蛋，以期完成孵化。
+分析：
+外星疫苗研制可能在迫于时间压力的情况下强行打开蛋的外壳。
+这些卵可能是诞生后被转移至此，失去了原先理想的孵化环境条件。",
+    "Precursor_Prison_MoonPool_Log1": "正在翻译外星语言广播……警告：卡拉病毒疫苗研制计划失败，海皇幼卵孵化项目终止。请杀死所有存货标本，立即撤离研究基地。",
+    "PrecursorPrisonAquariumPipe": "设施管道接入点",
+    "Ency_PrecursorPrisonAquariumPipe": "设施管道接入点",
+    "EncyDesc_PrecursorPrisonAquariumPipe": "这似乎是从海洋表面运输海水至海皇监狱的管道系统末端之一。
+-大眼仔经常使用这一管道系统往返于监狱和表面
+-这一行为应该是极端条件下的某种求生手段，需要进一步研究。",
+    "PrecursorPrisonAquariumFinalTeleporter": "海皇监狱传送门",
+    "Ency_PrecursorPrisonAquariumFinalTeleporter": "海皇监狱传送门",
+    "EncyDesc_PrecursorPrisonAquariumFinalTeleporter": "扫描表明，这个传送门已经被弃用很久。该传送门的终点可能是星球表面，但是容积太小，无法容纳海皇利维坦成年体，但可能足够其少年体通行。",
+    "Ency_SeaEmperorLeviathan": "海皇利维坦",
+    "EncyDesc_SeaEmperorLeviathan": "休眠",
+    "PrecursorPrisonAquariumIncubatorEggs": "海皇利维坦的蛋",
+    "Ency_PrecursorPrisonAquariumIncubatorEggs": "海皇利维坦的蛋",
+    "EncyDesc_PrecursorPrisonAquariumIncubatorEggs": "1.外壳
+坚硬的外壳保护着里面的卵，在漫长的岁月里保存完好。
+2.输送管
+应该是用于为里面的卵提供养料。
+3.羊膜
+和地球上的卵中营养耗尽自动完成孵化的生物卵不同，这些卵一直在吸收养分，静静等待需要的孵化条件。
+4.胎儿
+长相与海皇利维坦很相似。它们看上去很稳定健康。
+
+看上去胎儿孵化的理想条件和母体的生存条件并不一样。需要严格的条件来孵化这些卵。",
+    "PrecursorPrisonAquariumIncubator": "孵化器",
+    "Ency_PrecursorPrisonAquariumIncubator": "孵化器",
+    "EncyDesc_PrecursorPrisonAquariumIncubator": "海皇的卵附着在这种类似孵化作用的装置中，海皇似乎习惯于将卵产在浅水中，那里特殊的土壤和水质环境可以引发其孵化反应。观察表明，外星人曾尝试模拟真实的浅水环境尝试孵化海皇的蛋，但没能成功。",
+    "Ency_SeaEmperorEggHatchingEnzymes": "陈旧的孵化酶",
+    "EncyDesc_SeaEmperorEggHatchingEnzymes": "休眠",
+    "Ency_SeaEmperorLifeCycle": "海皇生命周期",
+    "EncyDesc_SeaEmperorLifeCycle": "已调用所有可用信息对海皇利维坦关于卡拉病毒的关系进行分析。
+这种生物从前可能生活在星球的海底峡谷中，需要进食时就来到靠近海面的浅滩，以浅海的大量微生物为食。由于食物来源种类的单一，数量有限，所以海皇利维坦很难形成成规模的族群。海皇的后代会自行前往其他海域，进行族群的繁殖。
+由于族群规模很小，所以海皇利维坦的产卵和孵化行为很可能只有一生一次，并且孵化的条件十分严格。由于条件过于严格，并且缺乏相关信息和资料，所以无法根据生物体计算出其孵化所需条件。
+没有证据表明所有海皇利维坦都可以免疫病毒，就算这一假设成立，病毒的爆发也对该星球的食物链造成了毁灭性的打击，导致海皇利维坦存活的比例极低。
+但是由于海皇利维坦对病毒的治愈能力，所以有能力帮助海皇利维坦存活的生物与其形成了共生关系，从侧面表明星球上存在大量健康生物的地方，中心一定有海皇利维坦的个体存活。",
+    "Ency_SeaEmperorBaby": "海皇成熟体",
+    "EncyDesc_SeaEmperorBaby": "海皇利维坦的少年体，这个物种在刚孵化后就有了独立的行为能力，可能表明生物的强大的独立性，一旦离开父母，就需要自力更生。
+这个生物样本目前很健康，生命力旺盛，并且可以分泌高活性酶，可以治愈卡拉细菌感染。",
+    "Precursor_Prison_Aquarium_EmperorLog1": "###1500你是来……陪我玩的吗###500
+曾经有些其他人过来，他们建造了这些墙，把我关在这里###1500
+他们一直埋头做些事，也不理会我###2500
+后来他们走了，再现在，陌生人，你又来到了这里###2500
+我们很好奇，在感染了这种病毒之后，你会选择坐以待毙，还是像他们一样反抗。###2500",
+    "Precursor_Prison_Aquarium_EmperorLog2": "###5000我的孩子们想破壳而出###1500
+想看看外面的世界###1500
+我们被关在这里太久了，太久了###1500
+其他的人建造了一座穿梭到外面世界的传送门###1500
+我向他们渴求自由，他们并不理会我 ###1500
+如果你帮我，我会给你他们费尽心思都没得到的东西###1500",
+    "Precursor_Prison_Aquarium_EmperorLog3": "###4500我的后代可以通过你打开的通道前往浅水区###1500
+但只能等到合适的时机，他们才能破壳而出###1500
+这就是那些外星人尝试而不可得的###1000
+现在，我已经把这个秘密告诉你了 ###1000",
+    "Precursor_Prison_Aquarium_EmperorLog4": "###1000我的孩子们正在游往安全区###1000
+十分感谢你###1000
+他们的自由就是我生命的终结###1000
+死亡是什么样子呢？ 我常常在想，是不是堕入虚无，从此什么感觉都没有？###1500
+或许下一次再见，我已经化作组成这个重生星球的灰尘，土壤，或是海水###1500
+甚至化作浮游生物身体的一部分，连砂砾上的花纹都可以看得清楚###1500
+再见了，我的朋友，认识你很高兴。###1500",
+    "Precursor_Prison_Aquarium_EnvironmentLog1": "与其他外星研究设施不同，这里的生物十分多样化，像是一个小型生态系统,，原因未知。",
+    "Precursor_Prison_Aquarium_EnvironmentLog2": "生物的疾病症状正在被利维坦分泌的酶缓解，但是扫描显示，酶的活性并不足以作为永久治愈疾病的疫苗。",
+    "Ency_SeaEmperorLeviathanEnzymeCloud": "细菌疫苗",
+    "EncyDesc_SeaEmperorLeviathanEnzymeCloud": "海皇酶生成器官初步分析完成，该酶可以永久清除生命体中携带的外星细菌。但是由于海皇监狱中的仅存海皇个体年龄过老，无法分泌有效剂量的活性酶，但是它的少年体应该能满足分泌足量活性酶的条件。",
+    "Precursor_Prison_Aquarium_EnvironmentLog3": "检测到附近肉食动物捕食行为消极，原因不明。",
+    "Precursor_Prison_Aquarium_EnvironmentLog4": "环境扫描表明，该地区的水中浮游生物分布密集，应该和水中有机物含量较高有关。",
+    "Precursor_Prison_Aquarium_EnvironmentLog5": "这一地区的植物生长在正常的生物群落环境之外的地方。其他生命形式的存在使植物受精和被修剪。这可能抵消了这种环境的缺陷。",
+    "LanguageHebrew": "希伯来语",
+    "PowerRatingNowFormat": "目前引擎效率 {0:P0}",
+    "ToyCar": "玩具车",
+    "Tooltip_ToyCar": "玩具车。",
+    "Emperor_Telepathic_Contact1": "###8000你……究竟是……什么？###2000",
+    "Emperor_Telepathic_Contact2": "###2000来吧，来我这里###4000",
+    "Emperor_Telepathic_Contact3": "###7000我知道你一直在找我。我可以帮助你。###5000",
+    "Insert_Hatching_Enzymes": "注入孵化酶",
+    "CyclopsEnginePowerUp": "独眼巨人号：引擎启动",
+    "CyclopsEnginePowerDown": "独眼巨人号：引擎关闭",
+    "RigForSilentRunning": "配备无声航行",
+    "CyclopsSonar_Activate": "激活声呐",
+    "CyclopsSonar_Deactivate": "关闭声呐",
+    "CyclopsEngineOff": "关闭引擎",
+    "CyclopsEngineOn": "启动引擎",
+    "EngineOverheat": "警告，引擎过热。",
+    "EngineOverheatCritical": "警告，引擎温度达临界值。",
+    "PrecursorPrisonArtifact13": "空箱子",
+    "Ency_PrecursorPrisonArtifact13": "纳米机器人",
+    "EncyDesc_PrecursorPrisonArtifact13": "扫描显示，在这个看似空空如也的盒子里，有很多先进的外星科技纳米机器人。这些机器人比星联开发的所有人工智能设备都要小得多，而且无法确定它们的确切功能。所以，释放它们可能会引起严重的后果。",
+    "TechCategoryBasePiece": "基础船体",
+    "TechCategoryBaseRoom": "基础房间",
+    "TechCategoryBaseWall": "基础墙壁",
+    "TechCategoryExteriorModule": "未收集模组",
+    "TechCategoryExteriorLight": "未收集",
+    "TechCategoryExteriorOther": "未收集",
+    "TechCategoryInteriorPiece": "室内组件",
+    "TechCategoryInteriorRoom": "已有房间",
+    "TechCategoryInteriorModule": "已有模组",
+    "TechCategoryMisc": "杂项",
+    "TechCategoryMiscHullplates": "船体钢板",
+    "TechCategoryCyclops": "独眼巨人号",
+    "BlueprintsLabel": "蓝图",
+    "PingManagerLabel": "标识管理",
+    "GalleryLabel": "相册",
+    "LogLabel": "日志",
+    "EncyclopediaLabel": "数据库",
+    "RabbitrayEggUndiscovered": "未知生物的蛋",
+    "JellyrayEggUndiscovered": "未知生物的蛋",
+    "StalkerEggUndiscovered": "未知生物的蛋",
+    "ReefbackEggUndiscovered": "未知生物的蛋",
+    "JumperEggUndiscovered": "未知生物的蛋",
+    "BonesharkEggUndiscovered": "未知生物的蛋",
+    "GasopodEggUndiscovered": "未知生物的蛋",
+    "MesmerEggUndiscovered": "未知生物的蛋",
+    "SandsharkEggUndiscovered": "未知生物的蛋",
+    "ShockerEggUndiscovered": "未知生物的蛋",
+    "CrashEggUndiscovered": "未知生物的蛋",
+    "CrabsquidEggUndiscovered": "未知生物的蛋",
+    "CutefishEggUndiscovered": "未知生物的蛋",
+    "LavaLizardEggUndiscovered": "未知生物的蛋",
+    "CrabsnakeEggUndiscovered": "未知生物的蛋",
+    "SpadefishEggUndiscovered": "未知生物的蛋",
+    "Tooltip_RabbitrayEggUndiscovered": "未知生物的蛋",
+    "Tooltip_JellyrayEggUndiscovered": "未知生物的蛋",
+    "Tooltip_StalkerEggUndiscovered": "未知生物的蛋",
+    "Tooltip_ReefbackEggUndiscovered": "未知生物的蛋",
+    "Tooltip_JumperEggUndiscovered": "未知生物的蛋",
+    "Tooltip_BonesharkEggUndiscovered": "未知生物的蛋",
+    "Tooltip_GasopodEggUndiscovered": "未知生物的蛋",
+    "Tooltip_MesmerEggUndiscovered": "未知生物的蛋",
+    "Tooltip_SandsharkEggUndiscovered": "未知生物的蛋",
+    "Tooltip_ShockerEggUndiscovered": "未知生物的蛋",
+    "Tooltip_CrashEggUndiscovered": "未知生物的蛋",
+    "Tooltip_CrabsquidEggUndiscovered": "未知生物的蛋",
+    "Tooltip_CutefishEggUndiscovered": "未知生物的蛋",
+    "Tooltip_LavaLizardEggUndiscovered": "未知生物的蛋",
+    "Tooltip_CrabsnakeEggUndiscovered": "未知生物的蛋",
+    "Tooltip_SpadefishEggUndiscovered": "未知生物的蛋",
+    "CyclopsThermalReactorModule": "独眼巨人号热反应堆模块",
+    "Tooltip_CyclopsThermalReactorModule": "将环境热能转化为更强的航行动力，用于独眼巨人号。",
+    "Ency_PrecursorKey_Blue": "蓝色先驱者芯片",
+    "EncyDesc_PrecursorKey_Blue": "表面寒冷且光滑，中心有像大写的“H”一样的外星符文，可能是外星人用于打开加密的个人电脑用的密钥。不管怎么说，其制造科技是人类如今远远无法企及的。",
+    "SaveAndQuitToDesktop": "保存并退出至桌面",
+    "SaveAndQuitToMainMenu": "保存并退出至主菜单",
+    "Ency_PrecursorKey_Orange": "橙色先驱者芯片",
+    "EncyDesc_PrecursorKey_Orange": "带有一个橘黄色的“N”字形符号，可能用作特殊的外星装置交互用途。",
+    "CheckWorldFailure": "读取世界数据失败",
+    "WorldAlreadyMounted": "世界数据已变更",
+    "BatchLoadExceptionFormat": "加载失败{0}",
+    "TechCategoryBasicMaterials": "基础材料",
+    "TechCategoryAdvancedMaterials": "高级材料",
+    "TechCategoryElectronics": "电子元件",
+    "TechCategoryWater": "水",
+    "TechCategoryCookedFood": "烹制食物",
+    "TechCategoryCuredFood": "腌制食物",
+    "TechCategoryEquipment": "装备",
+    "TechCategoryTools": "基础工具",
+    "TechCategoryMachines": "机械设备",
+    "TechCategoryConstructor": "载具舱",
+    "TechCategoryWorkbench": "高级工作台",
+    "TechCategoryVehicleUpgrades": "载具升级",
+    "TechCategoryMapRoomUpgrades": "扫描室升级",
+    "TechCategoryCyclopsUpgrades": "独眼巨人号升级",
+    "CyclopsEngineOffWarning": "引擎已关闭",
+    "LoadingEquipment": "加载角色装备",
+    "LoadFailedSpace": "硬盘空间不足，存档加载失败，是否重试？",
+    "LoadOptionsFailed": "用户选项加载时出现错误，是否重试？",
+    "PleaseWait": "请稍等",
+    "UseEnzymeCureBall": "尝试触摸治愈酶",
+    "PDABootLoadingPercent": "<b>正在加载<\/b>
+[ {0:P0} ]",
+    "LaserCutterFragment": "激光切割器碎片",
+    "GravSphereFragment": "重力捕鱼器碎片",
+    "BeaconFragment": "信标碎片",
+    "FishStartFollow": "令其跟随 ({0})",
+    "FishStopFollow": "停止跟随 ({0})",
+    "Ency_GhostLeviathan": "幽灵利维坦",
+    "EncyDesc_GhostLeviathan": "由于体型巨大，且长相和死神利维坦接近，这种生物也被归入利维坦类。搞生物的成年体只会在火山口附近碰到，火山口的边缘支撑起了这个小型海洋世界，而边缘之外则是危险的空间。
+锤形头部：可以进行自我保护并进行猛烈的头部攻击。
+异星大白鲨：虽然有十分强大的捕食能力，但数据表明，成熟的幽灵利维坦并不以星球上的其他大型生物为食。但是他们对领地的保护意识极强，会攻击一切试图踏足无人区的生物。
+强壮的躯干：发达的肌肉组织被半透明的薄膜包裹，表明其习惯于生活在低光照环境。
+生命周期：未知，疑似出生于火山口边缘。
+
+评估：极端危险，避免接触",
+    "Ency_GhostLeviathanJuvenile": "幽灵利维坦少年体",
+    "EncyDesc_GhostLeviathanJuvenile": "这种大型掠食者习惯于生活在深海区域和黑暗的洞穴系统中，攻击性极强，且攻击行为会让其变得更加强大。
+躯干：柔软细长的身体及外膜让它在复杂的洞穴系统中来去自如。
+猎物：以大部分草食类动物为食，处于食物链顶端。
+特殊行为：生长速度非常快，当其成长为成年体幽灵利维坦，可能前往更加开阔的水域。
+
+评估：危险，避免接触",
+    "GhostLeviathan": "幽灵利维坦",
+    "GhostLeviathanJuvenile": "幽灵利维坦少年体",
+    "SwapItems": "切换",
+    "DecoyLauncher": "诱饵发射器",
+    "CyclopsUpgradesLabel": "升级",
+    "CyclopsUpgradesHealthLabel": "耐久",
+    "CyclopsUpgradesEnergyLabel": "能量",
+    "Sign_Cyclops_Lower_Deck_01": "下层 01",
+    "Sign_Cyclops_Lower_Deck_02": "下层 02",
+    "Sign_Cyclops_Diving_Chamber": "潜水室",
+    "Sign_Cyclops_Launch_Bay": "发射舱",
+    "NewSignalNotification": "信号位置已上传至PDA",
+    "DrillableAluminumOxide": "氧化铝晶体矿",
+    "DrillableCopper": "铜矿",
+    "DrillableDiamond": "钻石矿",
+    "DrillableGold": "金矿",
+    "DrillableKyanite": "蓝晶石矿",
+    "DrillableLead": "铅矿",
+    "DrillableLithium": "锂矿",
+    "DrillableMagnetite": "磁铁矿",
+    "DrillableNickel": "镍矿石",
+    "DrillableQuartz": "石英",
+    "DrillableSalt": "盐块",
+    "DrillableSilver": "银矿石",
+    "DrillableSulphur": "结晶硫",
+    "DrillableTitanium": "钛矿",
+    "DrillableUranium": "铀矿",
+    "NoPower": "供能中断",
+    "ThermalPlantCelsius": "{0:0}°C",
+    "ThermometerFormat": "<color=#FFDC00FF>°C<\/color>",
+    "CameraDroneTitle": "摄像头 {0}",
+    "CameraDroneDistance": "距离:",
+    "PreflightCheck_TimeCapsule": "时间胶囊",
+    "UseTimeCapsule": "启用时间胶囊",
+    "ActivateSystem_LifeSupport": "激活生命保障系统",
+    "ActivateSystem_CPU": "启动中央处理器",
+    "EncyPath_TimeCapsules": "时间胶囊",
+    "Rocket_ReadyForLaunch": "逃逸火箭所有系统准备就绪，随时可以发射",
+    "RadioSunbeamCancel": "致极光号的幸存者们，这是贸易船阳光号。我们追踪到了你们的求救信号，但是你们飞船在轨道上留下了一块巨大的碎片，我们无法尝试着陆。所以我们可能要离开了。但是我们会把数据尽快传回阿尔特拉总部。请耐心等待救援。阳光号，完毕。",
+    "Ency_LargeFloater": "远古漂浮者",
+    "EncyDesc_LargeFloater": "生物数据表明，这一庞大的生物和地质系统形成了天然的共生关系。
+-链接大陆和海洋，获取生长所需阳光和养分。
+-弗兰德植物为其提供消耗的浮力功率。
+-几千年的积淀才能生成如此庞大的泰坦漂浮者。
+-有时，漂浮者会附着在一些巨型生物的身体上，利用强大的浮力使其离开水面窒息而死，巨型尸体可以为其食用很久，结束后，漂浮者会回到海洋，进行如此循环。
+
+评估：简直是一种超出人类想象的生物",
+    "Databox": "黑匣子",
+    "AllSystemsGo": "未知",
+    "Ency_BigCoralTubes": "巨型珊瑚管
+",
+    "EncyDesc_BigCoralTubes": "4546B星球上珊瑚的密集分布似乎是解决整个星球水分和营养物质流动运输的方式。这些特定变种珊瑚将水吸入管中，过其中的滤营养物质。他们的大小表明他们这种做法很合理。
+
+评估：珊瑚管样品富含钙，可在漂白剂制造中使用",
+    "Ency_CoralShellPlate": "珊瑚板",
+    "EncyDesc_CoralShellPlate": "这种变异的珊瑚已经适应了在接近其他珊瑚的环境中生存，从水中过滤营养物质，通过生长在基部的孢子状物质来分享它们。
+
+评估:没有发现实际应用",
+    "Ency_EarthenCoralTubes": "亚种珊瑚管",
+    "EncyDesc_EarthenCoralTubes": "遗传相似性度分析表明，在星球10万年前，巨型珊瑚管发生基因突变，导致亚种的钙含量大大降低。
+
+评估：没有实际的应用价值",
+    "Ency_FloatingStones": "水雷",
+    "EncyDesc_FloatingStones": "这种特别的植物仅在水雷区遇到。它们由硕大的球形充气膜组成，通过其根系固定在海底。在这种深度，这种结构不太可能是为了获取阳光，而是增加该植物孢子的传播能力。一旦荚果达到足够的高度，它们会爆裂，释放孢子，随着水流分散开并播种到地面。",
+    "Ency_BlueAmoeba": "变形虫",
+    "EncyDesc_BlueAmoeba": "一种简单，无意识的生物体，附着在具有高化石化的有机物质的土地上。持续生长，直到它达到成熟，进行分裂繁殖出两个新的，基因上相同的后代，并且循环继续。",
+    "Ency_RedTipRockThings": "血岩",
+    "EncyDesc_RedTipRockThings": "这种珊瑚物种与4546B中遇到的任何其他物种不同，它生长所需养分主要依赖于岩浆流而不是水流。当熔岩从星球的核心升起并在通风口喷发时，这种珊瑚形成在通风口周围，直到最后它围绕整个通风口。熔岩通过珊瑚漏斗，使其能够吸收矿物质并加热。",
+    "Ency_BlueTipLostRiverPlant": "蟹爪藻",
+    "EncyDesc_BlueTipLostRiverPlant": "一种蓝色的海藻类物种，常见生长于海洋中的酸性盐水池中。这种酸性液体对绝大部分动植物都是有害的，然而蟹爪藻的根系经过了特殊的进化，不但可以耐受这种严酷的环境可以承受環境，还进化出了灵敏的蓝色结瘤在附近环境中吸收养分。",
+    "Ency_BlueLostRiverLilly": "海百合",
+    "EncyDesc_BlueLostRiverLilly": "这些百合般的植物经过进化，可以利用海底附近酸性盐水池的密度，在水面上漂浮。以卷须状的根系向下延伸，从液体中分离得到盐和矿物质。",
+    "OvereatingWarning": "警告：缺乏饮食结构多样性会影响你的健康状况。 ",
+    "Goal_SecondarySystems": "逃生舱备用系统上线。正在进行全面的环境诊断并将结果输出到数据库。",
+    "Ency_BlueprintCorruption": "警告：蓝图数据库已损坏",
+    "EncyDesc_BlueprintCorruption": "PDA电脑的硬盘损坏，导致损失了大约80％的蓝图档案。可以通过使用扫描仪扫描蓝图科技碎片或从载具数据库下载来重新获取蓝图。提示：蓝图数据很可能在极光号的残骸中被发现。",
+    "Ency_SecondarySystems": "4546B星球环境扫描",
+    "EncyDesc_SecondarySystems": "-3类海洋星球
+-氧\/氮大气层
+-广泛的生物多样性
+
+安全警告：
+-可以抵御利维坦等级掠食者
+-受高含量外来细菌污染的水
+-不在营救区域内，获救机率不高
+
+不建议在没有安全防护及基本设备下探索这个环境。",
+    "GenericJeweledDisk": "宝石珊瑚",
+    "FloatingStone": "水雷",
+    "BlueAmoeba": "变形虫",
+    "RedTipRockThings": "血岩",
+    "BlueTipLostRiverPlant": "蟹爪藻",
+    "BlueLostRiverLilly": "海百合",
+    "Tooltip_GenericJeweledDisk": "外星植物样本",
+    "Signal_DegasiJellyBase": "已知德加斯号船员基地 (250m)",
+    "Signal_DegasiGrandReefBase": "已知德加斯号船员基地 (500m)",
+    "Goal_BiomeBloodKelp2": "近距离扫描显示，区域下方的岩层中存在复杂的洞穴系统。",
+    "Goal_BiomeVoid": "警告：正在进入高危生态区，正在上传已采集信息至数据库。",
+    "Ency_Aurora_BreachScan": "损坏的驱动核心",
+    "EncyDesc_Aurora_BreachScan": "极光号的高放射性驱动核心正常时候被护盾保护，在发生坠毁后，护盾被破坏产生多处缺口，因而持续地向周围的环境泄漏辐射，直到被修复为止。此后，环境中的辐射会随着时间的推移而消散。要完成这项工作需要配备防辐射服，以及一把完全充能的焊接枪。",
+    "Ency_Void": "无人区",
+    "EncyDesc_Void": "地质扫描显示当前区域各个方向都发生了剧烈的塌方。这一数据与极光号坠毁于2km x2km火山口边缘的猜想是一致的。自上一次爆发以来，环形火山口维持了几千年的平静，同时，火山喷发运送至地表的丰富营养物质造就了环形山内部繁复的生态系统。火山环形山周围只有微生物和幽灵利维坦两种生物可以存活，完全不建议探索。",
+    "Ency_GiantKooshBush": "巨型库什",
+    "EncyDesc_GiantKooshBush": "这种巨大的植物（或者是菌类？）已经有几个世纪的历史了。当它在一片区域生长发展一段时间后，会形成复杂的根系在地表以下连接它与其他的库什。复杂网状的营养流动体系表明，巨大的库什已经融入了生态环境，使这里的生态保持稳定。",
+    "DrillResource": "可开采 {0}",
+    "Ency_Precursor_LostRiverBase_StructuralDamage": "外星设施建筑损坏",
+    "EncyDesc_Precursor_LostRiverBase_StructuralDamage": "考虑到这种外星建筑材料的物理强度,很可能这个设施是由于物理结构损坏,而不是随着时间推移遭受侵蚀,使它坍塌至海底。",
+    "Ency_Precursor_LostRiverBase_BrokenAnchor": "损坏的锚索",
+    "EncyDesc_Precursor_LostRiverBase_BrokenAnchor": "这些厚电缆似乎是为了把附近的设施锚定在周围的洞壁上。一些电缆的损坏导致设备倒塌。计算表明这种损害需要超过300吨的外部撞击力。",
+    "Ency_Precursor_LostRiverBase_Rays": "4546B星球上的鳐类生物",
+    "EncyDesc_Precursor_LostRiverBase_Rays": "产自4546B星球的各种不同的鳐类，每一种都是因为不同的生活环境。这些标本和现在星球上遇到的基因相似度为99.99%，说明在过去的几千年里，鳐类几乎没有发生什么演化。阿尔法鳐会在深海进行进化，并迅速地融入当地的食物链。外形很像幽灵，有半透明的皮肤，可以作为伪装，从而更好地捕食和逃跑。
+这些鳐类已经放弃了对食草类动物的捕食，凭借有毒的肉质作为自我保护的机制。",
+    "Ency_Precursor_LostRiverBase_Bones": "胸腔样本",
+    "EncyDesc_Precursor_LostRiverBase_Bones": "在外星研究设施内的这个展柜中，包含了一组从本地生物身上采集的胸腔样本。虽然到目前为止，这些骨骼中的一些骨骼与星球上遇到的生物很像，但大多数都不能完美匹配，这表明要么是有些生物至今没有被发现，要么它们已经灭绝了。",
+    "Ency_Precursor_LostRiverBase_ProductionLine": "生产线
+",
+    "EncyDesc_Precursor_LostRiverBase_ProductionLine": "生物机械零件阵列，悬挂在传送系统上有其完整的结构。这条生产线的设置表明这些传系统是成立的，由设计该设施的外星人维护和部署。",
+    "Ency_Precursor_LostRiverBase_WarperParts": "裂空者零件",
+    "EncyDesc_Precursor_LostRiverBase_WarperParts": "展箱里的有机物部分包含了几十种不同生物的DNA，但都是来自于外部世界，有机体和高科技的完美结合造就了裂空者这种强力且危险的生物。",
+    "Precursor_LavaCastle_Log4": "外星主设施位置更新，此处的东南偏南，在火山区与这个洞穴系统相连。",
+    "Precursor_LavaCastle_Log3": "正在从外星数据提取离子动力电池蓝图。蓝图已存储至数据库。",
+    "Precursor_Prison_ExteriorLog1": "这个地区的外星人研究设施比4546B星球上其他任何地方的都要大。请小心接近.。",
+    "Precursor_Prison_Antechamber_Log1": "这个房间似乎是一个生物档案馆，保存着40种以上不同生长阶段的该星球本地生物的样本。",
+    "PrecursorPrisonIonGenerator": "离子晶体生成器",
+    "Ency_PrecursorPrisonIonGenerator": "离子晶体生成器",
+    "EncyDesc_PrecursorPrisonIonGenerator": "这种装置似乎是那些原始矿物的来源，这些矿物构成了离子立方体的基础，从而为较小的外星基地提供动力。可能从主要火力发电厂汲取电力，本装置几乎可以看做一个取之不尽的能源。",
+    "EncyPath_Welcome\/StartGear": "额外技术",
+    "EncyPath_Lifeforms\/Flora\/Land": "陆地",
+    "EncyPath_Lifeforms\/Flora\/Sea": "海洋",
+    "EncyPath_Lifeforms\/Flora\/Exploitable": "可开发的",
+    "EncyPath_DownloadedData\/Precursor\/Terminal": "终端数据",
+    "EncyPath_DownloadedData\/Precursor\/Scan": "扫描数据",
+    "EncyPath_DownloadedData\/Precursor\/Artifacts": "文物",
+    "Ency_Scanner": "扫描仪",
+    "EncyDesc_Scanner": "基本的科学、生存工具。
+
+扫描仪在指定的方向发射电磁辐射，由环境反射，然后分析确定目标对象的物理结构。它有四个主要功能。
+
+技术分析:
+记录扫描物品的物理参数，将它们的蓝图添加到PDA数据库。这些蓝图可以在适当的工作台上建造。扫描仪还可以将损坏的和无用的设备分解，以便回收之用。
+
+生物分析:
+扫描仪会试图将扫描的有机体与现有数据库匹配。如果没有找到匹配的数据，则按照一定规则将这个新物种命名，并创建一个新的条目。你的PDA人工智能也将分析所有可能的行为倾向和进化起源的理论，并对它们进行最合理的评估。
+
+医学分析:
+扫描任何生物体也会在扫描仪的HUD上显示有关他们健康状况的基本信息。如果没有网络数据库，这些信息将是有限的。
+
+自扫描:
+用户可以通过自我扫描来确定自己的身体健康状况。扫描仪将搜索外星细菌和其他健康状况的迹象，并与现有数据进行比较，以提供诊断。
+
+手持光谱扫描仪——了解世界，就这么简单。",
+    "Ency_SolarPanel": "太阳能电池",
+    "EncyDesc_SolarPanel": "太阳能是银河系中最普遍的能源，因此，标准的太阳能电池板是为栖息地提供能量的默认手段。电源是全环境氧气发生器和其他机载模块的基础。
+
+ -为小型哨站和栖息地提供有限的电力
+ -可安装于或靠近于栖息地，或放置于能源延伸器附近
+ -功率与阳光照射率有关",
+    "Ency_Fabricator": "工作台",
+    "EncyDesc_Fabricator": "工作台拥有在原子层面重新安排物质结构的能力。它是人类文明发展的催化剂，是现代世界的支柱。
+
+工作台有各种各样的形状和大小，但最常见的是小到可以安装在墙上，从建造日常用具到烹饪晚餐，都可以使用。对于家庭来说，在手边保存一堆通用的基本材料是很常见的。",
+    "Ency_Aquarium": "水族馆",
+    "EncyDesc_Aquarium": "这个水族馆被设计用来容纳和维持8个小型水生生物，并适合在一个常规的多用途房间里。
+
+水生生物占所有已知物种的70%，使得水族馆成为许多勘探活动中常用的工具。它也经常被用来饲养牲畜供以后食用，或者为研究提供标本。一个自动化的环境调节系统意味着没有必要为你的养殖物提供食物或照顾。
+
+由于它的大小限制，常规水族馆不能用于育种研究，饲养在其中的生物不会进行交配。可以通过建造完整大小的外星水族馆来完成育种研究。",
+    "Ency_MVB": "载具舱",
+    "EncyDesc_MVB": "载具舱是配备有无人制造机的可部署站，功能为将原材料建造成小型载具。这是所有科学及殖民化行动中常用工具。",
+    "Ency_Airpumps": "空气泵",
+    "EncyDesc_Airpumps": "空气泵可用于将可呼吸的空气输送到一个偏远的地方。
+
+- 基地式气泵可以在合适的栖息地建造，并直接从栖息地的氧气发生器中获取氧气
+- 浮动气泵必须接触可呼吸的空气，并漂浮在水面上
+- 泵必须连接到管道链上才能运行",
+    "Ency_BulkheadDoor": "隔离舱门",
+    "EncyDesc_BulkheadDoor": "隔离舱门被设计成分开的隔间，同时加强结构的完整性和坚固的钛框架。门可以打开和关闭，以密封在火灾或洪水事件中的隔间，或者仅仅是为了隐私。",
+    "Ency_RepulsionCannon": "推进炮",
+    "EncyDesc_RepulsionCannon": "推进炮是以冲击炮进行修改，增强了推进效果，代价是牺牲了射程。它可使用高级工作台进行制造，通常用于自卫，几乎不致命。",
+    "Ency_VMS": "载具升级控制台",
+    "EncyDesc_VMS": "该终端用于载具定制不同的命名和配色方案以及升级模块。
+
+
+ - 必须安装在月池模块
+  - 升级可以在对应的工作台上完成
+  - 升级包括提升防御能力，扫描设备和存储空间等",
+    "NeedExoToMine": "需要特殊设备来收集这些资源",
+    "SignalDistanceFormatWithDescription": "{0}
+{1}m",
+    "PingLifepod": "逃生舱",
+    "PingSeamoth": "海蛾号",
+    "PingCyclops": "独眼巨人号",
+    "PingExosuit": "海虾动力盔甲",
+    "PingRocket": "海王星1号",
+    "PingBeacon": "信标",
+    "PingSignal": "信号",
+    "PingMapRoomCamera": "摄像无人机",
+    "RadioSunbeam1": "这里是艾弗里奎恩，来自阳光号贸易船。极光号，你收到吗？完毕。
+###3000还是什么都没有。这些阿尔特拉船。发动机的润滑油用完了，他们发出求救信号；你主动提供帮助，他们没有回复。
+极光号，我在系统的另一边，需要一个多星期到达你的位置，你还需要我们的帮助吗?完毕。
+###1000我明天会再次尝试的。同时看看远程扫描的结果。
+该死的宪章要我们浪费我们的利润率为阿尔特拉跑腿。",
+    "RadioSunbeamStart": "废弃",
+    "Tooltip_Shocker": "带电的捕食者。",
+    "Tooltip_BoneShark": "铁甲覆盖的危险生物。",
+    "Tooltip_Crabsnake": "侵略性很强的鳗类生物。",
+    "Tooltip_CrabSquid": "结构复杂的深海捕食动物。",
+    "Tooltip_Crash": "会爆炸的奇怪鱼类。",
+    "Tooltip_Gasopod": "草食动物，密度很小，很温顺。",
+    "Tooltip_Jellyray": "温顺的深海鳐类。",
+    "Tooltip_Mesmer": "体型小，但是很危险。",
+    "Tooltip_RabbitRay": "浅海鳐类。",
+    "Tooltip_Reefback": "大型草食类动物，自我提供完整的生态系统。",
+    "Tooltip_Sandshark": "隐秘的捕食者。",
+    "Tooltip_Jumper": "普通的食腐动物。",
+    "Tooltip_Stalker": "以金属为食，外形像鲨鱼。",
+    "Goal_JellyCaveEntrance": "局部扫描显示附近的一个洞穴入口，深度90米，发现一个未知环境的生物群落。",
+    "Goal_LostRiverEntrance": "局部扫描发现开放的生态系统，并发现大片的化石骸骨群。",
+    "Ency_DataCoil": "极光号数据盘",
+    "EncyDesc_DataCoil": "未知",
+    "Ency_PrisonOutposts": "声波威慑",
+    "EncyDesc_PrisonOutposts": "这些小型外星机械持续发射高频声波，似乎在阻止其他生物接近主体设施。",
+    "Ency_AluminiumOxide": "红宝石",
+    "EncyDesc_AluminiumOxide": "一种坚硬，血红色的宝石，由氧化铝制成。可将红宝石加工，用于改造先进的载具结构和加强结构完整性。
+
+评估：先进载具修改的基础",
+    "Ency_Mercury": "汞矿石",
+    "EncyDesc_Mercury": "一种常见的低价值的朱砂矿石，可以加工成液态汞。 有一系列应用，包括用于温度测量。
+
+评估：独眼巨人号灭火必需品",
+    "Ency_Magnetite": "磁铁矿",
+    "EncyDesc_Magnetite": "磁铁矿是一种氧化铁，具有磁力及其他潜在价值。用于许多联邦技术，包括声纳和鱼雷系统。
+
+评估：制作先进装备不可或缺的技术",
+    "Ency_Nickel": "镍矿",
+    "EncyDesc_Nickel": "镍为广泛用于生产高强度金属合金的中硬质金属。它广泛应用于建筑行业。
+
+评估：可用于先进载具模改",
+    "Ency_Uraninite": "铀矿",
+    "EncyDesc_Uraninite": "铀矿是天然生成的氧化铀。具有高度放射性和不稳定性，其主要用途是生产用于核发电机的铀反应堆棒。
+
+评估：广泛应用于核能技术",
+    "Ency_Sulphur": "结晶硫",
+    "EncyDesc_Sulphur": "硫是一种高活性，非金属元素，通常在地下较丰富。通常的应用包括生产酸性化合物和可燃物。
+
+评估：特定载具模改的基本材料",
+    "Ency_Skyray": "燕子鱼",
+    "EncyDesc_Skyray": "燕子鱼有一个鸟形的头部，有羽毛翅膀让他可以飞翔。
+
+-
+翅膀发现和水生鳐具有进化关系，然而，它们具有不同的的祖先
+- 燕子鱼常见盘旋于漂浮结构，很少冒险远离海洋
+-
+它们栖息在干旱的土地上，但是靠近就会逃跑
+- 可能是以种子维生
+
+评估：发现它时可能表明附近具有旱地。",
+    "Ency_Rocket": "海王星逃脱火箭",
+    "EncyDesc_Rocket": "这个蓝图是在阿尔特拉总部开发的，专门让你离开4546B和回到最近的位面门。它考虑到当地的重力，天文数据和可用资源并由AI驾驶。它由五个独立可构建的元素组成：
+
+- 发射平台：飘浮式平台为发射火箭提供了坚实的基础
+-龙门架：提供结构支撑
+- 第1节：主要推进器将火箭加速至可离开大气速度
+-
+第2节：次级推进器用於轨道上推进
+- 第3节：驾驶舱
+
+警告：如果检测到本地威胁，载具上的AI将不会启动。",
+    "Rocket_ReadyForLaunch2": "发射准备已完成，等待发射指令",
+    "Rocket_LaunchCountdown": "倒计时 10…… 9…… 8…… 7…… 6…… 5…… 4…… 3…… 2…… 1……###6000",
+    "Rocket_TimeCapsule": "丢弃时间胶囊",
+    "Rocket_Debris": "注意：接近小行星带",
+    "Rocket_DebrisClear": "轨道碎片区域视野清晰.执行强力动力扭矩转换。###4000",
+    "Rocket_Destination": "确认目的地坐标：最近的星际相位门。 ###1500",
+    "Rocket_Thrusters": "准备接合推进器 3…… 2…… 1……###1000",
+    "Ency_CaptainCode": "高安全终端 - 船长房间",
+    "EncyDesc_CaptainCode": "在彻底失去联系之前，阿尔特拉总部将一组蓝图上传到了极光的主计算机上。在舰长室里有一个最高安全的终端，位于机甲室后面，你将在那里找到蓝图。代码是2679。",
+    "Ency_CaptainPDA": "船长日志",
+    "EncyDesc_CaptainPDA": "加载程序：模拟外星生存
+规模：单人玩家
+地图：Boreal9号
+资源：正常
+
+你的飞船坠毁在外星，这是个荒无人烟，被水覆盖的星球。一定是星际人贩子干的。这时，你应该首先做什么？
+  [搜寻坠毁点]
+ -> [种植外星植物]
+ [使用地形改造建立基地]
+
+太棒了，这是个经验老到的星际探险者该做的事。过了几个小时，你获得了一些食物，下面你会吃什么来活下去。
+    [树根]
+    [蟑螂]
+ -> [鲸鱼卵]
+
+虽然鲸鱼卵很有营养，但是它们的产卵速度无法保证稳定的食物来源，并且这让成年鲸鱼对你感到很生气。
+  [与这些鲸鱼作战]
+    [向鲸鱼道歉]
+ -> [接受命运顺其自然]
+
+永远不要小看保护孩子的母亲，你的身体被撕成碎片，你身体中的所有原子将在另一个时机重组为另外一个生命体。
+
+是否继续？
+ [是]
+ -> [否]",
+    "SeaEmperor": "海皇利维坦",
+    "AlreadyUnlockedTooltip": "(PDA已收录)",
+    "Sign_Aurora_Cabin_01": "一号舱",
+    "Sign_Aurora_Cabin_02": "二号舱",
+    "Sign_Aurora_Cabin_03": "三号舱",
+    "Sign_Aurora_Cabin_04": "四号舱",
+    "Sign_Aurora_Cabin_05": "五号舱",
+    "Sign_Aurora_Cabin_06": "六号舱",
+    "Sign_Aurora_Cabin_07": "七号舱",
+    "Sign_Aurora_Canteen": "餐厅",
+    "Sign_Aurora_Captains": "船长房间",
+    "Sign_Aurora_Supply": "补给",
+    "ExoHullModule1": "海虾号初级深潜模块",
+    "Tooltip_ExoHullModule1": "提高海虾号的安全下潜深度至800米。效果无法叠加。",
+    "SmallStorageNotEmptyCantPickup": "无法拾取",
+    "LuggageBagNotEmptyCantPickup": "无法拾取",
+    "HintKeyboardQuickslots": "{0}, {1}, {2}, {3}, {4} 用数字键选择相应快捷栏。",
+    "HintGamepadQuickslots": "{0} {1} 来选择快捷栏",
+    "Ency_Infection": "未知感染症状的样本",
+    "EncyDesc_Infection": "这种细菌显示出十分罕见的感染迹象。
+
+- 水泡是亮绿色的，围绕感染部位形成网状
+- 病理学表明这是一种能穿透皮肤的亲水性细菌
+-有轻微的基因突变和加强攻击行为的潜在症状
+- 细菌不同于任何迄今为止人类已知的病原体，无法得到更进一步的资料
+
+警告: 传染性极强。 尽量避免接触。 在任何情况下都不要以感染生物为食。",
+    "AccessVehicleStorage": "访问载具控制终端",
+    "PackUp": "收集 {0}{1}",
+    "Ency_JellyPDABreadcrumb": "环境日志",
+    "EncyDesc_JellyPDABreadcrumb": "用户“保罗·托加尔”要求在理想的栖息地建设条件下进行当地环境扫描。显示的结果。
+-有多个入口的大型地下洞穴。
+-存在大型掠食性生命体
+-洞穴墙壁结构不稳定。
+—丰富的资源储备
+平均环境安全等级:C。
+栖息地安全等级:B。
+由于以下原因，第7号地点已被选定为最佳基地建造点，原因如下:
+-靠近洞穴入口。
+-与掠食性生物保持安全距离。
+-地基较为稳定。
+-资源和材料充足。
+已经创建了一个指示该地点的信号。",
+    "LargeFloater": "远古漂浮者",
+    "RadiationLeakPoint": "缺口",
+    "PrecursorLostRiverBrokenAnchor": "破损的电缆",
+    "PrecursorLostRiverLabRays": "鳐类标本",
+    "PrecursorLostRiverLabBones": "胸骨笼",
+    "PrecursorLostRiverLabEgg": "蛋",
+    "PrecursorLostRiverProductionLine": "传送带系统",
+    "PrecursorLostRiverWarperParts": "生物原件",
+    "HugeSkeleton": "生物遗骸",
+    "ReaperSkeleton": "死神利维坦遗骸",
+    "PrecursorPrisonOutposts": "外星建筑",
+    "AlreadyUnlockedTooltipFormat": "{0}
+{1}",
+    "EmptyStorageFormat": "{0} ({1})",
+    "DrillResourceTooltipFormat": "{0} - {1}",
+    "OptionLookUp": "向上看",
+    "OptionLookDown": "向下看",
+    "OptionLookLeft": "向左看",
+    "OptionLookRight": "向右看",
+    "RadioPowerOn": "###3000无线电系统上线，正在广播紧急求救信号。 ###1000",
+    "SayFarewell": "告别({0})",
+    "DeconstructFormat": "解构 ({0})",
+    "ConstructFormat": "建造({0})",
+    "ConstructDeconstructFormat": "{0}  {1}",
+    "HandReticleAddButtonFormat": "{0} ({1})",
+    "VehicleStatusFormat": "耐久{0:P0}
+充能{1:P0}",
+    "VehicleStatusChargedFormat": "耐久{0:P0}
+满能量",
+    "DockedVehicleDepthWarning": "警告，停泊载具超过极限安全深度！",
+    "DataboxToolipFormat": "{0} - {1}",
+    "DataboxAlreadyUnlockedToolipFormat": "{0} - {1}
+(PDA已收录)",
+    "DeadFormat": "死亡{0}",
+    "DecomposingFormat": "{0} {1}",
+    "ObsidianChunk": "黑曜石块",
+    "Fiber": "纤维",
+    "Enamel": "搪瓷",
+    "PrecursorIonCrystalMatrix": "离子晶体矩阵",
+    "DrillableMercury": "水银",
+    "DrillableAluminiumOxide": "红宝石",
+    "PDA": "PDA",
+    "ReinforcedGloves": "强化手套",
+    "BuildBot": "建造无人机",
+    "StasisSphere": "停滞空间",
+    "CompostCreepvine": "混合海藻快",
+    "ProcessUranium": "处理铀",
+    "DiveHatch": "潜水仓",
+    "EnyzmeCloud": "雾状酶",
+    "CyclopsFabricator": "工作台",
+    "CrashedShip": "极光号",
+    "Rockgrub": "沙虫",
+    "HoopfishSchool": "圈圈鱼群",
+    "RockPuncher": "击石者",
+    "SkyrayNonRoosting": "燕子鱼",
+    "WarperSpawner": "裂空者",
+    "ReefbackBaby": "幼年礁背鱼",
+    "SeaEmperorJuvenile": "少年海皇利维坦",
+    "BrainCoral": "脑珊瑚",
+    "MonsterSkeleton": "怪兽骨架",
+    "SeaDragonSkeleton": "海龙骨架",
+    "TimeCapsule": "时间胶囊",
+    "FoodFormat": "食物:  {0:+#;-#;+0}",
+    "WaterFormat": "水分:  {0:+#;-#;+0}",
+    "OxygenFormat": "{0}氧气剩余",
+    "PickUpFormat": "捡起 {0}",
+    "PackUpFormat": "收起{0}",
+    "CraftMultipleFormat": "{0} (x{1})",
+    "RequireMultipleFormat": "{0} (x{1})",
+    "Tooltip_ReefbackDNA": "礁背鱼DNA",
+    "DamagedRadio": "损坏的无线电设备",
+    "ExoHullModule2": "海虾号高级深潜模块",
+    "Tooltip_ExoHullModule2": "提高海虾号的安全下潜深度至最大。效果无法叠加。",
+    "CyclopsUpgradesHealthPercentFormat": "{0:P0}",
+    "CyclopsUpgradesEnergyPercentFormat": "{0:P0}",
+    "DateFormat": "{0:d MMMM yyyy - h.mm tt}",
+    "LoadingFormat": "{0} ({1:0s})",
+    "LoadingOperationFormat": "{0} {1:P0} ({2:0s})",
+    "BlueprintFragmentProgressFormat": "{0} \/ {1}",
+    "MapRoomPagesFormat": "{0} \/ {1}",
+    "CreepvinePiece.TooltipIngredient": "",
+    "Quartz.TooltipIngredient": "",
+    "ScrapMetal.TooltipIngredient": "",
+    "CreepvineSeedCluster.TooltipIngredient": "",
+    "Salt.TooltipIngredient": "",
+    "CoralChunk.TooltipIngredient": "",
+    "Titanium.TooltipIngredient": "",
+    "Copper.TooltipIngredient": "",
+    "Silver.TooltipIngredient": "",
+    "WiringKit.TooltipIngredient": "",
+    "Gold.TooltipIngredient": "",
+    "ComputerChip.TooltipIngredient": "",
+    "TitaniumIngot.TooltipIngredient": "",
+    "Lithium.TooltipIngredient": "",
+    "StalkerTooth.TooltipIngredient": "",
+    "Glass.TooltipIngredient": "",
+    "Battery.TooltipIngredient": "",
+    "Silicone.TooltipIngredient": "",
+    "JeweledDiskPiece.TooltipIngredient": "",
+    "CopperWire.TooltipIngredient": "",
+    "WhiteMushroom.TooltipIngredient": "",
+    "HydrochloricAcid.TooltipIngredient": "",
+    "Benzene.TooltipIngredient": "",
+    "FiberMesh.TooltipIngredient": "",
+    "JellyPlant.TooltipIngredient": "",
+    "AluminumOxide.TooltipIngredient": "",
+    "MercuryOre.TooltipIngredient": "",
+    "BloodOil.TooltipIngredient": "",
+    "UraniniteCrystal.TooltipIngredient": "",
+    "Lead.TooltipIngredient": "",
+    "AcidMushroom.TooltipIngredient": "",
+    "Bladderfish.TooltipIngredient": "",
+    "AdvancedWiringKit.TooltipIngredient": "",
+    "AramidFibers.TooltipIngredient": "",
+    "Tank.TooltipIngredient": "",
+    "CrashPowder.TooltipIngredient": "",
+    "Lubricant.TooltipIngredient": "",
+    "PowerCell.TooltipIngredient": "",
+    "Magnetite.TooltipIngredient": "",
+    "Diamond.TooltipIngredient": "",
+    "Knife.TooltipIngredient": "",
+    "DoubleTank.TooltipIngredient": "",
+    "PlasteelIngot.TooltipIngredient": "",
+    "Fins.TooltipIngredient": "",
+    "PropulsionCannon.TooltipIngredient": "",
+    "PowerGlide.TooltipIngredient": "",
+    "ReefbackShell.TooltipIngredient": "",
+    "HullReinforcementModule.TooltipIngredient": "",
+    "ReefbackDNA.TooltipIngredient": "",
+    "ReefbackAdvancedStructure.TooltipIngredient": "",
+    "HullReinforcementModule2.TooltipIngredient": "",
+    "Polyaniline.TooltipIngredient": "",
+    "Aerogel.TooltipIngredient": "",
+    "CyclopsHullModule1.TooltipIngredient": "",
+    "Nickel.TooltipIngredient": "",
+    "EyesPlantSeed.TooltipIngredient": "",
+    "SeaCrownSeed.TooltipIngredient": "",
+    "TreeMushroomPiece.TooltipIngredient": "",
+    "RedGreenTentacleSeed.TooltipIngredient": "",
+    "KooshChunk.TooltipIngredient": "",
+    "Welder.TooltipIngredient": "",
+    "Sulphur.TooltipIngredient": "",
+    "Kyanite.TooltipIngredient": "",
+    "EnameledGlass.TooltipIngredient": "",
+    "VehicleHullModule1.TooltipIngredient": "",
+    "VehicleHullModule2.TooltipIngredient": "",
+    "GasPod.TooltipIngredient": "",
+    "PrecursorIonCrystal.TooltipIngredient": "",
+    "Bleach.TooltipIngredient": "",
+    "Peeper.TooltipIngredient": "",
+    "HoleFish.TooltipIngredient": "",
+    "GarryFish.TooltipIngredient": "",
+    "Reginald.TooltipIngredient": "",
+    "Hoverfish.TooltipIngredient": "",
+    "Spadefish.TooltipIngredient": "",
+    "Boomerang.TooltipIngredient": "",
+    "Eyeye.TooltipIngredient": "",
+    "Oculus.TooltipIngredient": "",
+    "Hoopfish.TooltipIngredient": "",
+    "Spinefish.TooltipIngredient": "",
+    "LavaEyeye.TooltipIngredient": "",
+    "LavaBoomerang.TooltipIngredient": "",
+    "ReactorRod.TooltipIngredient": "",
+    "CyclopsShieldModule.TooltipIngredient": "",
+    "PrecursorIonPowerCell.TooltipIngredient": "",
+    "FiberMesh.BlueprintsTab": "",
+    "Glass.BlueprintsTab": "",
+    "Titanium.BlueprintsTab": "",
+    "Silicone.BlueprintsTab": "",
+    "Bleach.BlueprintsTab": "",
+    "TitaniumIngot.BlueprintsTab": "",
+    "CopperWire.BlueprintsTab": "",
+    "WiringKit.BlueprintsTab": "",
+    "AdvancedWiringKit.BlueprintsTab": "",
+    "PlasteelIngot.BlueprintsTab": "",
+    "EnameledGlass.BlueprintsTab": "",
+    "PowerCell.BlueprintsTab": "",
+    "ComputerChip.BlueprintsTab": "",
+    "HydrochloricAcid.BlueprintsTab": "",
+    "Polyaniline.BlueprintsTab": "",
+    "AramidFibers.BlueprintsTab": "",
+    "Aerogel.BlueprintsTab": "",
+    "Nanowires.BlueprintsTab": "",
+    "Benzene.BlueprintsTab": "",
+    "Lubricant.BlueprintsTab": "",
+    "ReactorRod.BlueprintsTab": "",
+    "Fins.BlueprintsTab": "",
+    "Tank.BlueprintsTab": "",
+    "Battery.BlueprintsTab": "",
+    "Knife.BlueprintsTab": "",
+    "Flashlight.BlueprintsTab": "",
+    "Beacon.BlueprintsTab": "",
+    "Builder.BlueprintsTab": "",
+    "Compass.BlueprintsTab": "",
+    "AirBladder.BlueprintsTab": "",
+    "Terraformer.BlueprintsTab": "",
+    "Pipe.BlueprintsTab": "",
+    "Thermometer.BlueprintsTab": "",
+    "DiveReel.BlueprintsTab": "",
+    "Rebreather.BlueprintsTab": "",
+    "RadiationSuit.BlueprintsTab": "",
+    "ReinforcedDiveSuit.BlueprintsTab": "",
+    "Scanner.BlueprintsTab": "",
+    "FireExtinguisher.BlueprintsTab": "",
+    "MapRoomHUDChip.BlueprintsTab": "",
+    "PipeSurfaceFloater.BlueprintsTab": "",
+    "CyclopsDecoy.BlueprintsTab": "",
+    "DoubleTank.BlueprintsTab": "",
+    "Welder.BlueprintsTab": "",
+    "Seaglide.BlueprintsTab": "",
+    "Constructor.BlueprintsTab": "",
+    "Transfuser.BlueprintsTab": "",
+    "Flare.BlueprintsTab": "",
+    "StasisRifle.BlueprintsTab": "",
+    "PropulsionCannon.BlueprintsTab": "",
+    "Gravsphere.BlueprintsTab": "",
+    "SmallStorage.BlueprintsTab": "",
+    "LaserCutter.BlueprintsTab": "",
+    "LEDLight.BlueprintsTab": "",
+    "DiamondBlade.BlueprintsTab": "",
+    "HeatBlade.BlueprintsTab": "",
+    "LithiumIonBattery.BlueprintsTab": "",
+    "PlasteelTank.BlueprintsTab": "",
+    "HighCapacityTank.BlueprintsTab": "",
+    "UltraGlideFins.BlueprintsTab": "",
+    "SwimChargeFins.BlueprintsTab": "",
+    "RepulsionCannon.BlueprintsTab": "",
+    "Stillsuit.BlueprintsTab": "",
+    "PowerGlide.BlueprintsTab": "",
+    "Workbench.BlueprintsTab": "",
+    "HullReinforcementModule.BlueprintsTab": "",
+    "Fabricator.BlueprintsTab": "",
+    "Aquarium.BlueprintsTab": "",
+    "Locker.BlueprintsTab": "",
+    "Spotlight.BlueprintsTab": "",
+    "CurrentGenerator.BlueprintsTab": "",
+    "SpecialHullPlate.BlueprintsTab": "",
+    "BikemanHullPlate.BlueprintsTab": "",
+    "EatMyDictionHullPlate.BlueprintsTab": "",
+    "DevTestItem.BlueprintsTab": "",
+    "SpecimenAnalyzer.BlueprintsTab": "",
+    "HullReinforcementModule2.BlueprintsTab": "",
+    "HullReinforcementModule3.BlueprintsTab": "",
+    "PowerUpgradeModule.BlueprintsTab": "",
+    "SolarPanel.BlueprintsTab": "",
+    "Sign.BlueprintsTab": "",
+    "PowerTransmitter.BlueprintsTab": "",
+    "Accumulator.BlueprintsTab": "",
+    "Bioreactor.BlueprintsTab": "",
+    "ThermalPlant.BlueprintsTab": "",
+    "NuclearReactor.BlueprintsTab": "",
+    "SmallLocker.BlueprintsTab": "",
+    "Bench.BlueprintsTab": "",
+    "PictureFrame.BlueprintsTab": "",
+    "PlanterPot.BlueprintsTab": "",
+    "PlanterBox.BlueprintsTab": "",
+    "PlanterShelf.BlueprintsTab": "",
+    "FarmingTray.BlueprintsTab": "",
+    "FiltrationMachine.BlueprintsTab": "",
+    "Techlight.BlueprintsTab": "",
+    "Radio.BlueprintsTab": "",
+    "PlanterPot2.BlueprintsTab": "",
+    "PlanterPot3.BlueprintsTab": "",
+    "MedicalCabinet.BlueprintsTab": "",
+    "CyclopsHullModule1.BlueprintsTab": "",
+    "CyclopsHullModule2.BlueprintsTab": "",
+    "SingleWallShelf.BlueprintsTab": "",
+    "WallShelves.BlueprintsTab": "",
+    "Bed1.BlueprintsTab": "",
+    "Bed2.BlueprintsTab": "",
+    "NarrowBed.BlueprintsTab": "",
+    "BatteryCharger.BlueprintsTab": "",
+    "PowerCellCharger.BlueprintsTab": "",
+    "HatchingEnzymes.BlueprintsTab": "",
+    "Centrifuge.BlueprintsTab": "",
+    "CyclopsShieldModule.BlueprintsTab": "",
+    "CyclopsSonarModule.BlueprintsTab": "",
+    "CyclopsSeamothRepairModule.BlueprintsTab": "",
+    "CyclopsDecoyModule.BlueprintsTab": "",
+    "CyclopsFireSuppressionModule.BlueprintsTab": "",
+    "CyclopsThermalReactorModule.BlueprintsTab": "",
+    "StarshipCargoCrate.BlueprintsTab": "",
+    "StarshipCircuitBox.BlueprintsTab": "",
+    "StarshipDesk.BlueprintsTab": "",
+    "StarshipChair.BlueprintsTab": "",
+    "StarshipMonitor.BlueprintsTab": "",
+    "StarshipChair2.BlueprintsTab": "",
+    "StarshipChair3.BlueprintsTab": "",
+    "CoffeeVendingMachine.BlueprintsTab": "",
+    "BarTable.BlueprintsTab": "",
+    "Trashcans.BlueprintsTab": "",
+    "LabTrashcan.BlueprintsTab": "",
+    "VendingMachine.BlueprintsTab": "",
+    "LabCounter.BlueprintsTab": "",
+    "Seamoth.BlueprintsTab": "",
+    "Exosuit.BlueprintsTab": "",
+    "Cyclops.BlueprintsTab": "",
+    "SeamothReinforcementModule.BlueprintsTab": "",
+    "VehiclePowerUpgradeModule.BlueprintsTab": "",
+    "SeamothSolarCharge.BlueprintsTab": "",
+    "VehicleStorageModule.BlueprintsTab": "",
+    "SeamothElectricalDefense.BlueprintsTab": "",
+    "VehicleArmorPlating.BlueprintsTab": "",
+    "LootSensorMetal.BlueprintsTab": "",
+    "LootSensorLithium.BlueprintsTab": "",
+    "LootSensorFragment.BlueprintsTab": "",
+    "SeamothTorpedoModule.BlueprintsTab": "",
+    "SeamothSonarModule.BlueprintsTab": "",
+    "WhirlpoolTorpedo.BlueprintsTab": "",
+    "VehicleHullModule1.BlueprintsTab": "",
+    "VehicleHullModule2.BlueprintsTab": "",
+    "VehicleHullModule3.BlueprintsTab": "",
+    "ExosuitJetUpgradeModule.BlueprintsTab": "",
+    "ExosuitDrillArmModule.BlueprintsTab": "",
+    "ExosuitThermalReactorModule.BlueprintsTab": "",
+    "GasTorpedo.BlueprintsTab": "",
+    "ExosuitPropulsionArmModule.BlueprintsTab": "",
+    "ExosuitGrapplingArmModule.BlueprintsTab": "",
+    "ExosuitTorpedoArmModule.BlueprintsTab": "",
+    "ExoHullModule1.BlueprintsTab": "",
+    "MapRoomUpgradeScanRange.BlueprintsTab": "",
+    "MapRoomUpgradeScanSpeed.BlueprintsTab": "",
+    "PrecursorKey_Blue.BlueprintsTab": "",
+    "PrecursorKey_Orange.BlueprintsTab": "",
+    "PrecursorKey_Purple.BlueprintsTab": "",
+    "PrecursorIonPowerCell.BlueprintsTab": "",
+    "PrecursorIonBattery.BlueprintsTab": "",
+    "FilteredWater.BlueprintsTab": "",
+    "DisinfectedWater.BlueprintsTab": "",
+    "CookedPeeper.BlueprintsTab": "",
+    "CookedHoleFish.BlueprintsTab": "",
+    "CookedGarryFish.BlueprintsTab": "",
+    "CookedReginald.BlueprintsTab": "",
+    "CookedBladderfish.BlueprintsTab": "",
+    "CookedHoverfish.BlueprintsTab": "",
+    "CookedSpadefish.BlueprintsTab": "",
+    "CookedBoomerang.BlueprintsTab": "",
+    "CookedEyeye.BlueprintsTab": "",
+    "CookedOculus.BlueprintsTab": "",
+    "CookedHoopfish.BlueprintsTab": "",
+    "FirstAidKit.BlueprintsTab": "",
+    "CookedSpinefish.BlueprintsTab": "",
+    "CookedLavaEyeye.BlueprintsTab": "",
+    "CookedLavaBoomerang.BlueprintsTab": "",
+    "CuredPeeper.BlueprintsTab": "",
+    "CuredHoleFish.BlueprintsTab": "",
+    "CuredGarryFish.BlueprintsTab": "",
+    "CuredReginald.BlueprintsTab": "",
+    "CuredBladderfish.BlueprintsTab": "",
+    "CuredHoverfish.BlueprintsTab": "",
+    "CuredSpadefish.BlueprintsTab": "",
+    "CuredBoomerang.BlueprintsTab": "",
+    "CuredEyeye.BlueprintsTab": "",
+    "CuredOculus.BlueprintsTab": "",
+    "CuredHoopfish.BlueprintsTab": "",
+    "CuredSpinefish.BlueprintsTab": "",
+    "CuredLavaEyeye.BlueprintsTab": "",
+    "CuredLavaBoomerang.BlueprintsTab": "",
+    "BaseRoom.BlueprintsTab": "",
+    "BaseHatch.BlueprintsTab": "",
+    "BaseWall.BlueprintsTab": "",
+    "BaseDoor.BlueprintsTab": "",
+    "BaseLadder.BlueprintsTab": "",
+    "BaseWindow.BlueprintsTab": "",
+    "BaseCorridor.BlueprintsTab": "",
+    "BaseFoundation.BlueprintsTab": "",
+    "BaseCorridorI.BlueprintsTab": "",
+    "BaseCorridorL.BlueprintsTab": "",
+    "BaseCorridorT.BlueprintsTab": "",
+    "BaseCorridorX.BlueprintsTab": "",
+    "BaseReinforcement.BlueprintsTab": "",
+    "BaseBulkhead.BlueprintsTab": "",
+    "BaseCorridorGlassI.BlueprintsTab": "",
+    "BaseCorridorGlassL.BlueprintsTab": "",
+    "BaseObservatory.BlueprintsTab": "",
+    "BaseConnector.BlueprintsTab": "",
+    "BaseMoonpool.BlueprintsTab": "",
+    "BaseCorridorGlass.BlueprintsTab": "",
+    "BaseUpgradeConsole.BlueprintsTab": "",
+    "BasePlanter.BlueprintsTab": "",
+    "BaseFiltrationMachine.BlueprintsTab": "",
+    "BaseWaterPark.BlueprintsTab": "",
+    "BaseMapRoom.BlueprintsTab": "",
+    "MapRoomCamera.BlueprintsTab": "",
+    "BaseBioReactor.BlueprintsTab": "",
+    "BaseNuclearReactor.BlueprintsTab": "",
+    "BasePipeConnector.BlueprintsTab": "",
+    "RocketBase.BlueprintsTab": "",
+    "RocketBaseLadder.BlueprintsTab": "",
+    "RocketStage1.BlueprintsTab": "",
+    "RocketStage2.BlueprintsTab": "",
+    "RocketStage3.BlueprintsTab": "",
+    "DioramaHullPlate.BlueprintsTab": "",
+    "MarkiplierHullPlate.BlueprintsTab": "",
+    "MuyskermHullPlate.BlueprintsTab": "",
+    "LordMinionHullPlate.BlueprintsTab": "",
+    "JackSepticEyeHullPlate.BlueprintsTab": "",
+    "IGPHullPlate.BlueprintsTab": "",
+    "GilathissHullPlate.BlueprintsTab": "",
+    "Marki1.BlueprintsTab": "",
+    "Marki2.BlueprintsTab": "",
+    "JackSepticEye.BlueprintsTab": "",
+    "EatMyDiction.BlueprintsTab": "",
+    "CyclopsHullBlueprint.BlueprintsTab": "",
+    "CyclopsBridgeBlueprint.BlueprintsTab": "",
+    "CyclopsEngineBlueprint.BlueprintsTab": "",
+    "EarlyAccessWatermarkFormat": "{0:MMM-yyyy} {1}",
+    "NotificationBlueprintPickup": "外星科技蓝图",
+    "Tooltip_ReinforcedGloves": "在极端温度下提供物理保护和增强生存的重合成纤维手套。",
+    "VehicleAddedToStorage": "{0} 添加至载具收藏",
+    "TimeCapsuleLabel": "时间胶囊",
+    "TabTimeCapsule": "时间胶囊",
+    "ScreenshotUploadTooltip": "上传图片至相框",
+    "ScreenshotSelect": "选择",
+    "ScreenshotSelectTooltip": "上传图片至时间胶囊",
+    "EncyNotificationTimeCapsule": "获得时间胶囊",
+    "TimeCapsuleStorageLabel": "时间胶囊",
+    "TimeCapsuleStatusLabel": "状态",
+    "TimeCapsuleStorageEmpty": "空的",
+    "TimeCapsuleNoImage": "图像",
+    "TimeCapsuleItemNotAllowed": "无法使用",
+    "TimeCapsuleOpen": "打开时间胶囊",
+    "TimeCapsuleInvalid": "不稳定的时间胶囊",
+    "TimeCapsuleBackButton": "返回",
+    "TimeCapsuleSubmit": "关联于火箭发射",
+    "TimeCapsuleContentFetchError": "无法获取时间胶囊内容",
+    "TimeCapsuleSubmitSuccess": "时间胶囊未正确关联",
+    "TimeCapsuleSubmitFail": "时间胶囊关联失败",
+    "TimeCapsuleValid": "有效",
+    "TimeCapsuleNotValid": "无效 *",
+    "TimeCapsuleRemark": "* 需要详细的标题及信息，且图片有效。",
+    "Ency_HeroPeeper": "携带酶的大眼仔",
+    "EncyDesc_HeroPeeper": "观察到一些大眼仔样本似乎携带一种新的酶，并且行为模式很异常。
+-大眼仔会主动接近平时倾向于远离的生物，包括捕食者。
+-这些生物的共同点是已感染病毒，且病毒不知为何处于抑制状态
+-大眼仔的胃腔含有一些非自生产的酶。这些酶似乎可以抑制疾病的症状
+-这种酶的结构十分复杂，目前无法人工合成
+
+评估：建议仔细寻找酶的来源，可能可以治愈病毒感染",
+    "Ency_CuredCreature": "有感染正装的样本",
+    "EncyDesc_CuredCreature": "扫描表明，这些被感染的生物近期接触了一种独特的酶，这种酶可以短暂地抑制感染症状。
+-皮肤上的疱疹在逐渐消退，取而代之的是健康的组织。
+-行为恢复理性正常。
+-细菌仍然存在于组织和血液中，只是暂时被抑制了。
+
+评估：建议寻找酶的来源",
+    "PrecursorPrisonEggChamberEmperorEgg": "完好的海皇卵",
+    "Ency_PrecursorPrisonEggChamberEmperorEgg": "完好的海皇卵",
+    "EncyDesc_PrecursorPrisonEggChamberEmperorEgg": "扫描显示，还黄赌毒卵正处于自我休眠状态。
+-表面发现很多细密的小孔，应该是已经被人为尝试注入某种物质来触发其孵化反应，但是失败了。",
+    "Ency_AquariumPeeper": "外星设施内的大眼仔",
+    "EncyDesc_AquariumPeeper": "除大眼仔外的其他生物似乎都被关在设施内，大眼仔却可以自发的在外星设施通风管道中自由进出。
+-进入的大眼仔会主动接近海皇利维坦
+-海皇不会因为大眼仔的靠近而感到不适
+-在大眼仔的眼睛接触到海皇分泌的酶之后，会回到管道系统俩开海皇监狱
+分析：这种特别的运输行为应该就是4546B星球上42号酶的来源，一直支持着该星球上的生命的健康。
+-可能也在维持海皇利维坦的生存",
+    "General": "通用",
+    "AntialiasingQuality": "抗锯齿",
+    "Low": "低",
+    "LensDirt": "镜头雾化",
+    "DepthOfField": "景深",
+    "MotionBlurQuality": "动态模糊",
+    "AmbientOcclusion": "环境光散射",
+    "ScreenSpaceReflections": "折光",
+    "ColorGrading": "色阶",
+    "ChromaticAberration": "色差",
+    "Dithering": "抖动显示",
+    "Preset": "预设",
+    "FXAA": "FXAA",
+    "TAA": "TAA",
+    "Custom": "自定义",
+    "Advanced": "高级",
+    "Detail": "细节",
+    "Off": "关闭",
+    "Filmic": "电影模式",
+    "Neutral": "黑白模式",
+    "IntroLaunching": "倒计时发射 3……2……1……###1800",
+    "VitalsOk": "生命体征稳定。",
+    "FoodLow": "饱食度较低。",
+    "FoodCritical": "饱食度极低，请立刻进食。",
+    "FoodVeryLow": "饱食度低，建议进食。",
+    "WaterLow": "水分较低。",
+    "WaterCritical": "水分极低，请立刻饮水。",
+    "WaterVeryLow": "水分低，建议饮水。",
+    "Goal_UnlockRadSuit": "为了您的安全，防辐射服已添加到您的蓝图数据库。",
+    "Goal_LocationAuroraDriveInterior": "警告：局部辐射达到临界值。",
+    "Goal_LocationAuroraExoRoom": "发现微弱的黑盒子信号，来自船体缺口的另一边。",
+    "CyclopsHullModule3": "独眼巨人号高级抗压模组",
+    "Tooltip_CyclopsHullModule3": "将安全下潜深度提高至最大，效果无法叠加。",
+    "WorkbenchMenu_ExosuitMenu": "海虾号升级",
+    "CyclopsHullModule2.TooltipIngredient": "",
+    "CyclopsHullModule3.TooltipIngredient": "",
+    "CyclopsHullModule3.BlueprintsTab": "",
+    "ExoHullModule2.BlueprintsTab": "",
+    "DepthWarning100": "警告:深度超过100米。氧效率降低。",
+    "DepthWarning200": "警告:深度超过200米。氧效率大大降低。",
+    "LanguageVietnamese": "越南语",
+    "LanguageIrish": "爱尔兰语",
+    "SeamothObstacle": "海蛾号挡住了",
+    "ExosuitObstacle": "海虾号挡住了",
+    "DiveReelResetNodes": "清除节点 ({0})",
+    "Ency_Blighter": "讨厌鬼",
+    "EncyDesc_Blighter": "和食人鱼很像的小型捕食者，但是一般单独行动。
+感官：头上的红色突出是感觉器官，但其已经进化为诱捕器官，当猎物欣赏其特殊的色彩和动作时，讨厌鬼会趁机发起攻击。
+牙齿：很锋利，可以撕碎猎物。
+眼睛：感光能力较弱。
+
+评估：避免接触",
+    "Ency_Spinefish": "刺头鱼",
+    "EncyDesc_Spinefish": "小型群居动物，和圈圈鱼是亲戚。
+灰色：着色迷惑捕食者，看上去没有生命气息。
+行为：群居寻求保护，但危险情况也会四散逃离。
+
+评估：可食用，热量低",
+    "Ency_Rockgrub": "沙虫",
+    "EncyDesc_Rockgrub": "拇指大小的食腐动物，会发光。可能是沙鲨的远亲。
+颌：圆形牙齿用来撕碎食物。
+四肢：手臂和巨大的鳍状肢体，让沙虫可以到处爬行捕食，或逃离危险。
+绿光：怎么都觉得这种光线会让其更加鲜艳，招来杀身之祸，但这也可能是一种交配行为。
+
+评估：无害生物",
+    "Ency_BloodCrawler": "跳跳鱼",
+    "EncyDesc_BloodCrawler": "这是一种敏捷的、具有较强领地意识的食腐动物，它们成群结队地在海床上移动。
+1.腿:
+在4546B星球上，爬虫的最大特点是四条腿，它从躯干向外延伸超过一米，使它能够以惊人的速度在海床上移动，甚至可以附着到墙上。
+2.躯干:
+跳跳鱼可以降低它的整个身体，使它的下颚在它所吃的腐肉的抓取距离内，同时保证避开捕食者的机动能力。
+
+评估:对生态环境极为重要的清道夫",
+    "Ency_TimeCapsule": "时间胶囊",
+    "EncyDesc_TimeCapsule": "这些坚固的容器被设计用来储存书面和照片的证据供以后的检索。时间胶囊通常是由被落单的幸存者制作，以此帮助那些在未来陷入同样困境的人，或者留下他们的困境的证据，这些证据可能在他们的身体腐烂后很久才发现。最紧急的紧急逃生装置通常在驾驶舱里配备一个时间胶囊。阿尔特拉要求时间胶囊里备有必要的工具和资源，这些工具和资源将能够帮助那些在未来发现它们的人。",
+    "AreYouSureUnsaved": "你确定吗？未保存的进度将消失。",
+    "TimeSinceLastSave": "上次保存距现在 {0}",
+    "Rocket_Emperor": "波浪没有了海洋，还算什么？
+A 还是没有了结束，还算什么###1000
+他们虽然完全不同，却又紧密相连###500
+现在，你将要进入星际，我则归于尘土###500
+我们不一样###500
+但我们，曾经相聚###500",
+    "Tooltip_HangingFruitTree": "长满水果的树",
+    "EncyPath_Lifeforms\/Fauna\/Rays": "鳐类",
+    "EncyPath_Lifeforms\/Fauna\/Sharks": "鲨类",
+    "EncyPath_Lifeforms\/Fauna\/Leviathans": "利维坦类",
+    "EncyPath_Lifeforms\/Fauna\/Other": "其他捕食者",
+    "EncyPath_Lifeforms\/Fauna\/SmallHerbivores": "小型食草动物",
+    "EncyPath_Lifeforms\/Fauna\/LargeHerbivores": "大型食草动物",
+    "Ency_RaysAdvanced": "阿尔法鳐",
+    "EncyDesc_RaysAdvanced": "损坏",
+    "Ency_AlphaPeeper": "阿尔法大眼仔",
+    "EncyDesc_AlphaPeeper": "通过已获得的数据，我们可以找出现在的大眼仔和其大所有小型鱼类的共同祖先。
+在光线充足的水域，小体型的食草动物很容易被捕杀，随着时间的推移，它可能进化出光敏皮肤，使其能够比其他生物更容易检测到周围环境中的威胁，随着物种的繁衍，它会变成小眼仔和雷纳鱼这样的亚种。这一理论认为，在过去的千年中，4546B星球的生物经历了一段时间的快速进化，以应对外来的威胁事件。
+
+评估：已灭绝",
+    "Ency_ReefbackBarnacles": "礁背鱼藤壶",
+    "EncyDesc_ReefbackBarnacles": "和大多数藤壶不同，它们不在集中生长，而是单独在礁背鱼背上生长。当礁背鱼越来越老，身上留下沟壑形的伤疤，藤壶可以在沟壑里收集泥土和金属的混合物。
+
+评估：可以提供金属资源",
+    "Ency_UnknownEgg": "外星生物卵",
+    "EncyDesc_UnknownEgg": "数据表明，该星球并非所有物种都是产卵繁殖，但可以说绝大多数都是。人们会在海底，在岩石下，石缝中发现卵，不同的物种偏好在不同的生态系统产卵。在一些野外发现的卵可能处在休眠状态，等待合适的孵化时机，或者需要特殊的酶来触发孵化条件。",
+    "Rocket_ReadyGunStillActive": "检疫执法平台尚未关闭，无法发射火箭。",
+    "HandholdingOverLong": "外星研究设施的数据和位置将需要你的探索和思考此才能发现，进一步的数据收容在数据库中，祝你好运。",
+    "HandholdingOverShort": "从现在起，讲没有信号指引你要去哪里，进一步的信息请参考数据库。",
+    "RadioRadiationSuitNoSignalAlt": "坐标数据损坏，已收录近似源信号至数据库。",
+    "Ency_RadioRadiationSuitNoSignalAltDatabank": "4号逃生舱原始传输",
+    "EncyDesc_RadioRadiationSuitNoSignalAltDatabank": "收到4号逃生舱的遇险信号，但是坐标文件损坏。
+该逃生舱应该位于海平面上，因为漂浮装置仍在工作。
+离极光号辐射区很近，大概在极光号港口中段的西北处150米。",
+    "RadioMushroom24NoSignalAlt": "坐标数据损坏，已收录近似源信号至数据库。",
+    "Ency_RadioMushroom24NoSignalAltDatabank": "13号逃生舱原始传输",
+    "EncyDesc_RadioMushroom24NoSignalAltDatabank": "收到13号逃生舱的遇险信号，但是坐标文件损坏。
+报告如下：
+-逃生舱搭载最高优先级乘客，约什·卡萨
+-沉至200米深水下
+-地点位于蘑菇森林巨型蘑菇西南100米处",
+    "RadioGrassy25NoSignalAlt": "坐标数据损坏，已收录近似源信号至数据库。",
+    "Ency_RadioGrassy25NoSignalAltDatabank": "3号逃生舱原始传输",
+    "EncyDesc_RadioGrassy25NoSignalAltDatabank": "收到3号逃生舱的遇险信号，但是坐标文件损坏。
+-船员困扰于浅水区的海藻和藤蔓
+-在极光号船尾西北偏北大约1000米",
+    "RadioShallows22NoSignalAlt": "坐标数据损坏，已收录近似源信号至数据库。",
+    "Ency_RadioShallows22NoSignalAltDatabank": "6号逃生舱原始传输",
+    "EncyDesc_RadioShallows22NoSignalAltDatabank": "收到6号逃生舱的遇险信号，但是坐标文件损坏。
+-船员需要防辐射设备
+-沉到100米以下的悬崖边
+-在生长着茂密红色水草的海域
+-最后信号来自4号逃生舱西北方向400米",
+    "RadioKelp28NoSignalAlt": "坐标数据损坏，已收录近似源信号至数据库。",
+    "Ency_RadioKelp28NoSignalAltDatabank": "7号逃生舱原始传输",
+    "EncyDesc_RadioKelp28NoSignalAltDatabank": "收到7号逃生舱的预先信号，但是坐标数据损坏了。
+-遇难者报告他们的工作台不好用
+-他们沉到了200眯一下一片低生态活动，地质构造奇特的海域，在极光号船尾西南1公里处",
+    "VoiceVolume": "语音音量",
+    "AmbientVolume": "环境音量",
+    "InvalidConstructorPlacement": "需要在更深水里建造",
+    "PDAGalleryScreenshotTaken": "截图已保存",
+    "HandholdingIntro": "这款游戏不会手把手地教你玩，这里没有地图和指南，你要靠自己的聪明才智绘制这个海底世界的地图，根据这些线索发现游戏中的秘密。",
+    "AdviseSelfScan": "检测到细菌含量上升，建议自扫描。",
+    "ExoHullModule1.TooltipIngredient": "",
+    "PrecursorIonBattery.TooltipIngredient": "",
+    "EnterRocket": "进入火箭",
+    "ExitRocket": "离开火箭",
+    "TimeCapsuleTitlePlaceholder": "标题",
+    "TimeCapsuleTextPlaceholder": "信息",
+    "RocketName": "火箭名",
+    "RocketColor": "火箭颜色"
+}
